@@ -1,0 +1,670 @@
+{
+  "provenance": {
+    "gold_file_path": "C:\\Users\\1rog\\dta_project\\annotation\\sheets\\gold_standard_eval_150.xlsx",
+    "gold_file_mtime": "2026-09-24 00:17:38",
+    "gold_file_sheet0": "Sheet1",
+    "gold_file_a1": "sample_id",
+    "claude_file_path": "C:\\Users\\1rog\\dta_project\\cache\\stage2_p4_predictions.json",
+    "claude_file_mtime": "2026-09-26 17:14:12",
+    "qwen_file_path": "C:\\Users\\1rog\\dta_project\\cache\\qwen_stage2_p4_predictions.json",
+    "qwen_file_mtime": "2026-09-26 18:10:43"
+  },
+  "icc_audit_explanation": {
+    "Bond": {
+      "old_icc11": 0.6838,
+      "corrected_icc21": 0.6837,
+      "valid_n": 121,
+      "reason": "calc_icc_safe matched ICC(1,1) via regex ICC1; ICC(A,1) is Two-way random absolute agreement ICC(2,1)"
+    },
+    "Goal": {
+      "old_icc11": 0.4584,
+      "corrected_icc21": 0.4679,
+      "valid_n": 122,
+      "reason": "calc_icc_safe matched ICC(1,1) via regex ICC1; ICC(A,1) is Two-way random absolute agreement ICC(2,1)"
+    },
+    "Task": {
+      "old_icc11": 0.2579,
+      "corrected_icc21": 0.2786,
+      "valid_n": 30,
+      "reason": "calc_icc_safe matched ICC(1,1) via regex ICC1; ICC(A,1) is Two-way random absolute agreement ICC(2,1)"
+    }
+  },
+  "verified_subgroup_metrics": {
+    "Combined": {
+      "Claude_vs_Human": {
+        "Bond": {
+          "total_n": 150,
+          "valid_n": 121,
+          "both_na_count": 7,
+          "cm_2x2": {
+            "tn_na": 7,
+            "fp_num": 16,
+            "fn_num": 6,
+            "tp_num": 121
+          },
+          "icc21": 0.6837,
+          "qwk": 0.6819,
+          "mae": 0.3554,
+          "num_exact_count": 82,
+          "num_exact_pct": 67.77,
+          "overall_exact_count": 89,
+          "overall_exact_pct": 59.33,
+          "na_dec_agree_pct": 85.33,
+          "na_kappa": 0.3128
+        },
+        "Goal": {
+          "total_n": 150,
+          "valid_n": 122,
+          "both_na_count": 7,
+          "cm_2x2": {
+            "tn_na": 7,
+            "fp_num": 17,
+            "fn_num": 4,
+            "tp_num": 122
+          },
+          "icc21": 0.4679,
+          "qwk": 0.4659,
+          "mae": 0.5328,
+          "num_exact_count": 65,
+          "num_exact_pct": 53.28,
+          "overall_exact_count": 72,
+          "overall_exact_pct": 48.0,
+          "na_dec_agree_pct": 86.0,
+          "na_kappa": 0.3329
+        },
+        "Task": {
+          "total_n": 150,
+          "valid_n": 30,
+          "both_na_count": 97,
+          "cm_2x2": {
+            "tn_na": 97,
+            "fp_num": 17,
+            "fn_num": 6,
+            "tp_num": 30
+          },
+          "icc21": 0.2786,
+          "qwk": 0.2718,
+          "mae": 0.6333,
+          "num_exact_count": 14,
+          "num_exact_pct": 46.67,
+          "overall_exact_count": 111,
+          "overall_exact_pct": 74.0,
+          "na_dec_agree_pct": 84.67,
+          "na_kappa": 0.6195
+        },
+        "macro_averages": {
+          "macro_icc21": 0.4767,
+          "macro_qwk": 0.4732,
+          "macro_mae": 0.5072,
+          "macro_num_exact_pct": 55.91,
+          "macro_overall_exact_pct": 60.44,
+          "macro_na_agree_pct": 85.33
+        }
+      },
+      "Qwen_vs_Human": {
+        "Bond": {
+          "total_n": 150,
+          "valid_n": 108,
+          "both_na_count": 13,
+          "cm_2x2": {
+            "tn_na": 13,
+            "fp_num": 29,
+            "fn_num": 0,
+            "tp_num": 108
+          },
+          "icc21": 0.7054,
+          "qwk": 0.7034,
+          "mae": 0.3796,
+          "num_exact_count": 68,
+          "num_exact_pct": 62.96,
+          "overall_exact_count": 81,
+          "overall_exact_pct": 54.0,
+          "na_dec_agree_pct": 80.67,
+          "na_kappa": 0.3923
+        },
+        "Goal": {
+          "total_n": 150,
+          "valid_n": 108,
+          "both_na_count": 11,
+          "cm_2x2": {
+            "tn_na": 11,
+            "fp_num": 31,
+            "fn_num": 0,
+            "tp_num": 108
+          },
+          "icc21": 0.634,
+          "qwk": 0.6318,
+          "mae": 0.3519,
+          "num_exact_count": 72,
+          "num_exact_pct": 66.67,
+          "overall_exact_count": 83,
+          "overall_exact_pct": 55.33,
+          "na_dec_agree_pct": 79.33,
+          "na_kappa": 0.3382
+        },
+        "Task": {
+          "total_n": 150,
+          "valid_n": 31,
+          "both_na_count": 102,
+          "cm_2x2": {
+            "tn_na": 102,
+            "fp_num": 16,
+            "fn_num": 1,
+            "tp_num": 31
+          },
+          "icc21": 0.5799,
+          "qwk": 0.5719,
+          "mae": 0.4839,
+          "num_exact_count": 17,
+          "num_exact_pct": 54.84,
+          "overall_exact_count": 119,
+          "overall_exact_pct": 79.33,
+          "na_dec_agree_pct": 88.67,
+          "na_kappa": 0.7116
+        },
+        "macro_averages": {
+          "macro_icc21": 0.6398,
+          "macro_qwk": 0.6357,
+          "macro_mae": 0.4051,
+          "macro_num_exact_pct": 61.49,
+          "macro_overall_exact_pct": 62.89,
+          "macro_na_agree_pct": 82.89
+        }
+      },
+      "Claude_vs_Qwen": {
+        "Bond": {
+          "total_n": 150,
+          "valid_n": 98,
+          "both_na_count": 13,
+          "cm_2x2": {
+            "tn_na": 13,
+            "fp_num": 10,
+            "fn_num": 29,
+            "tp_num": 98
+          },
+          "icc21": 0.6387,
+          "qwk": 0.6363,
+          "mae": 0.4286,
+          "num_exact_count": 61,
+          "num_exact_pct": 62.24,
+          "overall_exact_count": 74,
+          "overall_exact_pct": 49.33,
+          "na_dec_agree_pct": 74.0,
+          "na_kappa": 0.2517
+        },
+        "Goal": {
+          "total_n": 150,
+          "valid_n": 98,
+          "both_na_count": 14,
+          "cm_2x2": {
+            "tn_na": 14,
+            "fp_num": 10,
+            "fn_num": 28,
+            "tp_num": 98
+          },
+          "icc21": 0.5849,
+          "qwk": 0.5824,
+          "mae": 0.4796,
+          "num_exact_count": 52,
+          "num_exact_pct": 53.06,
+          "overall_exact_count": 66,
+          "overall_exact_pct": 44.0,
+          "na_dec_agree_pct": 74.67,
+          "na_kappa": 0.277
+        },
+        "Task": {
+          "total_n": 150,
+          "valid_n": 26,
+          "both_na_count": 108,
+          "cm_2x2": {
+            "tn_na": 108,
+            "fp_num": 6,
+            "fn_num": 10,
+            "tp_num": 26
+          },
+          "icc21": 0.6127,
+          "qwk": 0.6034,
+          "mae": 0.3462,
+          "num_exact_count": 17,
+          "num_exact_pct": 65.38,
+          "overall_exact_count": 125,
+          "overall_exact_pct": 83.33,
+          "na_dec_agree_pct": 89.33,
+          "na_kappa": 0.696
+        },
+        "macro_averages": {
+          "macro_icc21": 0.6121,
+          "macro_qwk": 0.6074,
+          "macro_mae": 0.4181,
+          "macro_num_exact_pct": 60.23,
+          "macro_overall_exact_pct": 58.89,
+          "macro_na_agree_pct": 79.33
+        }
+      }
+    },
+    "ESConv": {
+      "Claude_vs_Human": {
+        "Bond": {
+          "total_n": 100,
+          "valid_n": 81,
+          "both_na_count": 4,
+          "cm_2x2": {
+            "tn_na": 4,
+            "fp_num": 12,
+            "fn_num": 3,
+            "tp_num": 81
+          },
+          "icc21": 0.5934,
+          "qwk": 0.5904,
+          "mae": 0.3951,
+          "num_exact_count": 53,
+          "num_exact_pct": 65.43,
+          "overall_exact_count": 57,
+          "overall_exact_pct": 57.0,
+          "na_dec_agree_pct": 85.0,
+          "na_kappa": 0.2775
+        },
+        "Goal": {
+          "total_n": 100,
+          "valid_n": 79,
+          "both_na_count": 5,
+          "cm_2x2": {
+            "tn_na": 5,
+            "fp_num": 12,
+            "fn_num": 4,
+            "tp_num": 79
+          },
+          "icc21": 0.4483,
+          "qwk": 0.4452,
+          "mae": 0.557,
+          "num_exact_count": 41,
+          "num_exact_pct": 51.9,
+          "overall_exact_count": 46,
+          "overall_exact_pct": 46.0,
+          "na_dec_agree_pct": 84.0,
+          "na_kappa": 0.3025
+        },
+        "Task": {
+          "total_n": 100,
+          "valid_n": 26,
+          "both_na_count": 59,
+          "cm_2x2": {
+            "tn_na": 59,
+            "fp_num": 14,
+            "fn_num": 1,
+            "tp_num": 26
+          },
+          "icc21": 0.2669,
+          "qwk": 0.2593,
+          "mae": 0.6154,
+          "num_exact_count": 12,
+          "num_exact_pct": 46.15,
+          "overall_exact_count": 71,
+          "overall_exact_pct": 71.0,
+          "na_dec_agree_pct": 85.0,
+          "na_kappa": 0.6696
+        },
+        "macro_averages": {
+          "macro_icc21": 0.4362,
+          "macro_qwk": 0.4316,
+          "macro_mae": 0.5225,
+          "macro_num_exact_pct": 54.49,
+          "macro_overall_exact_pct": 58.0,
+          "macro_na_agree_pct": 84.67
+        }
+      },
+      "Qwen_vs_Human": {
+        "Bond": {
+          "total_n": 100,
+          "valid_n": 81,
+          "both_na_count": 7,
+          "cm_2x2": {
+            "tn_na": 7,
+            "fp_num": 12,
+            "fn_num": 0,
+            "tp_num": 81
+          },
+          "icc21": 0.6975,
+          "qwk": 0.6949,
+          "mae": 0.321,
+          "num_exact_count": 56,
+          "num_exact_pct": 69.14,
+          "overall_exact_count": 63,
+          "overall_exact_pct": 63.0,
+          "na_dec_agree_pct": 88.0,
+          "na_kappa": 0.4859
+        },
+        "Goal": {
+          "total_n": 100,
+          "valid_n": 81,
+          "both_na_count": 9,
+          "cm_2x2": {
+            "tn_na": 9,
+            "fp_num": 10,
+            "fn_num": 0,
+            "tp_num": 81
+          },
+          "icc21": 0.5699,
+          "qwk": 0.5668,
+          "mae": 0.3951,
+          "num_exact_count": 51,
+          "num_exact_pct": 62.96,
+          "overall_exact_count": 60,
+          "overall_exact_pct": 60.0,
+          "na_dec_agree_pct": 90.0,
+          "na_kappa": 0.5932
+        },
+        "Task": {
+          "total_n": 100,
+          "valid_n": 28,
+          "both_na_count": 60,
+          "cm_2x2": {
+            "tn_na": 60,
+            "fp_num": 12,
+            "fn_num": 0,
+            "tp_num": 28
+          },
+          "icc21": 0.6124,
+          "qwk": 0.6038,
+          "mae": 0.4286,
+          "num_exact_count": 16,
+          "num_exact_pct": 57.14,
+          "overall_exact_count": 76,
+          "overall_exact_pct": 76.0,
+          "na_dec_agree_pct": 88.0,
+          "na_kappa": 0.7368
+        },
+        "macro_averages": {
+          "macro_icc21": 0.6266,
+          "macro_qwk": 0.6218,
+          "macro_mae": 0.3816,
+          "macro_num_exact_pct": 63.08,
+          "macro_overall_exact_pct": 66.33,
+          "macro_na_agree_pct": 88.67
+        }
+      },
+      "Claude_vs_Qwen": {
+        "Bond": {
+          "total_n": 100,
+          "valid_n": 72,
+          "both_na_count": 7,
+          "cm_2x2": {
+            "tn_na": 7,
+            "fp_num": 9,
+            "fn_num": 12,
+            "tp_num": 72
+          },
+          "icc21": 0.6233,
+          "qwk": 0.62,
+          "mae": 0.375,
+          "num_exact_count": 48,
+          "num_exact_pct": 66.67,
+          "overall_exact_count": 55,
+          "overall_exact_pct": 55.0,
+          "na_dec_agree_pct": 79.0,
+          "na_kappa": 0.2739
+        },
+        "Goal": {
+          "total_n": 100,
+          "valid_n": 72,
+          "both_na_count": 8,
+          "cm_2x2": {
+            "tn_na": 8,
+            "fp_num": 9,
+            "fn_num": 11,
+            "tp_num": 72
+          },
+          "icc21": 0.5676,
+          "qwk": 0.5641,
+          "mae": 0.4861,
+          "num_exact_count": 38,
+          "num_exact_pct": 52.78,
+          "overall_exact_count": 46,
+          "overall_exact_pct": 46.0,
+          "na_dec_agree_pct": 80.0,
+          "na_kappa": 0.323
+        },
+        "Task": {
+          "total_n": 100,
+          "valid_n": 23,
+          "both_na_count": 68,
+          "cm_2x2": {
+            "tn_na": 68,
+            "fp_num": 5,
+            "fn_num": 4,
+            "tp_num": 23
+          },
+          "icc21": 0.6244,
+          "qwk": 0.6139,
+          "mae": 0.3043,
+          "num_exact_count": 16,
+          "num_exact_pct": 69.57,
+          "overall_exact_count": 84,
+          "overall_exact_pct": 84.0,
+          "na_dec_agree_pct": 91.0,
+          "na_kappa": 0.7743
+        },
+        "macro_averages": {
+          "macro_icc21": 0.6051,
+          "macro_qwk": 0.5993,
+          "macro_mae": 0.3885,
+          "macro_num_exact_pct": 63.01,
+          "macro_overall_exact_pct": 61.67,
+          "macro_na_agree_pct": 83.33
+        }
+      }
+    },
+    "AnnoMI": {
+      "Claude_vs_Human": {
+        "Bond": {
+          "total_n": 50,
+          "valid_n": 40,
+          "both_na_count": 3,
+          "cm_2x2": {
+            "tn_na": 3,
+            "fp_num": 4,
+            "fn_num": 3,
+            "tp_num": 40
+          },
+          "icc21": 0.832,
+          "qwk": 0.8284,
+          "mae": 0.275,
+          "num_exact_count": 29,
+          "num_exact_pct": 72.5,
+          "overall_exact_count": 32,
+          "overall_exact_pct": 64.0,
+          "na_dec_agree_pct": 86.0,
+          "na_kappa": 0.3816
+        },
+        "Goal": {
+          "total_n": 50,
+          "valid_n": 43,
+          "both_na_count": 2,
+          "cm_2x2": {
+            "tn_na": 2,
+            "fp_num": 5,
+            "fn_num": 0,
+            "tp_num": 43
+          },
+          "icc21": 0.3993,
+          "qwk": 0.3937,
+          "mae": 0.4884,
+          "num_exact_count": 24,
+          "num_exact_pct": 55.81,
+          "overall_exact_count": 26,
+          "overall_exact_pct": 52.0,
+          "na_dec_agree_pct": 90.0,
+          "na_kappa": 0.4076
+        },
+        "Task": {
+          "total_n": 50,
+          "valid_n": 4,
+          "both_na_count": 38,
+          "cm_2x2": {
+            "tn_na": 38,
+            "fp_num": 3,
+            "fn_num": 5,
+            "tp_num": 4
+          },
+          "icc21": -0.3636,
+          "qwk": -0.25,
+          "mae": 0.75,
+          "num_exact_count": 2,
+          "num_exact_pct": 50.0,
+          "overall_exact_count": 40,
+          "overall_exact_pct": 80.0,
+          "na_dec_agree_pct": 84.0,
+          "na_kappa": 0.4065
+        },
+        "macro_averages": {
+          "macro_icc21": 0.2892,
+          "macro_qwk": 0.324,
+          "macro_mae": 0.5045,
+          "macro_num_exact_pct": 59.44,
+          "macro_overall_exact_pct": 65.33,
+          "macro_na_agree_pct": 86.67
+        }
+      },
+      "Qwen_vs_Human": {
+        "Bond": {
+          "total_n": 50,
+          "valid_n": 27,
+          "both_na_count": 6,
+          "cm_2x2": {
+            "tn_na": 6,
+            "fp_num": 17,
+            "fn_num": 0,
+            "tp_num": 27
+          },
+          "icc21": 0.7072,
+          "qwk": 0.6993,
+          "mae": 0.5556,
+          "num_exact_count": 12,
+          "num_exact_pct": 44.44,
+          "overall_exact_count": 18,
+          "overall_exact_pct": 36.0,
+          "na_dec_agree_pct": 66.0,
+          "na_kappa": 0.276
+        },
+        "Goal": {
+          "total_n": 50,
+          "valid_n": 27,
+          "both_na_count": 2,
+          "cm_2x2": {
+            "tn_na": 2,
+            "fp_num": 21,
+            "fn_num": 0,
+            "tp_num": 27
+          },
+          "icc21": 0.7301,
+          "qwk": 0.7226,
+          "mae": 0.2222,
+          "num_exact_count": 21,
+          "num_exact_pct": 77.78,
+          "overall_exact_count": 23,
+          "overall_exact_pct": 46.0,
+          "na_dec_agree_pct": 58.0,
+          "na_kappa": 0.0933
+        },
+        "Task": {
+          "total_n": 50,
+          "valid_n": 3,
+          "both_na_count": 42,
+          "cm_2x2": {
+            "tn_na": 42,
+            "fp_num": 4,
+            "fn_num": 1,
+            "tp_num": 3
+          },
+          "icc21": 0.0,
+          "qwk": 0.0,
+          "mae": 1.0,
+          "num_exact_count": 1,
+          "num_exact_pct": 33.33,
+          "overall_exact_count": 43,
+          "overall_exact_pct": 86.0,
+          "na_dec_agree_pct": 90.0,
+          "na_kappa": 0.4939
+        },
+        "macro_averages": {
+          "macro_icc21": 0.4791,
+          "macro_qwk": 0.474,
+          "macro_mae": 0.5926,
+          "macro_num_exact_pct": 51.85,
+          "macro_overall_exact_pct": 56.0,
+          "macro_na_agree_pct": 71.33
+        }
+      },
+      "Claude_vs_Qwen": {
+        "Bond": {
+          "total_n": 50,
+          "valid_n": 26,
+          "both_na_count": 6,
+          "cm_2x2": {
+            "tn_na": 6,
+            "fp_num": 1,
+            "fn_num": 17,
+            "tp_num": 26
+          },
+          "icc21": 0.6575,
+          "qwk": 0.6486,
+          "mae": 0.5769,
+          "num_exact_count": 13,
+          "num_exact_pct": 50.0,
+          "overall_exact_count": 19,
+          "overall_exact_pct": 38.0,
+          "na_dec_agree_pct": 64.0,
+          "na_kappa": 0.236
+        },
+        "Goal": {
+          "total_n": 50,
+          "valid_n": 26,
+          "both_na_count": 6,
+          "cm_2x2": {
+            "tn_na": 6,
+            "fp_num": 1,
+            "fn_num": 17,
+            "tp_num": 26
+          },
+          "icc21": 0.581,
+          "qwk": 0.5714,
+          "mae": 0.4615,
+          "num_exact_count": 14,
+          "num_exact_pct": 53.85,
+          "overall_exact_count": 20,
+          "overall_exact_pct": 40.0,
+          "na_dec_agree_pct": 64.0,
+          "na_kappa": 0.236
+        },
+        "Task": {
+          "total_n": 50,
+          "valid_n": 3,
+          "both_na_count": 40,
+          "cm_2x2": {
+            "tn_na": 40,
+            "fp_num": 1,
+            "fn_num": 6,
+            "tp_num": 3
+          },
+          "icc21": 0.3333,
+          "qwk": 0.25,
+          "mae": 0.6667,
+          "num_exact_count": 1,
+          "num_exact_pct": 33.33,
+          "overall_exact_count": 41,
+          "overall_exact_pct": 82.0,
+          "na_dec_agree_pct": 86.0,
+          "na_kappa": 0.3945
+        },
+        "macro_averages": {
+          "macro_icc21": 0.5239,
+          "macro_qwk": 0.49,
+          "macro_mae": 0.5684,
+          "macro_num_exact_pct": 45.73,
+          "macro_overall_exact_pct": 53.33,
+          "macro_na_agree_pct": 71.33
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,802 @@
+{
+  "metadata": {
+    "title": "Study 2 Formal Statistical Analysis Report",
+    "created_at": "2026-09-26T21:24:32+08:00",
+    "input_provenance": {
+      "s1_claude": {
+        "exists": true,
+        "path": "C:\\Users\\1rog\\dta_project\\cache\\stage2_p4_predictions.json",
+        "size_bytes": 613846,
+        "sha256": "a5c4752bf496153b2019eb37420e622332858c55dafc8049db2a17c2ee4d818b",
+        "modified_at": "2026-09-26T17:14:12+08:00"
+      },
+      "s1_qwen": {
+        "exists": true,
+        "path": "C:\\Users\\1rog\\dta_project\\cache\\qwen_stage2_p4_predictions.json",
+        "size_bytes": 83347,
+        "sha256": "6296532ce6d11a98e84fc8812291dd2f74df4de914c193ca883b9318617033d0",
+        "modified_at": "2026-09-26T18:10:43+08:00"
+      },
+      "s2_ai": {
+        "exists": true,
+        "path": "C:\\Users\\1rog\\dta_project\\cache\\study2_ai_responses.json",
+        "size_bytes": 429711,
+        "sha256": "4cc845e5a3d6af900f368a5e6e1e7538baf636abcd83dee421c6a196e0875148",
+        "modified_at": "2026-09-26T19:11:57+08:00"
+      },
+      "s2_map": {
+        "exists": true,
+        "path": "C:\\Users\\1rog\\dta_project\\cache\\study2_anonymization_map.json",
+        "size_bytes": 440859,
+        "sha256": "cda5486fae893ddb137d15e1427eaf27a32fb8e2bd103a32be6f71b6d7edbf45",
+        "modified_at": "2026-09-26T19:21:59+08:00"
+      },
+      "s2_claude": {
+        "exists": true,
+        "path": "C:\\Users\\1rog\\dta_project\\cache\\study2_claude_eval_predictions.json",
+        "size_bytes": 2500072,
+        "sha256": "d58e4f05a0e53ac59e48785bb8532e135b0f967e3f7851d9b2e5b128cc41634b",
+        "modified_at": "2026-09-26T20:58:32+08:00"
+      },
+      "s2_qwen": {
+        "exists": true,
+        "path": "C:\\Users\\1rog\\dta_project\\cache\\study2_qwen_eval_predictions.json",
+        "size_bytes": 271886,
+        "sha256": "bea321b07dd43fd53c8f92403307474367622c7369b1557d197bfc15a53ac248",
+        "modified_at": "2026-09-26T20:38:24+08:00"
+      },
+      "config": {
+        "exists": true,
+        "path": "C:\\Users\\1rog\\dta_project\\config\\judge_p4_config.json",
+        "size_bytes": 3496,
+        "sha256": "330089e1606beaf3af69729ba73030ff8db2324aff253c1e90f0e1adf3fcef44",
+        "modified_at": "2026-09-26T16:05:09+08:00"
+      },
+      "rubric": {
+        "exists": true,
+        "path": "C:\\Users\\1rog\\dta_project\\rubric\\DTA_Rubric.md",
+        "size_bytes": 19265,
+        "sha256": "522640ead6e9118a7f82f760df0cdd87ec6b8da3b9129c9587ec9c3b5dc0e9f2",
+        "modified_at": "2026-09-10T02:19:44+08:00"
+      }
+    }
+  },
+  "table5_human_consistency_audit": [
+    {
+      "Judge": "Claude",
+      "Dimension": "Bond",
+      "Total N": 150,
+      "Exact Match Count": 94,
+      "Exact Match %": "62.67%",
+      "Both Numeric N": 119,
+      "Numeric MAE": 0.2689,
+      "Both N/A N": 4,
+      "N/A Status Changed N": 27
+    },
+    {
+      "Judge": "Claude",
+      "Dimension": "Goal",
+      "Total N": 150,
+      "Exact Match Count": 78,
+      "Exact Match %": "52.0%",
+      "Both Numeric N": 118,
+      "Numeric MAE": 0.4322,
+      "Both N/A N": 4,
+      "N/A Status Changed N": 28
+    },
+    {
+      "Judge": "Claude",
+      "Dimension": "Task",
+      "Total N": 150,
+      "Exact Match Count": 111,
+      "Exact Match %": "74.0%",
+      "Both Numeric N": 27,
+      "Numeric MAE": 0.4815,
+      "Both N/A N": 95,
+      "N/A Status Changed N": 28
+    },
+    {
+      "Judge": "Qwen",
+      "Dimension": "Bond",
+      "Total N": 150,
+      "Exact Match Count": 139,
+      "Exact Match %": "92.67%",
+      "Both Numeric N": 107,
+      "Numeric MAE": 0.0654,
+      "Both N/A N": 39,
+      "N/A Status Changed N": 4
+    },
+    {
+      "Judge": "Qwen",
+      "Dimension": "Goal",
+      "Total N": 150,
+      "Exact Match Count": 140,
+      "Exact Match %": "93.33%",
+      "Both Numeric N": 107,
+      "Numeric MAE": 0.0467,
+      "Both N/A N": 38,
+      "N/A Status Changed N": 5
+    },
+    {
+      "Judge": "Qwen",
+      "Dimension": "Task",
+      "Total N": 150,
+      "Exact Match Count": 143,
+      "Exact Match %": "95.33%",
+      "Both Numeric N": 31,
+      "Numeric MAE": 0.129,
+      "Both N/A N": 116,
+      "N/A Status Changed N": 3
+    }
+  ],
+  "table_s2_test_retest_agreement": [
+    {
+      "Judge": "Claude",
+      "Dimension": "Bond",
+      "Both NA": 4,
+      "Both Numeric": 119,
+      "NA -> Numeric": 19,
+      "Numeric -> NA": 8,
+      "N/A Agreement": "82.0%"
+    },
+    {
+      "Judge": "Claude",
+      "Dimension": "Goal",
+      "Both NA": 4,
+      "Both Numeric": 118,
+      "NA -> Numeric": 20,
+      "Numeric -> NA": 8,
+      "N/A Agreement": "81.33%"
+    },
+    {
+      "Judge": "Claude",
+      "Dimension": "Task",
+      "Both NA": 95,
+      "Both Numeric": 27,
+      "NA -> Numeric": 19,
+      "Numeric -> NA": 9,
+      "N/A Agreement": "81.33%"
+    },
+    {
+      "Judge": "Qwen",
+      "Dimension": "Bond",
+      "Both NA": 39,
+      "Both Numeric": 107,
+      "NA -> Numeric": 3,
+      "Numeric -> NA": 1,
+      "N/A Agreement": "97.33%"
+    },
+    {
+      "Judge": "Qwen",
+      "Dimension": "Goal",
+      "Both NA": 38,
+      "Both Numeric": 107,
+      "NA -> Numeric": 4,
+      "Numeric -> NA": 1,
+      "N/A Agreement": "96.67%"
+    },
+    {
+      "Judge": "Qwen",
+      "Dimension": "Task",
+      "Both NA": 116,
+      "Both Numeric": 31,
+      "NA -> Numeric": 2,
+      "Numeric -> NA": 1,
+      "N/A Agreement": "98.0%"
+    }
+  ],
+  "table6_paired_statistical_analysis": {
+    "Claude": {
+      "bond": {
+        "descriptives": {
+          "Human": {
+            "all_valid_n": 138,
+            "mean": 2.4348,
+            "std": 0.761,
+            "median": 2.0,
+            "q25": 2.0,
+            "q75": 3.0,
+            "na_count": 12,
+            "na_pct": 8.0
+          },
+          "Gemini": {
+            "all_valid_n": 129,
+            "mean": 4.2093,
+            "std": 0.8134,
+            "median": 4.0,
+            "q25": 4.0,
+            "q75": 5.0,
+            "na_count": 21,
+            "na_pct": 14.0
+          },
+          "DeepSeek": {
+            "all_valid_n": 133,
+            "mean": 4.0,
+            "std": 0.8496,
+            "median": 4.0,
+            "q25": 3.0,
+            "q75": 5.0,
+            "na_count": 17,
+            "na_pct": 11.33
+          }
+        },
+        "na_cochran_q": {
+          "q_stat": 3.05,
+          "p_val": 0.217621,
+          "df": 2,
+          "mcnemar_pairwise": {}
+        },
+        "friedman_test": {
+          "n_complete": 109,
+          "chi2": 154.1965,
+          "df": 2,
+          "p_value": 0.0,
+          "kendall_w": 0.7073,
+          "is_significant": true
+        },
+        "pairwise_wilcoxon": {
+          "Gemini_vs_Human": {
+            "stat": 85.0,
+            "p_raw": 0.0,
+            "p_adj": 0.0,
+            "wilcoxon_r": 0.8451,
+            "mean_diff": 1.8257,
+            "ci95": [
+              1.6055,
+              2.0275
+            ],
+            "significant": true
+          },
+          "DeepSeek_vs_Human": {
+            "stat": 96.5,
+            "p_raw": 0.0,
+            "p_adj": 0.0,
+            "wilcoxon_r": 0.8269,
+            "mean_diff": 1.5872,
+            "ci95": [
+              1.3761,
+              1.789
+            ],
+            "significant": true
+          },
+          "Gemini_vs_DeepSeek": {
+            "stat": 1115.0,
+            "p_raw": 0.000882,
+            "p_adj": 0.000882,
+            "wilcoxon_r": 0.3186,
+            "mean_diff": 0.2385,
+            "ci95": [
+              0.1009,
+              0.3853
+            ],
+            "significant": true
+          }
+        }
+      },
+      "goal": {
+        "descriptives": {
+          "Human": {
+            "all_valid_n": 138,
+            "mean": 2.8116,
+            "std": 0.7377,
+            "median": 3.0,
+            "q25": 2.0,
+            "q75": 3.0,
+            "na_count": 12,
+            "na_pct": 8.0
+          },
+          "Gemini": {
+            "all_valid_n": 129,
+            "mean": 3.8527,
+            "std": 0.7055,
+            "median": 4.0,
+            "q25": 3.0,
+            "q75": 4.0,
+            "na_count": 21,
+            "na_pct": 14.0
+          },
+          "DeepSeek": {
+            "all_valid_n": 132,
+            "mean": 3.6667,
+            "std": 0.7247,
+            "median": 4.0,
+            "q25": 3.0,
+            "q75": 4.0,
+            "na_count": 18,
+            "na_pct": 12.0
+          }
+        },
+        "na_cochran_q": {
+          "q_stat": 3.0732,
+          "p_val": 0.215114,
+          "df": 2,
+          "mcnemar_pairwise": {}
+        },
+        "friedman_test": {
+          "n_complete": 108,
+          "chi2": 100.3111,
+          "df": 2,
+          "p_value": 0.0,
+          "kendall_w": 0.4644,
+          "is_significant": true
+        },
+        "pairwise_wilcoxon": {
+          "Gemini_vs_Human": {
+            "stat": 198.0,
+            "p_raw": 0.0,
+            "p_adj": 0.0,
+            "wilcoxon_r": 0.7808,
+            "mean_diff": 1.1019,
+            "ci95": [
+              0.9167,
+              1.2963
+            ],
+            "significant": true
+          },
+          "DeepSeek_vs_Human": {
+            "stat": 420.5,
+            "p_raw": 0.0,
+            "p_adj": 0.0,
+            "wilcoxon_r": 0.7061,
+            "mean_diff": 0.8796,
+            "ci95": [
+              0.7037,
+              1.0463
+            ],
+            "significant": true
+          },
+          "Gemini_vs_DeepSeek": {
+            "stat": 1446.0,
+            "p_raw": 0.015798,
+            "p_adj": 0.015798,
+            "wilcoxon_r": 0.2322,
+            "mean_diff": 0.2222,
+            "ci95": [
+              0.0556,
+              0.3981
+            ],
+            "significant": true
+          }
+        }
+      },
+      "task": {
+        "descriptives": {
+          "Human": {
+            "all_valid_n": 46,
+            "mean": 2.4348,
+            "std": 0.6805,
+            "median": 2.0,
+            "q25": 2.0,
+            "q75": 3.0,
+            "na_count": 104,
+            "na_pct": 69.33
+          },
+          "Gemini": {
+            "all_valid_n": 26,
+            "mean": 3.8846,
+            "std": 0.847,
+            "median": 4.0,
+            "q25": 3.0,
+            "q75": 5.0,
+            "na_count": 124,
+            "na_pct": 82.67
+          },
+          "DeepSeek": {
+            "all_valid_n": 29,
+            "mean": 3.6897,
+            "std": 0.9862,
+            "median": 4.0,
+            "q25": 3.0,
+            "q75": 5.0,
+            "na_count": 121,
+            "na_pct": 80.67
+          }
+        },
+        "na_cochran_q": {
+          "q_stat": 12.0345,
+          "p_val": 0.002436,
+          "df": 2,
+          "mcnemar_pairwise": {
+            "Gemini_vs_Human": {
+              "p_raw": 0.004534,
+              "p_adj": 0.013602,
+              "significant": true
+            },
+            "DeepSeek_vs_Human": {
+              "p_raw": 0.009475,
+              "p_adj": 0.018951,
+              "significant": true
+            },
+            "Gemini_vs_DeepSeek": {
+              "p_raw": 0.7201,
+              "p_adj": 0.7201,
+              "significant": false
+            }
+          }
+        },
+        "friedman_test": {
+          "n_complete": 7,
+          "status": "Insufficient 3-way valid complete cases for non-parametric inferential testing (N < 10)"
+        },
+        "pairwise_wilcoxon": {}
+      }
+    },
+    "Qwen": {
+      "bond": {
+        "descriptives": {
+          "Human": {
+            "all_valid_n": 110,
+            "mean": 2.8818,
+            "std": 0.7596,
+            "median": 3.0,
+            "q25": 2.0,
+            "q75": 3.0,
+            "na_count": 40,
+            "na_pct": 26.67
+          },
+          "Gemini": {
+            "all_valid_n": 137,
+            "mean": 4.3212,
+            "std": 0.672,
+            "median": 4.0,
+            "q25": 4.0,
+            "q75": 5.0,
+            "na_count": 13,
+            "na_pct": 8.67
+          },
+          "DeepSeek": {
+            "all_valid_n": 138,
+            "mean": 4.0797,
+            "std": 0.762,
+            "median": 4.0,
+            "q25": 4.0,
+            "q75": 5.0,
+            "na_count": 12,
+            "na_pct": 8.0
+          }
+        },
+        "na_cochran_q": {
+          "q_stat": 45.8788,
+          "p_val": 0.0,
+          "df": 2,
+          "mcnemar_pairwise": {
+            "Gemini_vs_Human": {
+              "p_raw": 0.0,
+              "p_adj": 0.0,
+              "significant": true
+            },
+            "DeepSeek_vs_Human": {
+              "p_raw": 0.0,
+              "p_adj": 0.0,
+              "significant": true
+            },
+            "Gemini_vs_DeepSeek": {
+              "p_raw": 1.0,
+              "p_adj": 1.0,
+              "significant": false
+            }
+          }
+        },
+        "friedman_test": {
+          "n_complete": 108,
+          "chi2": 137.1709,
+          "df": 2,
+          "p_value": 0.0,
+          "kendall_w": 0.6351,
+          "is_significant": true
+        },
+        "pairwise_wilcoxon": {
+          "Gemini_vs_Human": {
+            "stat": 99.0,
+            "p_raw": 0.0,
+            "p_adj": 0.0,
+            "wilcoxon_r": 0.8341,
+            "mean_diff": 1.5093,
+            "ci95": [
+              1.3148,
+              1.6944
+            ],
+            "significant": true
+          },
+          "DeepSeek_vs_Human": {
+            "stat": 90.0,
+            "p_raw": 0.0,
+            "p_adj": 0.0,
+            "wilcoxon_r": 0.8062,
+            "mean_diff": 1.2685,
+            "ci95": [
+              1.0741,
+              1.463
+            ],
+            "significant": true
+          },
+          "Gemini_vs_DeepSeek": {
+            "stat": 778.5,
+            "p_raw": 0.00028,
+            "p_adj": 0.00028,
+            "wilcoxon_r": 0.3496,
+            "mean_diff": 0.2407,
+            "ci95": [
+              0.1296,
+              0.3611
+            ],
+            "significant": true
+          }
+        }
+      },
+      "goal": {
+        "descriptives": {
+          "Human": {
+            "all_valid_n": 111,
+            "mean": 3.0721,
+            "std": 0.6536,
+            "median": 3.0,
+            "q25": 3.0,
+            "q75": 3.0,
+            "na_count": 39,
+            "na_pct": 26.0
+          },
+          "Gemini": {
+            "all_valid_n": 138,
+            "mean": 3.8406,
+            "std": 0.6284,
+            "median": 4.0,
+            "q25": 3.0,
+            "q75": 4.0,
+            "na_count": 12,
+            "na_pct": 8.0
+          },
+          "DeepSeek": {
+            "all_valid_n": 138,
+            "mean": 3.7754,
+            "std": 0.6258,
+            "median": 4.0,
+            "q25": 3.0,
+            "q75": 4.0,
+            "na_count": 12,
+            "na_pct": 8.0
+          }
+        },
+        "na_cochran_q": {
+          "q_stat": 44.1818,
+          "p_val": 0.0,
+          "df": 2,
+          "mcnemar_pairwise": {
+            "Gemini_vs_Human": {
+              "p_raw": 0.0,
+              "p_adj": 1e-06,
+              "significant": true
+            },
+            "DeepSeek_vs_Human": {
+              "p_raw": 0.0,
+              "p_adj": 0.0,
+              "significant": true
+            },
+            "Gemini_vs_DeepSeek": {
+              "p_raw": 1.0,
+              "p_adj": 1.0,
+              "significant": false
+            }
+          }
+        },
+        "friedman_test": {
+          "n_complete": 108,
+          "chi2": 89.7978,
+          "df": 2,
+          "p_value": 0.0,
+          "kendall_w": 0.4157,
+          "is_significant": true
+        },
+        "pairwise_wilcoxon": {
+          "Gemini_vs_Human": {
+            "stat": 252.0,
+            "p_raw": 0.0,
+            "p_adj": 0.0,
+            "wilcoxon_r": 0.7373,
+            "mean_diff": 0.7963,
+            "ci95": [
+              0.6481,
+              0.9447
+            ],
+            "significant": true
+          },
+          "DeepSeek_vs_Human": {
+            "stat": 295.5,
+            "p_raw": 0.0,
+            "p_adj": 0.0,
+            "wilcoxon_r": 0.6815,
+            "mean_diff": 0.7315,
+            "ci95": [
+              0.5648,
+              0.8981
+            ],
+            "significant": true
+          },
+          "Gemini_vs_DeepSeek": {
+            "stat": 1568.5,
+            "p_raw": 0.40434,
+            "p_adj": 0.40434,
+            "wilcoxon_r": 0.0802,
+            "mean_diff": 0.0648,
+            "ci95": [
+              -0.0648,
+              0.1944
+            ],
+            "significant": false
+          }
+        }
+      },
+      "task": {
+        "descriptives": {
+          "Human": {
+            "all_valid_n": 33,
+            "mean": 2.4545,
+            "std": 0.6556,
+            "median": 2.0,
+            "q25": 2.0,
+            "q75": 3.0,
+            "na_count": 117,
+            "na_pct": 78.0
+          },
+          "Gemini": {
+            "all_valid_n": 23,
+            "mean": 3.5217,
+            "std": 0.6507,
+            "median": 4.0,
+            "q25": 3.0,
+            "q75": 4.0,
+            "na_count": 127,
+            "na_pct": 84.67
+          },
+          "DeepSeek": {
+            "all_valid_n": 22,
+            "mean": 3.5455,
+            "std": 0.6556,
+            "median": 3.0,
+            "q25": 3.0,
+            "q75": 4.0,
+            "na_count": 128,
+            "na_pct": 85.33
+          }
+        },
+        "na_cochran_q": {
+          "q_stat": 5.0455,
+          "p_val": 0.08024,
+          "df": 2,
+          "mcnemar_pairwise": {}
+        },
+        "friedman_test": {
+          "n_complete": 6,
+          "status": "Insufficient 3-way valid complete cases for non-parametric inferential testing (N < 10)"
+        },
+        "pairwise_wilcoxon": {}
+      }
+    }
+  },
+  "table7_length_sensitivity_analysis": {
+    "Claude": {
+      "bond": {
+        "n_obs": 400,
+        "n_groups": 149,
+        "unadjusted": {
+          "intercept": 2.4246,
+          "Gemini_coef": 1.7844,
+          "Gemini_pval": 0.0,
+          "DeepSeek_coef": 1.5816,
+          "DeepSeek_pval": 0.0
+        },
+        "length_adjusted": {
+          "intercept": 2.3491,
+          "Gemini_coef": 1.5443,
+          "Gemini_pval": 0.0,
+          "DeepSeek_coef": 1.452,
+          "DeepSeek_pval": 0.0,
+          "word_count_coef": 0.004731,
+          "word_count_pval": 0.000255
+        }
+      },
+      "goal": {
+        "n_obs": 399,
+        "n_groups": 149,
+        "unadjusted": {
+          "intercept": 2.8076,
+          "Gemini_coef": 1.043,
+          "Gemini_pval": 0.0,
+          "DeepSeek_coef": 0.8597,
+          "DeepSeek_pval": 0.0
+        },
+        "length_adjusted": {
+          "intercept": 2.7639,
+          "Gemini_coef": 0.9076,
+          "Gemini_pval": 0.0,
+          "DeepSeek_coef": 0.788,
+          "DeepSeek_pval": 0.0,
+          "word_count_coef": 0.002686,
+          "word_count_pval": 0.021902
+        }
+      },
+      "task": {
+        "n_obs": 101,
+        "n_groups": 65,
+        "unadjusted": {
+          "intercept": 2.4348,
+          "Gemini_coef": 1.4498,
+          "Gemini_pval": 0.0,
+          "DeepSeek_coef": 1.2549,
+          "DeepSeek_pval": 0.0
+        },
+        "length_adjusted": {
+          "intercept": 2.3099,
+          "Gemini_coef": 1.024,
+          "Gemini_pval": 2e-05,
+          "DeepSeek_coef": 0.9984,
+          "DeepSeek_pval": 2e-06,
+          "word_count_coef": 0.005496,
+          "word_count_pval": 0.002092
+        }
+      }
+    },
+    "Qwen": {
+      "bond": {
+        "n_obs": 385,
+        "n_groups": 141,
+        "unadjusted": {
+          "intercept": 2.8511,
+          "Gemini_coef": 1.4644,
+          "Gemini_pval": 0.0,
+          "DeepSeek_coef": 1.2218,
+          "DeepSeek_pval": 0.0
+        },
+        "length_adjusted": {
+          "intercept": 2.7657,
+          "Gemini_coef": 1.1929,
+          "Gemini_pval": 0.0,
+          "DeepSeek_coef": 1.0931,
+          "DeepSeek_pval": 0.0,
+          "word_count_coef": 0.004828,
+          "word_count_pval": 0.0
+        }
+      },
+      "goal": {
+        "n_obs": 387,
+        "n_groups": 141,
+        "unadjusted": {
+          "intercept": 3.0568,
+          "Gemini_coef": 0.7815,
+          "Gemini_pval": 0.0,
+          "DeepSeek_coef": 0.7143,
+          "DeepSeek_pval": 0.0
+        },
+        "length_adjusted": {
+          "intercept": 2.9767,
+          "Gemini_coef": 0.5281,
+          "Gemini_pval": 0.0,
+          "DeepSeek_coef": 0.5938,
+          "DeepSeek_pval": 0.0,
+          "word_count_coef": 0.004523,
+          "word_count_pval": 0.0
+        }
+      },
+      "task": {
+        "n_obs": 78,
+        "n_groups": 50,
+        "unadjusted": {
+          "intercept": 2.4471,
+          "Gemini_coef": 1.0506,
+          "Gemini_pval": 0.0,
+          "DeepSeek_coef": 1.0434,
+          "DeepSeek_pval": 0.0
+        },
+        "length_adjusted": {
+          "intercept": 2.3679,
+          "Gemini_coef": 0.6874,
+          "Gemini_pval": 0.000642,
+          "DeepSeek_coef": 0.8656,
+          "DeepSeek_pval": 1e-06,
+          "word_count_coef": 0.00332,
+          "word_count_pval": 0.002262
+        }
+      }
+    }
+  }
+}

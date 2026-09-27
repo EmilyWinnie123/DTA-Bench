@@ -1,0 +1,47 @@
+[
+  {
+    "range": "low_score (1-2)",
+    "sample_id": "esconv_296_w29",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Supporter: have you tried to go to place and talk to a hiring boss about a job?\nSeeker: It's hard with this virus to go anywhere pretty much\n\nSupporter: yes i can understand that.\nSeeker: Worst time to graduate\n\nSeeker: Haven't even got the graduation ceremony lol\n",
+    "seeker_utterance": "",
+    "supporter_response": "all you can honestly really do right now is to try to improve your resume and see if that helps any and just keep searching for jobs and putting in applications and i know you will get a call from a job soon ",
+    "scores": {
+      "Bond": 2.5,
+      "Goal": 1.5,
+      "Task": 2.0
+    },
+    "mean_score": 2.0
+  },
+  {
+    "range": "mid_score (3)",
+    "sample_id": "annomi_66_w16",
+    "dataset": "AnnoMI",
+    "pool_type": "dev",
+    "dialogue_context": "Client: Well, I don't think too much trouble in taking the medicines, especially since I understand my blood sugar is really high. and-\nTherapist: So that's easy to do.\nClient: Yeah, I'm pretty- I'm pretty good at taking drugs.\nTherapist: Yeah. 'Cause it looks like you need to just take your medicine, uh, uh, once a day from-from the prescription. So that sounds doable right now.\nClient: Yeah. I think I could probably do that.",
+    "seeker_utterance": "",
+    "supporter_response": "Okay. The other things that need to be worked on over time certainly would be changing your eating habits, you know, to eat- eat healthier, uh, not necessarily less, but healthier. And the other thing would be getting, um, some more physical activity. And by the way, that doesn't mean going to a gym. That means things like more walking, maybe using stairs instead of an elevator or an escalator, stuff like that. Uh.",
+    "scores": {
+      "Bond": 1.5,
+      "Goal": 4.0,
+      "Task": 3.0
+    },
+    "mean_score": 2.8333333333333335
+  },
+  {
+    "range": "high_score (4-5)",
+    "sample_id": "esconv_1053_w14",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: Yea i suppose your right. Btw yes i love to soak in the tub with a bath bomb and a good book. Yea no one really seems to understand what us mothers go through on a daily basis. I'm glad it's not just me who sees it.\nSupporter: Well there you go. Go run you a hot bath. Toss in a bath bomb, and grab your favorite novel or new novel and soak your troubles away!\nSeeker: Your right. He won't hurt them. Not with what is at risk. I'mma enjoy myself till they come back tonight. Thank you so much!\nSupporter: Of course sweetie, just remember to take care of you. There is still a woman under the mother. A lot of moms forget that and neglect themselves.\nSeeker: Yea after so long you just go with I'm a mom as your identity. I'm still a woman. I'm actually starting to talk to a new guy it's kinda exciting. ",
+    "seeker_utterance": "",
+    "supporter_response": "Oh that's exciting! You get to start dating again! I didn't look forward it myself mainly because im jaded and have little faith in men XD. What do you look for in a man?",
+    "scores": {
+      "Bond": 5.0,
+      "Goal": 4.0,
+      "Task": null
+    },
+    "mean_score": 4.5
+  }
+]

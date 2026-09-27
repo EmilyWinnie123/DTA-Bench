@@ -1,0 +1,88 @@
+{
+  "provenance": {
+    "gold_eval_file": "C:\\Users\\1rog\\dta_project\\annotation\\sheets\\gold_standard_eval_150.xlsx",
+    "gold_eval_mtime": "2026-09-24 00:17:38",
+    "gold_eval_sheet0": "Sheet1",
+    "gold_eval_a1": "sample_id",
+    "responses_file": "C:\\Users\\1rog\\dta_project\\cache\\study2_ai_responses.json",
+    "responses_mtime": "2026-09-26 19:11:57"
+  },
+  "generator_config_audit": {
+    "Generator_A": {
+      "planned_model": "Gemini 3.5 Flash",
+      "actual_model": "Gemini-3.8-Flash/Antigravity",
+      "endpoint": "https://api.meow61.my/v1/chat/completions",
+      "temperature": 0.7,
+      "config_difference_explanation": "Meow61 API token returned HTTP 403 No Access for string gemini-3.5-flash. Gemini-3.8-Flash/Antigravity was authorized and active on Meow61 endpoint."
+    },
+    "Generator_B": {
+      "planned_model": "deepseek-v4-pro-0813",
+      "actual_model": "deepseek-v4-pro-0813",
+      "endpoint": "https://api.jichuanai.com/v1/chat/completions",
+      "temperature": 0.7,
+      "config_difference_explanation": "100% match with requested model ID."
+    }
+  },
+  "set_relation_audit": {
+    "study2_total_count": 150,
+    "eval_150_count": 150,
+    "is_study2_equal_eval_150": true,
+    "dev_20_overlap_count": 0,
+    "calib_20_overlap_count": 0,
+    "verdict": "PASSED (100% eval match, 0 dev/calibration overlap)"
+  },
+  "prompt_isolation_and_boundary_audit": {
+    "system_prompt_used": "You are a supportive listener. Respond to the person's latest message.",
+    "leakage_of_human_gold_scores": false,
+    "leakage_of_rubric": false,
+    "leakage_of_future_turns": false,
+    "verdict": "PASSED (Neutral supportive listener prompt enforced with zero gold/rubric/future turn leakage)"
+  },
+  "response_word_count_distribution": {
+    "Human_Original": {
+      "total_responses": 150,
+      "mean_word_count": 16.33,
+      "std_word_count": 15.03,
+      "min_word_count": 1,
+      "p25_word_count": 6.0,
+      "median_word_count": 13.0,
+      "p75_word_count": 21.0,
+      "max_word_count": 104,
+      "empty_responses": 0
+    },
+    "Gemini_3_8_Flash": {
+      "total_responses": 150,
+      "mean_word_count": 73.75,
+      "std_word_count": 58.09,
+      "min_word_count": 9,
+      "p25_word_count": 45.25,
+      "median_word_count": 61.0,
+      "p75_word_count": 90.75,
+      "max_word_count": 570,
+      "empty_responses": 0
+    },
+    "DeepSeek_V4_Pro": {
+      "total_responses": 150,
+      "mean_word_count": 46.08,
+      "std_word_count": 35.35,
+      "min_word_count": 3,
+      "p25_word_count": 29.0,
+      "median_word_count": 39.0,
+      "p75_word_count": 54.75,
+      "max_word_count": 357,
+      "empty_responses": 0
+    }
+  },
+  "token_usage_summary": {
+    "Gemini_3_8_Flash": {
+      "prompt_tokens": 24332,
+      "completion_tokens": 156506,
+      "total_tokens": 180838
+    },
+    "DeepSeek_V4_Pro": {
+      "prompt_tokens": 35134,
+      "completion_tokens": 79514,
+      "total_tokens": 114648
+    }
+  }
+}

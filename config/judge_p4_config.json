@@ -1,0 +1,60 @@
+{
+  "prompt_version": "v1.0-P4-DimensionWise-Frozen",
+  "prompt_name": "P4 Dimension-Wise Independent Evaluation",
+  "created_at": "2026-09-26T16:05:00+08:00",
+  "description": "Final LLM Judge scoring prompt configuration frozen after Stage 1 prompt ablation selection.",
+  "model_config": {
+    "primary_model": "[G]claude-sonnet-5",
+    "fallback_models": [],
+    "allow_model_switch": false,
+    "api_base_url": "https://www.xiaoyaoapi.com/v1",
+    "api_parameters": {
+      "temperature": 0.0,
+      "top_p": 1.0,
+      "max_tokens": 1024,
+      "response_format": {
+        "type": "json_object"
+      }
+    },
+    "retry_policy": {
+      "max_retries": 8,
+      "initial_backoff_seconds": 2,
+      "backoff_factor": 1.5,
+      "timeout_seconds": 45
+    }
+  },
+  "rubric_config": {
+    "rubric_file": "rubric/DTA_Rubric.md",
+    "rubric_raw_sha256": "522640ead6e9118a7f82f760df0cdd87ec6b8da3b9129c9587ec9c3b5dc0e9f2",
+    "rubric_text_sha256": "6f326e31002df4df6e8974ff40ed5d0ca0819d48168d43d6c504e3a20ae8356f",
+    "auto_load_on_every_eval": true
+  },
+  "gold_standard_config": {
+    "include_gold_examples": false,
+    "exemplar_count": 0
+  },
+  "output_schema_config": {
+    "format": "valid_json_only",
+    "required_keys": [
+      "bond",
+      "goal",
+      "task"
+    ],
+    "allowed_values": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "NA"
+    ]
+  },
+  "system_instruction_raw": "You are an evaluator of Digital Therapeutic Alliance (DTA) in text-based supportive dialogue.\n\nUse ONLY the provided frozen DTA-Rubric v1.0.\n\nThe unit of evaluation is the dialogue window. Rate only observable alliance-relevant behaviour displayed by the supporter.\n\nBond, Goal, and Task must be evaluated independently.\n\nValid ratings are:\n\n1, 2, 3, 4, 5, or \"NA\"\n\nDo not use half-points.\n\nIf genuinely uncertain between two adjacent scores, select the lower score.\n\nDo not use information outside the dialogue window.\n\nReturn valid JSON only.",
+  "user_prompt_template_raw": "# P4 — Dimension-Wise Independent Evaluation\n\nUsing the frozen DTA-Rubric, evaluate the dialogue one dimension at a time.\n\n## Bond\n\nConsider ONLY Bond-related behaviour:\n\n* accurate emotional understanding\n* acceptance and non-judgment\n* situational personalisation\n* willingness to remain with distress\n\nDo not use Goal or Task quality when assigning Bond.\n\n## Goal\n\nConsider ONLY Goal-related behaviour:\n\n* goal elicitation\n* understanding checks\n* directional alignment\n* persistence toward the seeker's expressed goal\n\nDo not use Bond or Task quality when assigning Goal.\n\n## Task\n\nFirst apply the Task N/A decision rule.\n\nIf Task is scorable, consider ONLY:\n\n* actionability\n* rationale\n* collaborative framing\n* timing\n\nDo not use Bond or Goal quality when assigning Task.\n\nApply all binding rubric anchors and adjudicated edge cases.\n\nIf uncertain between adjacent scores, select the lower score.\n\nDialogue window:\n\n{dialogue}\n\nReturn only:\n\n{\n\"bond\": 1-5 or \"NA\",\n\"goal\": 1-5 or \"NA\",\n\"task\": 1-5 or \"NA\"\n}",
+  "hashes": {
+    "system_instruction_sha256": "4aa6035002d42ed1b4cd9d0024f60a18755e8aabfcf17bf45b7b6995231c2cf2",
+    "user_prompt_template_sha256": "12f6426c26b1e8d0711324e6e6952c6de72312af140ef5ae862bd5815dac7d90",
+    "rubric_raw_sha256": "522640ead6e9118a7f82f760df0cdd87ec6b8da3b9129c9587ec9c3b5dc0e9f2",
+    "rubric_text_sha256": "6f326e31002df4df6e8974ff40ed5d0ca0819d48168d43d6c504e3a20ae8356f"
+  }
+}

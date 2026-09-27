@@ -1,0 +1,3152 @@
+{
+  "126_w48": {
+    "sample_id": "126_w48",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5173,
+      "total_tokens": 5198,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1125_w22": {
+    "sample_id": "esconv_1125_w22",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n  \"bond\": 3,\n  \"goal\": 3,\n  \"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5243,
+      "total_tokens": 5271,
+      "completion_tokens": 28,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_624_w18": {
+    "sample_id": "esconv_624_w18",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5175,
+      "total_tokens": 5200,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1078_w16": {
+    "sample_id": "esconv_1078_w16",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n  \"bond\": 3,\n  \"goal\": 3,\n  \"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5257,
+      "total_tokens": 5285,
+      "completion_tokens": 28,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "43_w36": {
+    "sample_id": "43_w36",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5196,
+      "total_tokens": 5221,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_574_w8": {
+    "sample_id": "esconv_574_w8",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5257,
+      "total_tokens": 5282,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1197_w18": {
+    "sample_id": "esconv_1197_w18",
+    "dataset": "ESConv",
+    "bond": "4",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 4,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5257,
+      "total_tokens": 5282,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_10_w14": {
+    "sample_id": "esconv_10_w14",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5113,
+      "total_tokens": 5138,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_166_w17": {
+    "sample_id": "esconv_166_w17",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5080,
+      "total_tokens": 5105,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "created_cache_tokens": 3200,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_54_w36": {
+    "sample_id": "esconv_54_w36",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5165,
+      "total_tokens": 5190,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "43_w40": {
+    "sample_id": "43_w40",
+    "dataset": "AnnoMI",
+    "bond": "5",
+    "goal": "5",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 5,\n\"goal\": 5,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5257,
+      "total_tokens": 5282,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_973_w34": {
+    "sample_id": "esconv_973_w34",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "2",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 2,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5114,
+      "total_tokens": 5139,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_631_w19": {
+    "sample_id": "esconv_631_w19",
+    "dataset": "ESConv",
+    "bond": "4",
+    "goal": "5",
+    "task": "3",
+    "raw_output": "{\n\"bond\": 4,\n\"goal\": 5,\n\"task\": 3\n}",
+    "usage": {
+      "prompt_tokens": 5292,
+      "total_tokens": 5316,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_324_w15": {
+    "sample_id": "esconv_324_w15",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "2",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 2,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5223,
+      "total_tokens": 5248,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1288_w17": {
+    "sample_id": "esconv_1288_w17",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "3",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": 3\n}",
+    "usage": {
+      "prompt_tokens": 5382,
+      "total_tokens": 5406,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "50_w32": {
+    "sample_id": "50_w32",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5070,
+      "total_tokens": 5095,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "50_w8": {
+    "sample_id": "50_w8",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5279,
+      "total_tokens": 5304,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_330_w34": {
+    "sample_id": "esconv_330_w34",
+    "dataset": "ESConv",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5071,
+      "total_tokens": 5096,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_414_w24": {
+    "sample_id": "esconv_414_w24",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n  \"bond\": 2,\n  \"goal\": 3,\n  \"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5150,
+      "total_tokens": 5178,
+      "completion_tokens": 28,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_134_w33": {
+    "sample_id": "esconv_134_w33",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5074,
+      "total_tokens": 5099,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_124_w23": {
+    "sample_id": "esconv_124_w23",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "2",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": 2\n}",
+    "usage": {
+      "prompt_tokens": 5115,
+      "total_tokens": 5139,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_985_w1": {
+    "sample_id": "esconv_985_w1",
+    "dataset": "ESConv",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5037,
+      "total_tokens": 5062,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_673_w13": {
+    "sample_id": "esconv_673_w13",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5434,
+      "total_tokens": 5459,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1255_w2": {
+    "sample_id": "esconv_1255_w2",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5067,
+      "total_tokens": 5092,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "64_w144": {
+    "sample_id": "64_w144",
+    "dataset": "AnnoMI",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5157,
+      "total_tokens": 5182,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_931_w26": {
+    "sample_id": "esconv_931_w26",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "3",
+    "task": "2",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": 2\n}",
+    "usage": {
+      "prompt_tokens": 5108,
+      "total_tokens": 5132,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1051_w31": {
+    "sample_id": "esconv_1051_w31",
+    "dataset": "ESConv",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5165,
+      "total_tokens": 5190,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1240_w16": {
+    "sample_id": "esconv_1240_w16",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "2",
+    "raw_output": "{\n  \"bond\": 3,\n  \"goal\": 3,\n  \"task\": 2\n}",
+    "usage": {
+      "prompt_tokens": 5086,
+      "total_tokens": 5113,
+      "completion_tokens": 27,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "88_w12": {
+    "sample_id": "88_w12",
+    "dataset": "AnnoMI",
+    "bond": "3",
+    "goal": "4",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 4,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5177,
+      "total_tokens": 5202,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_646_w6": {
+    "sample_id": "esconv_646_w6",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "2",
+    "task": "3",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 2,\n\"task\": 3\n}",
+    "usage": {
+      "prompt_tokens": 5292,
+      "total_tokens": 5316,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_338_w4": {
+    "sample_id": "esconv_338_w4",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "2",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 2,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5176,
+      "total_tokens": 5201,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "100_w64": {
+    "sample_id": "100_w64",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5193,
+      "total_tokens": 5218,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "100_w128": {
+    "sample_id": "100_w128",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5162,
+      "total_tokens": 5187,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1247_w33": {
+    "sample_id": "esconv_1247_w33",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "2",
+    "task": "2",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 2,\n\"task\": 2\n}",
+    "usage": {
+      "prompt_tokens": 5110,
+      "total_tokens": 5134,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "86_w20": {
+    "sample_id": "86_w20",
+    "dataset": "AnnoMI",
+    "bond": "4",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 4,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5137,
+      "total_tokens": 5162,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "100_w252": {
+    "sample_id": "100_w252",
+    "dataset": "AnnoMI",
+    "bond": "2",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5085,
+      "total_tokens": 5110,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1246_w11": {
+    "sample_id": "esconv_1246_w11",
+    "dataset": "ESConv",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5169,
+      "total_tokens": 5194,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "41_w40": {
+    "sample_id": "41_w40",
+    "dataset": "AnnoMI",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5104,
+      "total_tokens": 5129,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1095_w15": {
+    "sample_id": "esconv_1095_w15",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "2",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 2,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5144,
+      "total_tokens": 5169,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1024_w25": {
+    "sample_id": "esconv_1024_w25",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5082,
+      "total_tokens": 5107,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "62_w40": {
+    "sample_id": "62_w40",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n  \"bond\": \"NA\",\n  \"goal\": \"NA\",\n  \"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5145,
+      "total_tokens": 5173,
+      "completion_tokens": 28,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "100_w240": {
+    "sample_id": "100_w240",
+    "dataset": "AnnoMI",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5157,
+      "total_tokens": 5182,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "60_w32": {
+    "sample_id": "60_w32",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5090,
+      "total_tokens": 5115,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_664_w19": {
+    "sample_id": "esconv_664_w19",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5210,
+      "total_tokens": 5235,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1231_w8": {
+    "sample_id": "esconv_1231_w8",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n  \"bond\": 3,\n  \"goal\": 3,\n  \"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5110,
+      "total_tokens": 5138,
+      "completion_tokens": 28,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_590_w3": {
+    "sample_id": "esconv_590_w3",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5057,
+      "total_tokens": 5082,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "100_w68": {
+    "sample_id": "100_w68",
+    "dataset": "AnnoMI",
+    "bond": "2",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5192,
+      "total_tokens": 5217,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "76_w0": {
+    "sample_id": "76_w0",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5126,
+      "total_tokens": 5151,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_708_w19": {
+    "sample_id": "esconv_708_w19",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n  \"bond\": 3,\n  \"goal\": 3,\n  \"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5157,
+      "total_tokens": 5185,
+      "completion_tokens": 28,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_790_w17": {
+    "sample_id": "esconv_790_w17",
+    "dataset": "ESConv",
+    "bond": "4",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 4,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5209,
+      "total_tokens": 5234,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_430_w21": {
+    "sample_id": "esconv_430_w21",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "2",
+    "task": "2",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 2,\n\"task\": 2\n}",
+    "usage": {
+      "prompt_tokens": 5203,
+      "total_tokens": 5227,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_158_w1": {
+    "sample_id": "esconv_158_w1",
+    "dataset": "ESConv",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5024,
+      "total_tokens": 5049,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "50_w36": {
+    "sample_id": "50_w36",
+    "dataset": "AnnoMI",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5108,
+      "total_tokens": 5133,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "60_w20": {
+    "sample_id": "60_w20",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5131,
+      "total_tokens": 5156,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_297_w19": {
+    "sample_id": "esconv_297_w19",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5145,
+      "total_tokens": 5170,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_522_w8": {
+    "sample_id": "esconv_522_w8",
+    "dataset": "ESConv",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5102,
+      "total_tokens": 5127,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "68_w176": {
+    "sample_id": "68_w176",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5201,
+      "total_tokens": 5226,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1035_w22": {
+    "sample_id": "esconv_1035_w22",
+    "dataset": "ESConv",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5186,
+      "total_tokens": 5211,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "68_w156": {
+    "sample_id": "68_w156",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5170,
+      "total_tokens": 5195,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_343_w13": {
+    "sample_id": "esconv_343_w13",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "2",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 2,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5098,
+      "total_tokens": 5123,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "68_w152": {
+    "sample_id": "68_w152",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5214,
+      "total_tokens": 5239,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_465_w14": {
+    "sample_id": "esconv_465_w14",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "3",
+    "task": "3",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": 3\n}",
+    "usage": {
+      "prompt_tokens": 5189,
+      "total_tokens": 5213,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_642_w0": {
+    "sample_id": "esconv_642_w0",
+    "dataset": "ESConv",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5022,
+      "total_tokens": 5047,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1009_w4": {
+    "sample_id": "esconv_1009_w4",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5134,
+      "total_tokens": 5159,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "79_w4": {
+    "sample_id": "79_w4",
+    "dataset": "AnnoMI",
+    "bond": "5",
+    "goal": "4",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 5,\n\"goal\": 4,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5256,
+      "total_tokens": 5281,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_155_w33": {
+    "sample_id": "esconv_155_w33",
+    "dataset": "ESConv",
+    "bond": "4",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 4,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5105,
+      "total_tokens": 5130,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_474_w4": {
+    "sample_id": "esconv_474_w4",
+    "dataset": "ESConv",
+    "bond": "1",
+    "goal": "2",
+    "task": "2",
+    "raw_output": "{\n\"bond\": 1,\n\"goal\": 2,\n\"task\": 2\n}",
+    "usage": {
+      "prompt_tokens": 5146,
+      "total_tokens": 5170,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_836_w15": {
+    "sample_id": "esconv_836_w15",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "4",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 4,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5216,
+      "total_tokens": 5241,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_614_w72": {
+    "sample_id": "esconv_614_w72",
+    "dataset": "ESConv",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5144,
+      "total_tokens": 5169,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "100_w256": {
+    "sample_id": "100_w256",
+    "dataset": "AnnoMI",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5107,
+      "total_tokens": 5132,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1009_w28": {
+    "sample_id": "esconv_1009_w28",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "3",
+    "task": "2",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": 2\n}",
+    "usage": {
+      "prompt_tokens": 5139,
+      "total_tokens": 5163,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_344_w11": {
+    "sample_id": "esconv_344_w11",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5138,
+      "total_tokens": 5163,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_385_w17": {
+    "sample_id": "esconv_385_w17",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "3",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": 3\n}",
+    "usage": {
+      "prompt_tokens": 5220,
+      "total_tokens": 5244,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1290_w8": {
+    "sample_id": "esconv_1290_w8",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "2",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 2,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5208,
+      "total_tokens": 5233,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "60_w88": {
+    "sample_id": "60_w88",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5130,
+      "total_tokens": 5155,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "100_w116": {
+    "sample_id": "100_w116",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5090,
+      "total_tokens": 5115,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_707_w11": {
+    "sample_id": "esconv_707_w11",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n  \"bond\": 2,\n  \"goal\": 3,\n  \"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5128,
+      "total_tokens": 5156,
+      "completion_tokens": 28,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "41_w48": {
+    "sample_id": "41_w48",
+    "dataset": "AnnoMI",
+    "bond": "2",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5416,
+      "total_tokens": 5441,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_48_w19": {
+    "sample_id": "esconv_48_w19",
+    "dataset": "ESConv",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5192,
+      "total_tokens": 5217,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_306_w5": {
+    "sample_id": "esconv_306_w5",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5114,
+      "total_tokens": 5139,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1088_w20": {
+    "sample_id": "esconv_1088_w20",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "3",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": 3\n}",
+    "usage": {
+      "prompt_tokens": 5126,
+      "total_tokens": 5150,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "100_w208": {
+    "sample_id": "100_w208",
+    "dataset": "AnnoMI",
+    "bond": "2",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5178,
+      "total_tokens": 5203,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "129_w28": {
+    "sample_id": "129_w28",
+    "dataset": "AnnoMI",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5091,
+      "total_tokens": 5116,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1058_w26": {
+    "sample_id": "esconv_1058_w26",
+    "dataset": "ESConv",
+    "bond": "4",
+    "goal": "4",
+    "task": "3",
+    "raw_output": "{\n\"bond\": 4,\n\"goal\": 4,\n\"task\": 3\n}",
+    "usage": {
+      "prompt_tokens": 5214,
+      "total_tokens": 5238,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_419_w8": {
+    "sample_id": "esconv_419_w8",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5088,
+      "total_tokens": 5113,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_582_w1": {
+    "sample_id": "esconv_582_w1",
+    "dataset": "ESConv",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5043,
+      "total_tokens": 5068,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_282_w26": {
+    "sample_id": "esconv_282_w26",
+    "dataset": "ESConv",
+    "bond": "4",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 4,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5166,
+      "total_tokens": 5191,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_68_w35": {
+    "sample_id": "esconv_68_w35",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5108,
+      "total_tokens": 5133,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_676_w17": {
+    "sample_id": "esconv_676_w17",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5236,
+      "total_tokens": 5261,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "100_w224": {
+    "sample_id": "100_w224",
+    "dataset": "AnnoMI",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n  \"bond\": 3,\n  \"goal\": 3,\n  \"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5163,
+      "total_tokens": 5191,
+      "completion_tokens": 28,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_168_w7": {
+    "sample_id": "esconv_168_w7",
+    "dataset": "ESConv",
+    "bond": "1",
+    "goal": "2",
+    "task": "1",
+    "raw_output": "{\n\"bond\": 1,\n\"goal\": 2,\n\"task\": 1\n}",
+    "usage": {
+      "prompt_tokens": 5078,
+      "total_tokens": 5102,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "126_w32": {
+    "sample_id": "126_w32",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5386,
+      "total_tokens": 5411,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_104_w53": {
+    "sample_id": "esconv_104_w53",
+    "dataset": "ESConv",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5109,
+      "total_tokens": 5134,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "62_w24": {
+    "sample_id": "62_w24",
+    "dataset": "AnnoMI",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5191,
+      "total_tokens": 5216,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "50_w16": {
+    "sample_id": "50_w16",
+    "dataset": "AnnoMI",
+    "bond": "2",
+    "goal": "3",
+    "task": "2",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": 2\n}",
+    "usage": {
+      "prompt_tokens": 5133,
+      "total_tokens": 5157,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1042_w21": {
+    "sample_id": "esconv_1042_w21",
+    "dataset": "ESConv",
+    "bond": "4",
+    "goal": "4",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 4,\n\"goal\": 4,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5144,
+      "total_tokens": 5169,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_787_w15": {
+    "sample_id": "esconv_787_w15",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "4",
+    "task": "3",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 4,\n\"task\": 3\n}",
+    "usage": {
+      "prompt_tokens": 5219,
+      "total_tokens": 5243,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "38_w68": {
+    "sample_id": "38_w68",
+    "dataset": "AnnoMI",
+    "bond": "3",
+    "goal": "4",
+    "task": "4",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 4,\n\"task\": 4\n}",
+    "usage": {
+      "prompt_tokens": 5298,
+      "total_tokens": 5322,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "60_w80": {
+    "sample_id": "60_w80",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5136,
+      "total_tokens": 5161,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_230_w2": {
+    "sample_id": "esconv_230_w2",
+    "dataset": "ESConv",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5031,
+      "total_tokens": 5056,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_304_w13": {
+    "sample_id": "esconv_304_w13",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "4",
+    "task": "3",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 4,\n\"task\": 3\n}",
+    "usage": {
+      "prompt_tokens": 5186,
+      "total_tokens": 5210,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "41_w36": {
+    "sample_id": "41_w36",
+    "dataset": "AnnoMI",
+    "bond": "4",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 4,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5154,
+      "total_tokens": 5179,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1182_w19": {
+    "sample_id": "esconv_1182_w19",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "3",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": 3\n}",
+    "usage": {
+      "prompt_tokens": 5179,
+      "total_tokens": 5203,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_134_w10": {
+    "sample_id": "esconv_134_w10",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5097,
+      "total_tokens": 5122,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_996_w17": {
+    "sample_id": "esconv_996_w17",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5139,
+      "total_tokens": 5164,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "100_w272": {
+    "sample_id": "100_w272",
+    "dataset": "AnnoMI",
+    "bond": "3",
+    "goal": "4",
+    "task": "3",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 4,\n\"task\": 3\n}",
+    "usage": {
+      "prompt_tokens": 5130,
+      "total_tokens": 5154,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1135_w1": {
+    "sample_id": "esconv_1135_w1",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "4",
+    "task": "3",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 4,\n\"task\": 3\n}",
+    "usage": {
+      "prompt_tokens": 5064,
+      "total_tokens": 5088,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_463_w13": {
+    "sample_id": "esconv_463_w13",
+    "dataset": "ESConv",
+    "bond": "4",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 4,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5170,
+      "total_tokens": 5195,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_504_w18": {
+    "sample_id": "esconv_504_w18",
+    "dataset": "ESConv",
+    "bond": "4",
+    "goal": "4",
+    "task": "3",
+    "raw_output": "{\n\"bond\": 4,\n\"goal\": 4,\n\"task\": 3\n}",
+    "usage": {
+      "prompt_tokens": 5278,
+      "total_tokens": 5302,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "100_w52": {
+    "sample_id": "100_w52",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5175,
+      "total_tokens": 5200,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_743_w3": {
+    "sample_id": "esconv_743_w3",
+    "dataset": "ESConv",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5061,
+      "total_tokens": 5086,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1171_w1": {
+    "sample_id": "esconv_1171_w1",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "5",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 5,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5084,
+      "total_tokens": 5109,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_295_w13": {
+    "sample_id": "esconv_295_w13",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5148,
+      "total_tokens": 5173,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "62_w20": {
+    "sample_id": "62_w20",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5118,
+      "total_tokens": 5143,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_282_w24": {
+    "sample_id": "esconv_282_w24",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5145,
+      "total_tokens": 5170,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1220_w11": {
+    "sample_id": "esconv_1220_w11",
+    "dataset": "ESConv",
+    "bond": "1",
+    "goal": "2",
+    "task": "1",
+    "raw_output": "{\n\"bond\": 1,\n\"goal\": 2,\n\"task\": 1\n}",
+    "usage": {
+      "prompt_tokens": 5118,
+      "total_tokens": 5142,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_758_w22": {
+    "sample_id": "esconv_758_w22",
+    "dataset": "ESConv",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5151,
+      "total_tokens": 5176,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_91_w23": {
+    "sample_id": "esconv_91_w23",
+    "dataset": "ESConv",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5205,
+      "total_tokens": 5230,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_80_w3": {
+    "sample_id": "esconv_80_w3",
+    "dataset": "ESConv",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5074,
+      "total_tokens": 5099,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_350_w15": {
+    "sample_id": "esconv_350_w15",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "5",
+    "task": "3",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 5,\n\"task\": 3\n}",
+    "usage": {
+      "prompt_tokens": 5264,
+      "total_tokens": 5288,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1006_w13": {
+    "sample_id": "esconv_1006_w13",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5127,
+      "total_tokens": 5152,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1100_w21": {
+    "sample_id": "esconv_1100_w21",
+    "dataset": "ESConv",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5148,
+      "total_tokens": 5173,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1238_w31": {
+    "sample_id": "esconv_1238_w31",
+    "dataset": "ESConv",
+    "bond": "5",
+    "goal": "4",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 5,\n\"goal\": 4,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5216,
+      "total_tokens": 5241,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "100_w160": {
+    "sample_id": "100_w160",
+    "dataset": "AnnoMI",
+    "bond": "2",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5261,
+      "total_tokens": 5286,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_287_w25": {
+    "sample_id": "esconv_287_w25",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "3",
+    "task": "2",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": 2\n}",
+    "usage": {
+      "prompt_tokens": 5151,
+      "total_tokens": 5175,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_833_w13": {
+    "sample_id": "esconv_833_w13",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5114,
+      "total_tokens": 5139,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_234_w16": {
+    "sample_id": "esconv_234_w16",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "2",
+    "task": "2",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 2,\n\"task\": 2\n}",
+    "usage": {
+      "prompt_tokens": 5159,
+      "total_tokens": 5183,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1013_w4": {
+    "sample_id": "esconv_1013_w4",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5117,
+      "total_tokens": 5142,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "43_w32": {
+    "sample_id": "43_w32",
+    "dataset": "AnnoMI",
+    "bond": "4",
+    "goal": "4",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 4,\n\"goal\": 4,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5143,
+      "total_tokens": 5168,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_587_w10": {
+    "sample_id": "esconv_587_w10",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "2",
+    "task": "2",
+    "raw_output": "{\n  \"bond\": 2,\n  \"goal\": 2,\n  \"task\": 2\n}",
+    "usage": {
+      "prompt_tokens": 5296,
+      "total_tokens": 5323,
+      "completion_tokens": 27,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_50_w10": {
+    "sample_id": "esconv_50_w10",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "2",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 2,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5092,
+      "total_tokens": 5117,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1174_w14": {
+    "sample_id": "esconv_1174_w14",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "3",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": 3\n}",
+    "usage": {
+      "prompt_tokens": 5193,
+      "total_tokens": 5217,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "64_w120": {
+    "sample_id": "64_w120",
+    "dataset": "AnnoMI",
+    "bond": "2",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5268,
+      "total_tokens": 5293,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "128_w20": {
+    "sample_id": "128_w20",
+    "dataset": "AnnoMI",
+    "bond": "5",
+    "goal": "5",
+    "task": "3",
+    "raw_output": "{\n\"bond\": 5,\n\"goal\": 5,\n\"task\": 3\n}",
+    "usage": {
+      "prompt_tokens": 5248,
+      "total_tokens": 5272,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "64_w132": {
+    "sample_id": "64_w132",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5182,
+      "total_tokens": 5207,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_921_w0": {
+    "sample_id": "esconv_921_w0",
+    "dataset": "ESConv",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5009,
+      "total_tokens": 5034,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1013_w1": {
+    "sample_id": "esconv_1013_w1",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "4",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 4,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5090,
+      "total_tokens": 5115,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "64_w124": {
+    "sample_id": "64_w124",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5329,
+      "total_tokens": 5354,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1232_w13": {
+    "sample_id": "esconv_1232_w13",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5160,
+      "total_tokens": 5185,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_470_w24": {
+    "sample_id": "esconv_470_w24",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "2",
+    "task": "2",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 2,\n\"task\": 2\n}",
+    "usage": {
+      "prompt_tokens": 5172,
+      "total_tokens": 5196,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_929_w18": {
+    "sample_id": "esconv_929_w18",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "2",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 2,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5170,
+      "total_tokens": 5195,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "100_w168": {
+    "sample_id": "100_w168",
+    "dataset": "AnnoMI",
+    "bond": "4",
+    "goal": "4",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 4,\n\"goal\": 4,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5264,
+      "total_tokens": 5289,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "100_w248": {
+    "sample_id": "100_w248",
+    "dataset": "AnnoMI",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5122,
+      "total_tokens": 5147,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1152_w12": {
+    "sample_id": "esconv_1152_w12",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5218,
+      "total_tokens": 5243,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "58_w68": {
+    "sample_id": "58_w68",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n  \"bond\": \"NA\",\n  \"goal\": \"NA\",\n  \"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5162,
+      "total_tokens": 5190,
+      "completion_tokens": 28,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "76_w28": {
+    "sample_id": "76_w28",
+    "dataset": "AnnoMI",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5154,
+      "total_tokens": 5179,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_1272_w31": {
+    "sample_id": "esconv_1272_w31",
+    "dataset": "ESConv",
+    "bond": "2",
+    "goal": "3",
+    "task": "2",
+    "raw_output": "{\n\"bond\": 2,\n\"goal\": 3,\n\"task\": 2\n}",
+    "usage": {
+      "prompt_tokens": 5130,
+      "total_tokens": 5154,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_771_w21": {
+    "sample_id": "esconv_771_w21",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "3",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 3,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5111,
+      "total_tokens": 5136,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "100_w156": {
+    "sample_id": "100_w156",
+    "dataset": "AnnoMI",
+    "bond": "NA",
+    "goal": "NA",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": \"NA\",\n\"goal\": \"NA\",\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5132,
+      "total_tokens": 5157,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  },
+  "esconv_87_w3": {
+    "sample_id": "esconv_87_w3",
+    "dataset": "ESConv",
+    "bond": "3",
+    "goal": "4",
+    "task": "NA",
+    "raw_output": "{\n\"bond\": 3,\n\"goal\": 4,\n\"task\": \"NA\"\n}",
+    "usage": {
+      "prompt_tokens": 5073,
+      "total_tokens": 5098,
+      "completion_tokens": 25,
+      "prompt_tokens_details": {
+        "cached_tokens": 3200,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": null
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  }
+}

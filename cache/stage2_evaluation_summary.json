@@ -1,0 +1,116 @@
+{
+  "Combined": {
+    "per_dimension": {
+      "Bond": {
+        "total_n": 150,
+        "valid_n": 121,
+        "icc": 0.6838,
+        "qwk": 0.6819,
+        "mae": 0.3554,
+        "exact_agree_pct": 59.33,
+        "na_agree_pct": 85.33
+      },
+      "Goal": {
+        "total_n": 150,
+        "valid_n": 122,
+        "icc": 0.4584,
+        "qwk": 0.4659,
+        "mae": 0.5328,
+        "exact_agree_pct": 48.0,
+        "na_agree_pct": 86.0
+      },
+      "Task": {
+        "total_n": 150,
+        "valid_n": 30,
+        "icc": 0.2579,
+        "qwk": 0.2718,
+        "mae": 0.6333,
+        "exact_agree_pct": 74.0,
+        "na_agree_pct": 84.67
+      }
+    },
+    "macro_averages": {
+      "macro_icc": 0.4667,
+      "macro_qwk": 0.4732,
+      "macro_mae": 0.5072,
+      "exact_agree_pct": 60.44,
+      "na_agree_pct": 85.33
+    }
+  },
+  "ESConv": {
+    "per_dimension": {
+      "Bond": {
+        "total_n": 100,
+        "valid_n": 81,
+        "icc": 0.5941,
+        "qwk": 0.5904,
+        "mae": 0.3951,
+        "exact_agree_pct": 57.0,
+        "na_agree_pct": 85.0
+      },
+      "Goal": {
+        "total_n": 100,
+        "valid_n": 79,
+        "icc": 0.4468,
+        "qwk": 0.4452,
+        "mae": 0.557,
+        "exact_agree_pct": 46.0,
+        "na_agree_pct": 84.0
+      },
+      "Task": {
+        "total_n": 100,
+        "valid_n": 26,
+        "icc": 0.2582,
+        "qwk": 0.2593,
+        "mae": 0.6154,
+        "exact_agree_pct": 71.0,
+        "na_agree_pct": 85.0
+      }
+    },
+    "macro_averages": {
+      "macro_icc": 0.433,
+      "macro_qwk": 0.4316,
+      "macro_mae": 0.5225,
+      "exact_agree_pct": 58.0,
+      "na_agree_pct": 84.67
+    }
+  },
+  "AnnoMI": {
+    "per_dimension": {
+      "Bond": {
+        "total_n": 50,
+        "valid_n": 40,
+        "icc": 0.832,
+        "qwk": 0.8284,
+        "mae": 0.275,
+        "exact_agree_pct": 64.0,
+        "na_agree_pct": 86.0
+      },
+      "Goal": {
+        "total_n": 50,
+        "valid_n": 43,
+        "icc": 0.3502,
+        "qwk": 0.3937,
+        "mae": 0.4884,
+        "exact_agree_pct": 52.0,
+        "na_agree_pct": 90.0
+      },
+      "Task": {
+        "total_n": 50,
+        "valid_n": 4,
+        "icc": -0.6667,
+        "qwk": -0.25,
+        "mae": 0.75,
+        "exact_agree_pct": 80.0,
+        "na_agree_pct": 84.0
+      }
+    },
+    "macro_averages": {
+      "macro_icc": 0.1718,
+      "macro_qwk": 0.324,
+      "macro_mae": 0.5045,
+      "exact_agree_pct": 65.33,
+      "na_agree_pct": 86.67
+    }
+  }
+}

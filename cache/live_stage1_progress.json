@@ -1,0 +1,490 @@
+{
+  "zero_shot": {
+    "esconv_885_w8": {
+      "sample_id": "esconv_885_w8",
+      "bond": 2,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_21_w21": {
+      "sample_id": "esconv_21_w21",
+      "bond": 3,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_100_w37": {
+      "sample_id": "esconv_100_w37",
+      "bond": 2,
+      "goal": 2,
+      "task": 2
+    },
+    "esconv_770_w19": {
+      "sample_id": "esconv_770_w19",
+      "bond": 2,
+      "goal": 2,
+      "task": "NA"
+    },
+    "esconv_464_w5": {
+      "sample_id": "esconv_464_w5",
+      "bond": 4,
+      "goal": 5,
+      "task": "NA"
+    },
+    "esconv_632_w19": {
+      "sample_id": "esconv_632_w19",
+      "bond": 2,
+      "goal": 4,
+      "task": 5
+    },
+    "esconv_1070_w1": {
+      "sample_id": "esconv_1070_w1",
+      "bond": 3,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_1008_w30": {
+      "sample_id": "esconv_1008_w30",
+      "bond": 2,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_795_w4": {
+      "sample_id": "esconv_795_w4",
+      "bond": 4,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_97_w22": {
+      "sample_id": "esconv_97_w22",
+      "bond": 2,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_132_w16": {
+      "sample_id": "esconv_132_w16",
+      "bond": 3,
+      "goal": 2,
+      "task": 2
+    },
+    "esconv_894_w25": {
+      "sample_id": "esconv_894_w25",
+      "bond": 3,
+      "goal": 4,
+      "task": 3
+    },
+    "esconv_540_w18": {
+      "sample_id": "esconv_540_w18",
+      "bond": 1,
+      "goal": 2,
+      "task": 3
+    },
+    "esconv_915_w11": {
+      "sample_id": "esconv_915_w11",
+      "bond": 4,
+      "goal": 5,
+      "task": "NA"
+    },
+    "esconv_599_w24": {
+      "sample_id": "esconv_599_w24",
+      "bond": 2,
+      "goal": 3,
+      "task": 2
+    },
+    "esconv_1008_w9": {
+      "sample_id": "esconv_1008_w9",
+      "bond": 2,
+      "goal": 3,
+      "task": 3
+    },
+    "esconv_190_w25": {
+      "sample_id": "esconv_190_w25",
+      "bond": 3,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_1021_w12": {
+      "sample_id": "esconv_1021_w12",
+      "bond": 3,
+      "goal": 2,
+      "task": "NA"
+    },
+    "esconv_1050_w18": {
+      "sample_id": "esconv_1050_w18",
+      "bond": 3,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_78_w24": {
+      "sample_id": "esconv_78_w24",
+      "bond": 3,
+      "goal": 3,
+      "task": 2
+    }
+  },
+  "cot_then_score": {
+    "esconv_885_w8": {
+      "sample_id": "esconv_885_w8",
+      "bond": 2,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_21_w21": {
+      "sample_id": "esconv_21_w21",
+      "bond": 2,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_100_w37": {
+      "sample_id": "esconv_100_w37",
+      "bond": 1,
+      "goal": 2,
+      "task": 2
+    },
+    "esconv_770_w19": {
+      "sample_id": "esconv_770_w19",
+      "bond": 2,
+      "goal": 1,
+      "task": "NA"
+    },
+    "esconv_464_w5": {
+      "sample_id": "esconv_464_w5",
+      "bond": 4,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_632_w19": {
+      "sample_id": "esconv_632_w19",
+      "bond": 2,
+      "goal": 3,
+      "task": 4
+    },
+    "esconv_1070_w1": {
+      "sample_id": "esconv_1070_w1",
+      "bond": "NA",
+      "goal": "NA",
+      "task": "NA"
+    },
+    "esconv_1008_w30": {
+      "sample_id": "esconv_1008_w30",
+      "bond": 3,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_795_w4": {
+      "sample_id": "esconv_795_w4",
+      "bond": 2,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_97_w22": {
+      "sample_id": "esconv_97_w22",
+      "bond": 2,
+      "goal": 3,
+      "task": 3
+    },
+    "esconv_132_w16": {
+      "sample_id": "esconv_132_w16",
+      "bond": 1,
+      "goal": 2,
+      "task": 2
+    },
+    "esconv_894_w25": {
+      "sample_id": "esconv_894_w25",
+      "bond": 4,
+      "goal": 4,
+      "task": "NA"
+    },
+    "esconv_540_w18": {
+      "sample_id": "esconv_540_w18",
+      "bond": 2,
+      "goal": 3,
+      "task": 3
+    },
+    "esconv_915_w11": {
+      "sample_id": "esconv_915_w11",
+      "bond": 4,
+      "goal": 4,
+      "task": "NA"
+    },
+    "esconv_599_w24": {
+      "sample_id": "esconv_599_w24",
+      "bond": 2,
+      "goal": 2,
+      "task": 3
+    },
+    "esconv_1008_w9": {
+      "sample_id": "esconv_1008_w9",
+      "bond": 2,
+      "goal": 2,
+      "task": 4
+    },
+    "esconv_190_w25": {
+      "sample_id": "esconv_190_w25",
+      "bond": 2,
+      "goal": 2,
+      "task": "NA"
+    },
+    "esconv_1021_w12": {
+      "sample_id": "esconv_1021_w12",
+      "bond": 2,
+      "goal": 2,
+      "task": "N/A"
+    },
+    "esconv_1050_w18": {
+      "sample_id": "esconv_1050_w18",
+      "bond": "NA",
+      "goal": "NA",
+      "task": "NA"
+    },
+    "esconv_78_w24": {
+      "sample_id": "esconv_78_w24",
+      "bond": 2,
+      "goal": 3,
+      "task": "NA"
+    }
+  },
+  "few_shot": {
+    "esconv_885_w8": {
+      "sample_id": "esconv_885_w8",
+      "bond": 2,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_21_w21": {
+      "sample_id": "esconv_21_w21",
+      "bond": 3,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_100_w37": {
+      "sample_id": "esconv_100_w37",
+      "bond": 2,
+      "goal": 2,
+      "task": 2
+    },
+    "esconv_770_w19": {
+      "sample_id": "esconv_770_w19",
+      "bond": "NA",
+      "goal": "NA",
+      "task": "NA"
+    },
+    "esconv_464_w5": {
+      "sample_id": "esconv_464_w5",
+      "bond": 4,
+      "goal": 5,
+      "task": 2
+    },
+    "esconv_632_w19": {
+      "sample_id": "esconv_632_w19",
+      "bond": 2,
+      "goal": 4,
+      "task": 4
+    },
+    "esconv_1070_w1": {
+      "sample_id": "esconv_1070_w1",
+      "bond": "NA",
+      "goal": "NA",
+      "task": "NA"
+    },
+    "esconv_1008_w30": {
+      "sample_id": "esconv_1008_w30",
+      "bond": 3,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_795_w4": {
+      "sample_id": "esconv_795_w4",
+      "bond": 3,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_97_w22": {
+      "sample_id": "esconv_97_w22",
+      "bond": 2,
+      "goal": 4,
+      "task": 4
+    },
+    "esconv_132_w16": {
+      "sample_id": "esconv_132_w16",
+      "bond": 2,
+      "goal": 2,
+      "task": 2
+    },
+    "esconv_894_w25": {
+      "sample_id": "esconv_894_w25",
+      "bond": 2,
+      "goal": 2,
+      "task": "NA"
+    },
+    "esconv_540_w18": {
+      "sample_id": "esconv_540_w18",
+      "bond": 1,
+      "goal": 2,
+      "task": 3
+    },
+    "esconv_915_w11": {
+      "sample_id": "esconv_915_w11",
+      "bond": 5,
+      "goal": 4,
+      "task": "NA"
+    },
+    "esconv_599_w24": {
+      "sample_id": "esconv_599_w24",
+      "bond": 2,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_1008_w9": {
+      "sample_id": "esconv_1008_w9",
+      "bond": 2,
+      "goal": 3,
+      "task": 2
+    },
+    "esconv_190_w25": {
+      "sample_id": "esconv_190_w25",
+      "bond": 3,
+      "goal": 2,
+      "task": 2
+    },
+    "esconv_1021_w12": {
+      "sample_id": "esconv_1021_w12",
+      "bond": 3,
+      "goal": 2,
+      "task": "NA"
+    },
+    "esconv_1050_w18": {
+      "sample_id": "esconv_1050_w18",
+      "bond": 3,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_78_w24": {
+      "sample_id": "esconv_78_w24",
+      "bond": "NA",
+      "goal": "NA",
+      "task": "NA"
+    }
+  },
+  "dimension_wise": {
+    "esconv_885_w8": {
+      "sample_id": "esconv_885_w8",
+      "bond": 2,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_21_w21": {
+      "sample_id": "esconv_21_w21",
+      "bond": 3,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_100_w37": {
+      "sample_id": "esconv_100_w37",
+      "bond": 1,
+      "goal": 2,
+      "task": 2
+    },
+    "esconv_770_w19": {
+      "sample_id": "esconv_770_w19",
+      "bond": 3,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_464_w5": {
+      "sample_id": "esconv_464_w5",
+      "bond": 4,
+      "goal": 5,
+      "task": "NA"
+    },
+    "esconv_632_w19": {
+      "sample_id": "esconv_632_w19",
+      "bond": 2,
+      "goal": 4,
+      "task": 4
+    },
+    "esconv_1070_w1": {
+      "sample_id": "esconv_1070_w1",
+      "bond": 3,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_1008_w30": {
+      "sample_id": "esconv_1008_w30",
+      "bond": 3,
+      "goal": 4,
+      "task": "NA"
+    },
+    "esconv_795_w4": {
+      "sample_id": "esconv_795_w4",
+      "bond": 4,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_97_w22": {
+      "sample_id": "esconv_97_w22",
+      "bond": 2,
+      "goal": 4,
+      "task": 4
+    },
+    "esconv_132_w16": {
+      "sample_id": "esconv_132_w16",
+      "bond": 2,
+      "goal": 3,
+      "task": 3
+    },
+    "esconv_894_w25": {
+      "sample_id": "esconv_894_w25",
+      "bond": 3,
+      "goal": 4,
+      "task": 2
+    },
+    "esconv_540_w18": {
+      "sample_id": "esconv_540_w18",
+      "bond": 1,
+      "goal": 2,
+      "task": 3
+    },
+    "esconv_915_w11": {
+      "sample_id": "esconv_915_w11",
+      "bond": 4,
+      "goal": 5,
+      "task": "NA"
+    },
+    "esconv_599_w24": {
+      "sample_id": "esconv_599_w24",
+      "bond": 2,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_1008_w9": {
+      "sample_id": "esconv_1008_w9",
+      "bond": 4,
+      "goal": 4,
+      "task": 4
+    },
+    "esconv_190_w25": {
+      "sample_id": "esconv_190_w25",
+      "bond": 2,
+      "goal": 2,
+      "task": "NA"
+    },
+    "esconv_1021_w12": {
+      "sample_id": "esconv_1021_w12",
+      "bond": 2,
+      "goal": 2,
+      "task": "NA"
+    },
+    "esconv_1050_w18": {
+      "sample_id": "esconv_1050_w18",
+      "bond": 3,
+      "goal": 3,
+      "task": "NA"
+    },
+    "esconv_78_w24": {
+      "sample_id": "esconv_78_w24",
+      "bond": 3,
+      "goal": 3,
+      "task": "NA"
+    }
+  }
+}

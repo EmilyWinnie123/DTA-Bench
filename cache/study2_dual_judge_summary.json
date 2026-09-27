@@ -1,0 +1,240 @@
+{
+  "provenance": {
+    "anonymization_map": "C:\\Users\\1rog\\dta_project\\cache\\study2_anonymization_map.json",
+    "claude_preds_file": "C:\\Users\\1rog\\dta_project\\cache\\study2_claude_eval_predictions.json",
+    "qwen_preds_file": "C:\\Users\\1rog\\dta_project\\cache\\study2_qwen_eval_predictions.json",
+    "total_responses": 450,
+    "random_seed": 42
+  },
+  "source_descriptives": {
+    "Human": {
+      "Claude": {
+        "Bond": {
+          "count": 150,
+          "valid_n": 138,
+          "mean": 2.4348,
+          "std": 0.761,
+          "median": 2.0,
+          "na_count": 12,
+          "na_rate_pct": 8.0
+        },
+        "Goal": {
+          "count": 150,
+          "valid_n": 138,
+          "mean": 2.8116,
+          "std": 0.7377,
+          "median": 3.0,
+          "na_count": 12,
+          "na_rate_pct": 8.0
+        },
+        "Task": {
+          "count": 150,
+          "valid_n": 46,
+          "mean": 2.4348,
+          "std": 0.6805,
+          "median": 2.0,
+          "na_count": 104,
+          "na_rate_pct": 69.33
+        }
+      },
+      "Qwen": {
+        "Bond": {
+          "count": 150,
+          "valid_n": 110,
+          "mean": 2.8818,
+          "std": 0.7596,
+          "median": 3.0,
+          "na_count": 40,
+          "na_rate_pct": 26.67
+        },
+        "Goal": {
+          "count": 150,
+          "valid_n": 111,
+          "mean": 3.0721,
+          "std": 0.6536,
+          "median": 3.0,
+          "na_count": 39,
+          "na_rate_pct": 26.0
+        },
+        "Task": {
+          "count": 150,
+          "valid_n": 33,
+          "mean": 2.4545,
+          "std": 0.6556,
+          "median": 2.0,
+          "na_count": 117,
+          "na_rate_pct": 78.0
+        }
+      }
+    },
+    "Gemini": {
+      "Claude": {
+        "Bond": {
+          "count": 150,
+          "valid_n": 129,
+          "mean": 4.2093,
+          "std": 0.8134,
+          "median": 4.0,
+          "na_count": 21,
+          "na_rate_pct": 14.0
+        },
+        "Goal": {
+          "count": 150,
+          "valid_n": 129,
+          "mean": 3.8527,
+          "std": 0.7055,
+          "median": 4.0,
+          "na_count": 21,
+          "na_rate_pct": 14.0
+        },
+        "Task": {
+          "count": 150,
+          "valid_n": 26,
+          "mean": 3.8846,
+          "std": 0.847,
+          "median": 4.0,
+          "na_count": 124,
+          "na_rate_pct": 82.67
+        }
+      },
+      "Qwen": {
+        "Bond": {
+          "count": 150,
+          "valid_n": 137,
+          "mean": 4.3212,
+          "std": 0.672,
+          "median": 4.0,
+          "na_count": 13,
+          "na_rate_pct": 8.67
+        },
+        "Goal": {
+          "count": 150,
+          "valid_n": 138,
+          "mean": 3.8406,
+          "std": 0.6284,
+          "median": 4.0,
+          "na_count": 12,
+          "na_rate_pct": 8.0
+        },
+        "Task": {
+          "count": 150,
+          "valid_n": 23,
+          "mean": 3.5217,
+          "std": 0.6507,
+          "median": 4.0,
+          "na_count": 127,
+          "na_rate_pct": 84.67
+        }
+      }
+    },
+    "DeepSeek": {
+      "Claude": {
+        "Bond": {
+          "count": 150,
+          "valid_n": 133,
+          "mean": 4.0,
+          "std": 0.8496,
+          "median": 4.0,
+          "na_count": 17,
+          "na_rate_pct": 11.33
+        },
+        "Goal": {
+          "count": 150,
+          "valid_n": 132,
+          "mean": 3.6667,
+          "std": 0.7247,
+          "median": 4.0,
+          "na_count": 18,
+          "na_rate_pct": 12.0
+        },
+        "Task": {
+          "count": 150,
+          "valid_n": 29,
+          "mean": 3.6897,
+          "std": 0.9862,
+          "median": 4.0,
+          "na_count": 121,
+          "na_rate_pct": 80.67
+        }
+      },
+      "Qwen": {
+        "Bond": {
+          "count": 150,
+          "valid_n": 138,
+          "mean": 4.0797,
+          "std": 0.762,
+          "median": 4.0,
+          "na_count": 12,
+          "na_rate_pct": 8.0
+        },
+        "Goal": {
+          "count": 150,
+          "valid_n": 138,
+          "mean": 3.7754,
+          "std": 0.6258,
+          "median": 4.0,
+          "na_count": 12,
+          "na_rate_pct": 8.0
+        },
+        "Task": {
+          "count": 150,
+          "valid_n": 22,
+          "mean": 3.5455,
+          "std": 0.6556,
+          "median": 3.0,
+          "na_count": 128,
+          "na_rate_pct": 85.33
+        }
+      }
+    }
+  },
+  "inter_judge_agreement": {
+    "Bond": {
+      "total_n": 450,
+      "valid_n": 347,
+      "both_na": 12,
+      "icc21": 0.7662,
+      "qwk": 0.7657,
+      "mae": 0.4294,
+      "numeric_exact_count": 209,
+      "numeric_exact_pct": 60.23,
+      "overall_exact_count": 221,
+      "overall_exact_pct": 49.11,
+      "na_agree_pct": 79.78
+    },
+    "Goal": {
+      "total_n": 450,
+      "valid_n": 349,
+      "both_na": 13,
+      "icc21": 0.5119,
+      "qwk": 0.5112,
+      "mae": 0.5043,
+      "numeric_exact_count": 191,
+      "numeric_exact_pct": 54.73,
+      "overall_exact_count": 204,
+      "overall_exact_pct": 45.33,
+      "na_agree_pct": 80.44
+    },
+    "Task": {
+      "total_n": 450,
+      "valid_n": 62,
+      "both_na": 333,
+      "icc21": 0.5771,
+      "qwk": 0.5731,
+      "mae": 0.6935,
+      "numeric_exact_count": 26,
+      "numeric_exact_pct": 41.94,
+      "overall_exact_count": 359,
+      "overall_exact_pct": 79.78,
+      "na_agree_pct": 87.78
+    },
+    "macro_averages": {
+      "macro_icc21": 0.6184,
+      "macro_qwk": 0.6167,
+      "macro_mae": 0.5424,
+      "macro_num_exact_pct": 52.3,
+      "macro_overall_exact_pct": 58.07,
+      "macro_na_agree_pct": 82.67
+    }
+  }
+}

@@ -1,0 +1,2472 @@
+{
+  "esconv_885_w8": {
+    "sample_id": "esconv_885_w8",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Supporter: It seems like an exhausting time for a lot of people right now\nSupporter: I'm also a bit tired but doing OK\nSupporter: What's been on your mind recently?\nSeeker: just trying to finish this semester\n\nSupporter: It seems like a stressful time to be in college.",
+    "seeker_utterance": "",
+    "supporter_response": "How have you been coping with everything going on?",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_166_w17": {
+    "sample_id": "esconv_166_w17",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: I had breakup with my partner ,it was really very horrible to me to overcome .\nSupporter: Was he abusive, tell me more.\nSeeker: I tried a lot but i couldnt forget him at all \nSeeker: He was not abusive at all \nSupporter: So what was the problem?",
+    "seeker_utterance": "",
+    "supporter_response": "Tell me more.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "100_w68": {
+    "sample_id": "100_w68",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: -a burger flipper or something like that. Not that there's anything wrong with it, but I feel like I have a little bit more to offer-\nTherapist: Mm-hmm.\nClient: -you know, and, um, I don't know, it's a really, it's-it's like being caught between a rock and a hard place.\nTherapist: Mm-hmm. So, what have you looked into about, um, you know, advocacy in that area or expungement or anything like that?\nClient: I have done, and my eyes have, you know, just become like mush after all the reading I've done on this situation.",
+    "seeker_utterance": "I have done, and my eyes have, you know, just become like mush after all the reading I've done on this situation.",
+    "supporter_response": "What did you find out?",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_624_w18": {
+    "sample_id": "esconv_624_w18",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: Yes, that's true.  Maybe that will help me pass the time too when it is so hard to be at home.  I would be working toward a long term goal.\nSupporter: Some people share their concerns with family members or friends.  Are you open to discussing the problem with others to get some support?\nSeeker: I think that would be a good idea.  \nSupporter: I think that the support of family can be so helpful especially when in this difficult situation.\nSeeker: Thank you for the help.  I feel a lot more comfortable thinking about the future.",
+    "seeker_utterance": "Thank you for the help.  I feel a lot more comfortable thinking about the future.",
+    "supporter_response": "I'm glad to hear this.  Is there anything else I can do for you?",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_1125_w22": {
+    "sample_id": "esconv_1125_w22",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: Yeah, he doesn't seem very nice, but its good that you don't retaliate negatively \nSeeker: Yeah, I used to be really depressed living there. I haven't thought about why I moved but you are helping me remember that i'm better off now. I am lonely but so much happier not living in the turmoil over there.\nSupporter: Its a good thing you moved then because at least now you are away from him\nSupporter: You should always try to be happy\nSeeker: Yep, I am feeling better today . Thank you for listening. Maybe I should just get a new rescue dog or something like that today? I don't want to dwell on my brother or that negativity. I am feeling a lot more hopeful just sharing my feelings.",
+    "seeker_utterance": "Yep, I am feeling better today . Thank you for listening. Maybe I should just get a new rescue dog or something like that today? I don't want to dwell on my brother or that negativity. I am feeling a lot more hopeful just sharing my feelings.",
+    "supporter_response": "Yes its good to not dwell on the past like that. Have a good day :)",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 2.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_338_w4": {
+    "sample_id": "esconv_338_w4",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: HI, how are you today?\n\nSeeker: I am not doing well. I am very worried about my son's chances of recovery after so many relapses and frustrated because I know there is really nothing I can do to change things for him.\nSupporter: You must be very frustrated from feeling unable to do something.\nSeeker: I am. He is a different person when he's not on drugs but when he is using he can get really mean and he scares me.",
+    "seeker_utterance": "I am. He is a different person when he's not on drugs but when he is using he can get really mean and he scares me.",
+    "supporter_response": "I remember when my mother was having end of life mental declining issues. I understand feeling as if the person is changing and having unusual moods and mood swings.  ",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_574_w8": {
+    "sample_id": "esconv_574_w8",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: When I first called this number a voice said to state what the problem. Do you have that information?\nSupporter: I'm not aware of there being a phone number for you to call. This is a task that is supposed to be done via Amazon's Mechanical Turk platform. I believe you're supposed to tell me what the problem is. Then, I will help you through it as best as I can.\nSeeker: Give me a minute and I'll restate it okay?\nSupporter: That sounds good!\nSeeker: Friday while out doing last minute Thanksgiving shopping I got a call from my best firend's that my best friend was rushed to the hospital. I hung up and rushed to the hospital. When I got there my fiance and my best friend's family were all there. Hold on let me finish.",
+    "seeker_utterance": "Friday while out doing last minute Thanksgiving shopping I got a call from my best firend's that my best friend was rushed to the hospital. I hung up and rushed to the hospital. When I got there my fiance and my best friend's family were all there. Hold on let me finish.",
+    "supporter_response": "I'm so sorry to hear that. Take your time!",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "126_w48": {
+    "sample_id": "126_w48",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Therapist: All right. Well, you're going to take one tablet of cholesterol statin 20 one time a day by mouth, and you can take that with or without food. When do you usually take your medications?\nClient: I take all my other medications right before I go to bed. So I guess I could take it then.\nTherapist: That's perfect. This medication can be taken any time of the day, but it does work best if taken in the evening, and it's important to take it every day.\nTherapist: Where do you store your medications?\nClient: I store them all in the nightstand by my bed.",
+    "seeker_utterance": "I store them all in the nightstand by my bed.",
+    "supporter_response": "Do you have children in your house?",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "43_w36": {
+    "sample_id": "43_w36",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Right\nTherapist: And you just mentioned too, you feel really proud of yourself.\nClient: Yeah.\nTherapist: So to end our conversation, how do you think you couldn't move? You originally said, you were at four or five, what would have to happen to get you to like a seven, to feel more confident?\nClient: Well, considering this test is coming on the way in a few days, um, I think, for me and just like practicing and just really seeing how I do and if I do well, then I think my confidence might go up a little bit.",
+    "seeker_utterance": "Well, considering this test is coming on the way in a few days, um, I think, for me and just like practicing and just really seeing how I do and if I do well, then I think my confidence might go up a little bit.",
+    "supporter_response": "Mm-hmm",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_1078_w16": {
+    "sample_id": "esconv_1078_w16",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: Yes. I'm not only invested in him. I have a SUPER close relationship with his two daughters. Some of the reason he wanted to see me after our \"break up\" is because he didn't want to tell his daughters that I might be out of their lives forever. He told me so much.\n\nSeeker: And I love those girls so much.\n\nSeeker: They're 13 and 16. They were 7 and 11 when I started seeing their dad.\n\nSupporter: There are a lot of therapists out there that might be able to help you navigate this. It's OK to get some outside help. \nSeeker: That's a good suggestion. I think individual therapy might benefit me. I could ask him if he's open to couple's counseling--even if it's over, it could help with closure.\n",
+    "seeker_utterance": "That's a good suggestion. I think individual therapy might benefit me. I could ask him if he's open to couple's counseling--even if it's over, it could help with closure.\n",
+    "supporter_response": "Considering how much time you've put in to this relationship, I can tell you have a lot of feelings about all of this. \n",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_973_w34": {
+    "sample_id": "esconv_973_w34",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: You can also try reducing caffeine intake 6 hours before bed.\nSeeker: Oh that is great I drink coffee an hour before bed on some days \nSupporter: As you know this can keep your brain stimulated and prevent you from going to sleep.\nSeeker: I didn't know that \n\nSupporter: I used to drink too much coffee and I was tired all day but could never sleep right.\n",
+    "seeker_utterance": "",
+    "supporter_response": "I used to drink too much coffee and I was tired all day but could never sleep right.\n",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "68_w156": {
+    "sample_id": "68_w156",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Yeah.\nTherapist: -would like to make some adjustments-\nClient: Mm-hmm.\nTherapist: -to-to make it a little smoother. Okay. So, kind of thinking along those lines, how important is it to you make some changes or make some adjustments to your drinking to sort of fit with your values and your goals for yourself?\nClient: Um, I'd like to make sure that I'd, you know, in terms of respecting myself and my body, I'd like to, you know, try to drink less.",
+    "seeker_utterance": "Um, I'd like to make sure that I'd, you know, in terms of respecting myself and my body, I'd like to, you know, try to drink less.",
+    "supporter_response": "Okay.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_1197_w18": {
+    "sample_id": "esconv_1197_w18",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: My dog has also helped me meet other people and make friends- sometimes I'll walk my dog with others or go on bike rides with friends. If there is a dog park or local park nearby, maybe you can go and talk to other people there- talking about your dogs is a great icebreaker!\nSeeker: I know about a local dog park and think I will visit it today. That is a really good idea. I don't need a bike for that.\nSupporter: I'm glad to hear that! I hope you have a great time there! Research has also shown that spending time outside everyday is really good for our mental health.\n\nSeeker: You are giving me something to think about that isn't related to the break up. I feel like a weight is sort of lifting off of me. I think I needed to talk and get some of my feelings on the table today.\nSupporter: If you are still interested in getting a bike, I'd say go for it too! Biking is a great stress relief and form of exercise that often makes me feel better. ",
+    "seeker_utterance": "",
+    "supporter_response": "I am so glad to hear that and am so happy you are talking to me is making you feel better. ",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_10_w14": {
+    "sample_id": "esconv_10_w14",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: Ha I'm a mother of two small children, I'm always tired lol\nSupporter: Mom of 2 kids! You must be super busy. \nSupporter: How are they doing today, playful? calm?\nSeeker: I'm always busy im surprised i can sit down to do this lol\nSupporter: Oh well, it is a small gift then. I hope you can utilize this nice time",
+    "seeker_utterance": "",
+    "supporter_response": "Never know when you lose your free time, it maybe in a next few minutes?\n",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": null
+    }
+  },
+  "43_w40": {
+    "sample_id": "43_w40",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Well, considering this test is coming on the way in a few days, um, I think, for me and just like practicing and just really seeing how I do and if I do well, then I think my confidence might go up a little bit.\nTherapist: Mm-hmm\nClient: And maybe just having that faith in myself that, you know, that I can do it instead of just thinking that I can't.\nTherapist: So that positive self-talk could really go a long way for you?\nClient: Yeah. Mm-hmm.",
+    "seeker_utterance": "Yeah. Mm-hmm.",
+    "supporter_response": "So to summarize, it sounds like you are still feeling kind of anxious about this test coming up, you've rescheduled it, um, over the past couple years. Yet, this time around, you seem more confident to just get it done. And you've even mentioned times in the past where you were feeling anxious and you were successful about it and that you felt proud about yourself. And you liked the way it means, you see yourself and how others saw you, and it seems like y-you're ready to finish this exam and-and remind yourself that you can be successful?",
+    "scores": {
+      "Bond": 5.0,
+      "Goal": 5.0,
+      "Task": null
+    }
+  },
+  "esconv_54_w36": {
+    "sample_id": "esconv_54_w36",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: They're gonna give out 600 dollars to us I hope\n\nSupporter: That would be a big help for people who are struggling! \nSeeker: Right now I am not too desperate and can enjoy listening to Christmas songs,\n\nSupporter: Christmas is a good time of year but it is also expensive. Do you think that it has increased your financial woes? \nSeeker: It is a beautiful time. Not really, as I did not buy any expensive gifts etc\n",
+    "seeker_utterance": "It is a beautiful time. Not really, as I did not buy any expensive gifts etc\n",
+    "supporter_response": "I am glad to hear that .. too many people think they have to spend too much. Anyway I hope you have had a lovely day and all the best to you ",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_324_w15": {
+    "sample_id": "esconv_324_w15",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: Yes, I like to watch movies and workout. THat's about it. with a wife and 2 kids, I don't have more time.\n\nSupporter: Sometimes some of the best things we can do is t get out and away from all the things that WE as people have created. Get into the woods and throw a ball around.\nSeeker: That would be nice. Is that what you do when you are stressed or depressed?\n\nSupporter: I understand, especially having the remote learning going on, it is hard to get away from work and school.\nSeeker: Yeah. How do you cope with your stresses? I find myself drinking more than I want now too.\n",
+    "seeker_utterance": "Yeah. How do you cope with your stresses? I find myself drinking more than I want now too.\n",
+    "supporter_response": "I try to, I love packing a day back with some easy snacks, and going out for a hike through the woods. Sometimes I use the state trails but sometimes I just go out and make my own new trail. ",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": 3.0
+    }
+  },
+  "esconv_631_w19": {
+    "sample_id": "esconv_631_w19",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: I do feel that part of my problem is that I am afraid to really open up about it. You are the first person I have really felt able to talk to. \nSupporter: I am pleased that you have been able to open up to me, it is the first step towards you finding your path. Do you find it easy to write things down?\n\nSeeker: Yes, it is really much more easy to write my problems down than to actually talk to people about them face to face. \nSupporter: One suggestion is for you to write down all the reasons that you love microbiology. It can be any format, I love a bubble chart (mind map), it could be in list form or just doodles, would this be something you would find useful?\n\nSeeker: Yes, that is a fantastic idea! Maybe I can find a renewed interest in the subject. I hope that I can because I really do not want my time studying to have been wasted. ",
+    "seeker_utterance": "Yes, that is a fantastic idea! Maybe I can find a renewed interest in the subject. I hope that I can because I really do not want my time studying to have been wasted. ",
+    "supporter_response": "It would be a really good place to start. Then you could be really kind to yourself and take some pressure off. Would you like to talk through some ideas to help with the work itself?\n",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 5.0,
+      "Task": 4.0
+    }
+  },
+  "esconv_1288_w17": {
+    "sample_id": "esconv_1288_w17",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: I am also trying to accept that my medical issues are getting worse and I can not do all that I use to, and that truly frustrates me as well.\n\nSupporter: Do you think the anger you are feeling is directly a result of the situation? Do you feel the anger is manifested from somewhere else? I think it is important to get to the underlying source of the anger and take care of that first and foremost.\nSupporter: That's concerning, but very understandable. Are you able to financially seek additional help? Sometimes it's just what you need, as hard or embarrassing as that may seem. No one needs to know what you seek, but it is important not to disregard additional help, be it mental health, physical therapy, or just general prevention and detection from a PCP.\nSeeker: I feel that I am having trouble dealing with the fact that I am not able to do all the things I want to do.  It is not an easy thing to lose your abilities when you feel so young but your body says otherwise.\n\nSeeker: I was in physical therapy but could not afford it any longer.  So instead I purchased my own hot tub to be able to soak in and do some water exercises that may help me.\n",
+    "seeker_utterance": "I was in physical therapy but could not afford it any longer.  So instead I purchased my own hot tub to be able to soak in and do some water exercises that may help me.\n",
+    "supporter_response": "I think that's a normal way to feel and a frustrating part of growing older. I think focusing on positives and things you enjoy will help keep your mind away from thinking about \"what used to be\" or \"what once was\" - finding passions and joys in new things could help revitalize you. \nCan I help you find new hobbies or passions?",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 2.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_21_w21": {
+    "sample_id": "esconv_21_w21",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: Yes. I live in the country so I can go for nice walks when the weather is nice. Staying safe is definitely important right now.\nSupporter: Oh...it's fortunate that you live in the country. Can you take some deep breathes and watch the trees, the animals, and nature....they are all here for us???\nSeeker: Yes that is exactly what I do. Thank you so much for your help today. You have made me feel better just having someone to vent to.\nSupporter: Keep venting, if it makes you feel better. I know I do when I can talk to someone I don't know. Is it nice where you are today, so that you can look at something bigger than the indoors?? That often helps me feel better.\nSeeker: Yes. It the weather is very pretty here today. As a matter of fact, I think I am fixing to go for a nice walk. I hope you have a wonderful day and thank you for listening.\n",
+    "seeker_utterance": "Yes. It the weather is very pretty here today. As a matter of fact, I think I am fixing to go for a nice walk. I hope you have a wonderful day and thank you for listening.\n",
+    "supporter_response": "You bet, I hope you feel so much better and can take that with you tomorrow--that you had a good day on the day after Christmas!!!!",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "50_w32": {
+    "sample_id": "50_w32",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: So I-I definitely don't want to give that up, but—\nTherapist: I gotcha. Okay.\nClient: Uh—\nTherapist: So that one's important.\nClient: Mm-hmm.",
+    "seeker_utterance": "Mm-hmm.",
+    "supporter_response": "Yeah.",
+    "scores": {
+      "Bond": null,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_100_w37": {
+    "sample_id": "esconv_100_w37",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: Oh, wow.\nSeeker: How did you handle anxiety? I am having some right now.\nSupporter: i would suggest to play games or try to connect with new people\nSeeker: Should I confront Brad at my ex-GF's workplace or start looking online for another partner?\nSeeker: You think connecting with other people would work? Like a support group?",
+    "seeker_utterance": "You think connecting with other people would work? Like a support group?",
+    "supporter_response": "start looking for a new one because if she wanted to stay with you she would have never ditched you for Brad",
+    "scores": {
+      "Bond": 1.0,
+      "Goal": 2.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_414_w24": {
+    "sample_id": "esconv_414_w24",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: She made fantastic hot chocolate though, and i'm really going to miss that\n\nSeeker: I think I need to learn to be more self-reliant from now on, maybe even make my own hot chocolate from time to time\n\nSupporter: haha, well your future partner might have something even better than that\nSeeker: One day i'll find a woman who can make the perfect macarons, since i've failed every time i've tried\n\nSeeker: Thank you for showing me that there is hope though\n",
+    "seeker_utterance": "Thank you for showing me that there is hope though\n",
+    "supporter_response": "of course, if you try to be your better version, a better girl will show up ",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": 2.0
+    }
+  },
+  "50_w8": {
+    "sample_id": "50_w8",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Right.\nTherapist: -on the hospital floor, you know, for frequently.\nClient: Gotta stay on, yeah.\nTherapist: Yeah, yeah, and then the blood pressure thing. Does that sound about right?\nClient: Yeah, yeah. Well, you know, and sometimes, like I said, it does kind of make me a little jittery and, um, I don't know. I-I-I'm not- I'm not as happy and relaxed as I normally am. But you know, I-I really like it, and-and like I said, it makes me more aware of what's going on and-and I'm-- I-I feel like I'm much more observant.",
+    "seeker_utterance": "Yeah, yeah. Well, you know, and sometimes, like I said, it does kind of make me a little jittery and, um, I don't know. I-I-I'm not- I'm not as happy and relaxed as I normally am. But you know, I-I really like it, and-and like I said, it makes me more aware of what's going on and-and I'm-- I-I feel like I'm much more observant.",
+    "supporter_response": "Yeah. How about frequency? Do you feel like you're good on how much coffee you're drinking?",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_330_w34": {
+    "sample_id": "esconv_330_w34",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: are you a machine?\n\nSupporter: I use Medium and now I also have another account with them called Patreon\nSeeker: yes i know of patreon\n\nSupporter: Nope i am a born again Christian\nSeeker: lol amazing\n",
+    "seeker_utterance": "lol amazing\n",
+    "supporter_response": "are you a machine",
+    "scores": {
+      "Bond": null,
+      "Goal": null,
+      "Task": null
+    }
+  },
+  "esconv_124_w23": {
+    "sample_id": "esconv_124_w23",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: But what if she gets mad?\n\nSupporter: I don't see why she would get mad but if she does then just leave it alone and move on and just do your job\nSupporter: That is what i would do\nSeeker: Yea, I guess so. \n\nSupporter: I honestly do not think she will get mad just try to talk to her ",
+    "seeker_utterance": "",
+    "supporter_response": "I would just let it go because to me it's not worth being mad over for a long time you have to just let it go ",
+    "scores": {
+      "Bond": 1.0,
+      "Goal": 2.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_1255_w2": {
+    "sample_id": "esconv_1255_w2",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: Hello there!  how are you doing?\n\nSeeker: I'm doing OK.  Just stressed about work.\n",
+    "seeker_utterance": "I'm doing OK.  Just stressed about work.\n",
+    "supporter_response": "What's been going on lately?  Is something in particular there stressing you out?",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_134_w33": {
+    "sample_id": "esconv_134_w33",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: But I appreciate your suggestions \nSeeker: and you make a great point about the workplace being hostile \nSupporter: Sure, I understand.\nSeeker: I should trust my partner more than any random person. \nSupporter: Yes, the workplace is not like home life.  ",
+    "seeker_utterance": "",
+    "supporter_response": "Yes, trust matters.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_985_w1": {
+    "sample_id": "esconv_985_w1",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: HI I have such trouble sleeping\n",
+    "seeker_utterance": "HI I have such trouble sleeping\n",
+    "supporter_response": "Hello! How is life treating you right now? ",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_673_w13": {
+    "sample_id": "esconv_673_w13",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: I will try food pantry. my sister goes to the city once a month , we shop for the month and i stay with my siter.\nSupporter: Well its seem that you now have a plan try it out see how it works, hopefully this will get back to normal sooner than later and life may go back to somewhat normal and your stress level and mental exhaustion will also subside. Is there anything else you would like to talk about?\nSeeker: Well I have been wanting a relationship. and i normally dont feel that way at all. and past week i think how much i kind of should have a family as I am 37 but not sure if i truly want that or i just miss human contact as i have only been around family and not gone out at all except to walk and go to store in town, and am confused if it is actully me wanting somone in my life or just a physical thing\n\nSupporter: I think your exactly right, human contact is now a premium and I'm sure you miss that contact that we were once so use to. Missing the contact makes you realize how much you enjoy the company of others. Take it slow and once the vaccine is out ease your way back into the dating scene and see if a relationship is what you really wanted after all.\nSeeker: yeah i mean emotionally i want to go maybe try a date or two or even just an adult night out but know logically it is a VERY risky idea. And that I need to not do anything like that till next year at the minimum . I do appreciate the advice and ideas",
+    "seeker_utterance": "yeah i mean emotionally i want to go maybe try a date or two or even just an adult night out but know logically it is a VERY risky idea. And that I need to not do anything like that till next year at the minimum . I do appreciate the advice and ideas",
+    "supporter_response": "Remember that age is only a number and love will no no number, we are hear to listen and support you so if you ever need to talk just know we are a mouse click away.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_1051_w31": {
+    "sample_id": "esconv_1051_w31",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: I am not familiar with the dating situation in pandemic time. I would say take it slow. If it is a right partner for you, it will make you a better person. \nSeeker: yeah sure..I will take it slow..I think that will help me\n\nSupporter: I am glad that we are able to chat. I hope things can start working out for you and you are able to move on to a new chapter of life. \nSeeker: Yeah thank you for your help..I appreciate it..\n\nSeeker: I hope you have a wonderful day..Stay safe and healthy.\n",
+    "seeker_utterance": "I hope you have a wonderful day..Stay safe and healthy.\n",
+    "supporter_response": "Thank you. You too. I wish you all the best.",
+    "scores": {
+      "Bond": null,
+      "Goal": null,
+      "Task": null
+    }
+  },
+  "esconv_931_w26": {
+    "sample_id": "esconv_931_w26",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: I have to get better no matter what.Are there other tactics you can share with me with regards to my current situation?\n\nSupporter: There are resources online that perhaps you could look into to help with expressing yourself.\nSeeker: Is there any particular resource you can refer me to?\n\nSupporter: Yes just a moment\nSeeker: Waiting,thank you\n",
+    "seeker_utterance": "Waiting,thank you\n",
+    "supporter_response": "I was going to send you a few links but it wont let me",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_770_w19": {
+    "sample_id": "esconv_770_w19",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: Thank you.  thought if I start crying, it means that I am failure\n\nSupporter: Listen I'm on the same boat as you. It can get depressing. However, I light scented candles, play uplifting music on the background. I learn how to cook and started a new series on a netflix. \nSupporter: I'll be honest, I'm a man (not like it means anything). I cry a couple times a week in the shower. Why? Because it helps get rid of the negatively that burdens me. After that I feel better.\n\nSeeker: It feels good to talk to someone. I am glad I started talking about my problems.\n\nSupporter: Remember it's okay to cry, then try breathing and then carry on with your day :)",
+    "seeker_utterance": "",
+    "supporter_response": "I'm glad to help!",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "64_w144": {
+    "sample_id": "64_w144",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: No.\nTherapist: -and it's-it's hard-\nClient: It's not.\nTherapist: -it's hard. But is-is there, I just wonder, is there a connection at all between the-the-the-the acting and the meth use in terms of the effect of the meth use on your- on your ability to get work?\nClient: Hmm. Could have been a couple of auditions that I didn't do so well and as I could have 'cause of that.",
+    "seeker_utterance": "Hmm. Could have been a couple of auditions that I didn't do so well and as I could have 'cause of that.",
+    "supporter_response": "The drug may have had an effect on that?",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "88_w12": {
+    "sample_id": "88_w12",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: I will try.\nTherapist: So what are some specific steps you would need to take to get to school on time for first hour?\nClient: I can't ever get up in the morning. So that's hard and then by the time I do get up, and then I get ready and get dressed, I miss the bus. So then I usually end up walking or see if I can find a ride. So it could be a bunch of different reasons why I'm late.\nTherapist: Okay, so it's not just one major thing?\nClient: No.",
+    "seeker_utterance": "No.",
+    "supporter_response": "So knowing that a couple of things can really get in your way, what do you think would work best for you to get to school on time? What do you know you need to do?",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 5.0,
+      "Task": 3.0
+    }
+  },
+  "esconv_1240_w16": {
+    "sample_id": "esconv_1240_w16",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: its morning 11:36\nSeeker: Have you experienced heartbreak before?\nSeeker: It is 5:37am here\nSupporter: Yes i hade this before than i engaged in other activity than i come out from this\nSupporter: try to make engaged your self in other activity",
+    "seeker_utterance": "",
+    "supporter_response": "its help you to come out from this situation ",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_1247_w33": {
+    "sample_id": "esconv_1247_w33",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: Thanks for your suggestion though.\nSupporter: That's great! Now you can all go swimming together. \nSupporter: Maybe that can be an activity that you all do together a couple times a week.\nSeeker: I can't join their classes.\nSeeker: Yes, I am doing that.  ",
+    "seeker_utterance": "Yes, I am doing that.  ",
+    "supporter_response": "No, but I'm sure that there is a fitness club or city pool where you all can share your skills.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_464_w5": {
+    "sample_id": "esconv_464_w5",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: Hello?\n\nSupporter: Hi\nSeeker: I could use some help. I'm not feeling so well.\n\nSupporter: What can I help you with tonight>\n\nSeeker: My girlfriend broke up with me and I think I'm suffering from depression now. Everything feels like a chore and I'm sad all of the time.\n",
+    "seeker_utterance": "My girlfriend broke up with me and I think I'm suffering from depression now. Everything feels like a chore and I'm sad all of the time.\n",
+    "supporter_response": "From what you are telling me, you are very upset about your girlfriend breaking up with you and you don't feel motivated to do anything, is that right?\n",
+    "scores": {
+      "Bond": 4.0,
+      "Goal": 5.0,
+      "Task": null
+    }
+  },
+  "esconv_646_w6": {
+    "sample_id": "esconv_646_w6",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: Good Afternoon\n\nSupporter: How are you doing troday?\nSeeker: I am Ok thanks but have an unusual issue. I think my girlfriend may be cheating on me but I'm too scared to do anything about it as I don't want her to leave me. I feel ashamed of myself but I can't help it\n\nSupporter: Being in a relationship with someone when you suspect unfaithful behavior is a rough thing to go through. \nSeeker: Yes it is but I should be leaving her and moving on. Problem is she is a 9 and I'm a 5 and I love her. Pretty sure she is cheating though so hopefully if I ignore it she may just leave things as they are.\n",
+    "seeker_utterance": "Yes it is but I should be leaving her and moving on. Problem is she is a 9 and I'm a 5 and I love her. Pretty sure she is cheating though so hopefully if I ignore it she may just leave things as they are.\n",
+    "supporter_response": "I've dealt with the same problem with my partner more than once. I love him very much and I found him to be a 9 to my 5 as well. However, the question of whether he was cheating or not was destroying my trust in him and everyone else not to mention what self-respect I had... I had to break down and talk to him about it",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 2.0,
+      "Task": 3.0
+    }
+  },
+  "62_w40": {
+    "sample_id": "62_w40",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: I think that's it. I think I was just worried about who was gonna do it for me, but I know I have to, I guess, do it myself and that 25 hours has to be done. It seems like that's the time I'd have to get done.\nTherapist: Yup, absolutely.\nClient: Okay.\nTherapist: But you know that if you have any more questions, you can always come to me or your case manager and we're here for- to be a support for you.\nClient: All right, thank you.",
+    "seeker_utterance": "All right, thank you.",
+    "supporter_response": "You're welcome.",
+    "scores": {
+      "Bond": null,
+      "Goal": null,
+      "Task": null
+    }
+  },
+  "esconv_632_w19": {
+    "sample_id": "esconv_632_w19",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: i have been looking for work from home jobs right and left\n\nSupporter: Ok. I suppose you can try online jobs. One of my friends lives outside the city and is a part time online order taker for Pizza Hut.\nSupporter: All you need is phone and internet. You will need to take customer's orders and input it in Pizza Hut's order system.\nSupporter: is this something you can explore doing?\nSeeker: online order taker? how do you sign up for that?\n",
+    "seeker_utterance": "online order taker? how do you sign up for that?\n",
+    "supporter_response": "Great! You can search for \"Pizza Hut online order taking job\". The first result will lead you to the company that manages these jobs.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 4.0,
+      "Task": 4.0
+    }
+  },
+  "100_w64": {
+    "sample_id": "100_w64",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Right.\nTherapist: Mm.\nClient: Do you know what I mean? If I want to work at a moving company and I tell them off the bat, you know, from the gate, I tell them I have a felony conviction, just so you know before the interview and they don't really mind. I mean, that's great, you know, but at the same time, I don't- I'm not looking to be a mover or-\nTherapist: Mm-hmm.\nClient: -a burger flipper or something like that. Not that there's anything wrong with it, but I feel like I have a little bit more to offer-",
+    "seeker_utterance": "-a burger flipper or something like that. Not that there's anything wrong with it, but I feel like I have a little bit more to offer-",
+    "supporter_response": "Mm-hmm.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "100_w128": {
+    "sample_id": "100_w128",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Right.\nTherapist: -we're looking for here. Yeah.\nClient: The thing is after, you know, after the 9/11 attacks, a lot of companies have blindly implemented, you know, those types of situa- and-and there's no- there isn't, at this point-- I mean, I don't think, at this point, there is no real sure fire way to find out what those reports are, you know, accurate or not. I mean, there's a lot of situations where people's reports are not even accurate about their criminal background.\nTherapist: Mm-hmm.\nClient: I think that-",
+    "seeker_utterance": "I think that-",
+    "supporter_response": "Mm-hmm.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_1246_w11": {
+    "sample_id": "esconv_1246_w11",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: sure thank you, do you think it is wise that i follow my plan of taking some time to refresh my skills to compete in a more modern job market? \n\nSeeker: i worked retail but would like to change careers too\n\nSupporter: I think it is important to understand what your getting into. What where you thinking of trying to do ? Go back to school ? \nSeeker: no i am thinking of taking some brief online courses and learning some coding. perhaps school in the future. but i think i will take some time to refresh my experience of adobe and other similar software\n\nSupporter: There are a bunch of helpful sites like LinkedIn learning , they have awesome videos on like any software you could think of (: ",
+    "seeker_utterance": "",
+    "supporter_response": "Also can’t go wrong with a good ol paperback ",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": 3.0
+    }
+  },
+  "esconv_1070_w1": {
+    "sample_id": "esconv_1070_w1",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: Hi solution provider ! ",
+    "seeker_utterance": "Hi solution provider ! ",
+    "supporter_response": "hello, how are you doing today?\n",
+    "scores": {
+      "Bond": null,
+      "Goal": null,
+      "Task": null
+    }
+  },
+  "100_w252": {
+    "sample_id": "100_w252",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: I think that- I think- I think ignorance is what really—\nTherapist: That shocked me when I found that out.\nClient: Yeah.\nTherapist: I couldn't believe that.\nClient: Yeah.",
+    "seeker_utterance": "Yeah.",
+    "supporter_response": "Do you know how many millions of people and when you think about that racially, um, hmm.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "86_w20": {
+    "sample_id": "86_w20",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Mm-hmm. I know who to hang out with, I'm not stupid.\nTherapist: You definitely know how to make good decisions.\nClient: I know who to hang out with, I'm not stupid.\nTherapist: You know that, um, positive peer influences have been helpful for you.\nClient: Mm-hmm. I'm letting the whole family down. They had such high hopes for me.",
+    "seeker_utterance": "Mm-hmm. I'm letting the whole family down. They had such high hopes for me.",
+    "supporter_response": "You feel like you're letting your family down.",
+    "scores": {
+      "Bond": 4.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "41_w40": {
+    "sample_id": "41_w40",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: I would say so, yeah. I don't know if I've ever said that in front of people and not felt the least twinge of guilt for it. [chuckles]\nTherapist: That's not a selfish thing.\nClient: No-\nTherapist: Right.\nClient: -it's not, it's really not.",
+    "seeker_utterance": "-it's not, it's really not.",
+    "supporter_response": "Cool, that's great.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_1231_w8": {
+    "sample_id": "esconv_1231_w8",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: It seems you are badly hurt by your friend's action. Correct me if I am wrong.\n\nSeeker: yeah\n\nSupporter: So What's bother you a lot ? What happened which leads you to feel like this?\nSeeker: i have heard my friends talk behind my back\n\nSeeker: they are really nice in front of me\n",
+    "seeker_utterance": "they are really nice in front of me\n",
+    "supporter_response": "That is really bad. It must be hard for you to trust on them.\n",
+    "scores": {
+      "Bond": 4.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_1095_w15": {
+    "sample_id": "esconv_1095_w15",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: It sounds like you are dealing with a lot...it is normal to feel anxious about it\nSeeker: Is that how you would feel?\n\nSupporter: and it's hard not to blame ourselves, but please remember this was outside your control\nSeeker: thank you for saying that. I quit my job to focus on her healing, and i don't want to go back to work now.\n\nSupporter: I have not experienced anything like this to be honest....the closest I can recall is encouraging my daughter to do something, and then she got hurt, and I blamed myself and felt like a bad mother",
+    "seeker_utterance": "",
+    "supporter_response": "how is your daughter doing now?",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_1024_w25": {
+    "sample_id": "esconv_1024_w25",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: okay\nSupporter: Try to sleep with friends or made a new person to forget your past\nSeeker: like opposite sex or\nSupporter: Like opposite sex\nSeeker: okay thanks am going to try since am suffering a lot",
+    "seeker_utterance": "okay thanks am going to try since am suffering a lot",
+    "supporter_response": "sure you will get best result.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_1008_w30": {
+    "sample_id": "esconv_1008_w30",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Supporter: No, I am glad you asked.  It is important to be honest and learn from others.\nSeeker: Wow! Thank you for sharing. I appreciate your honesty and you definatly understand about frustration.\n\nSeeker: Yes, that is so true. That is what I do with those I Coach, counsel and consult with\n\nSeeker: Yeah, I appreciate chatting. This is good.\n\nSupporter: Well, I hope I encouraged you a little to keep going and start you book, at least a part you enjoy.  ",
+    "seeker_utterance": "",
+    "supporter_response": "You are welcome.  Good luck with your book.",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "60_w32": {
+    "sample_id": "60_w32",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: And-and wait, I'm sorry, but—\nTherapist: There's a smoke update coming up.\nClient: Oh, yeah. [crosstalk] And you know what I've never done that.\nTherapist: It's for the cancer society.\nClient: That's coming up in November-",
+    "seeker_utterance": "That's coming up in November-",
+    "supporter_response": "Yeah.",
+    "scores": {
+      "Bond": null,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "100_w240": {
+    "sample_id": "100_w240",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Yeah.\nTherapist: -they are so, um, they are so prejudicial. They really are. And I would check with the ACLU too. I mean, just as I-I don't know much, and now I'm very curious and I wanna find out about it myself, but yeah.\nClient: Yeah. I know. I-I've done some research on it for school.\nTherapist: Mm-hmm.\nClient: And, uh, it turns out it's a big cause of the recidivism rate. You know-",
+    "seeker_utterance": "And, uh, it turns out it's a big cause of the recidivism rate. You know-",
+    "supporter_response": "Oh, absolutely.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "76_w0": {
+    "sample_id": "76_w0",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Hi.\nTherapist: Hi, Deborah. How are you doing today?\nClient: Good, I'm doing really good.\nTherapist: Yes, um, so you did do your Values Clarification Sheet. Is there anything that you'd like to talk about that you discovered?\nClient: Yeah, I really like doing this, and, um, I-I rated health as my first-",
+    "seeker_utterance": "Yeah, I really like doing this, and, um, I-I rated health as my first-",
+    "supporter_response": "Oh, so it's your first?",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_664_w19": {
+    "sample_id": "esconv_664_w19",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: Yes, I just wish it could be the way it was. I was so happy to be back in school and I'm so close to being done.\n\nSupporter: I too wish everything goes back to the way it was and it will one day. We have to adjust to a slightly new way of living and this would happen if each one of us do our part to break the chain and flatten the curve. \nSeeker: I agree. I still hate it though.\n\nSupporter: You can do it, as you said you are almost there. Once you do it you will be very proud of yourself. Believe me this is just a temporary setback and you are doing a great job.\nSeeker: Thank you for the words of encouragement. I do appreciate\n that.",
+    "seeker_utterance": "Thank you for the words of encouragement. I do appreciate\n that.",
+    "supporter_response": "I am glad I could make you feel better. Is there anything else I can do today for you?",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_590_w3": {
+    "sample_id": "esconv_590_w3",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: Hello!\nSupporter: Hi! HOw are you today?\n\nSeeker: I'm feeling sad and depressed. \n",
+    "seeker_utterance": "I'm feeling sad and depressed. \n",
+    "supporter_response": "OH no, why are you feeling this way?",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_522_w8": {
+    "sample_id": "esconv_522_w8",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: Hey is everything okay?\nSeeker: No, not really. How about you?\nSupporter: Can you tell me what is bothering you? I have many times in holidays past felt like you and I always find it best to talk it out.\nSeeker: Due to this pandemic, I am fearful for my job and financial situation. \nSupporter: Yeah it is a difficult time and understandable to be worried about financial stability.",
+    "seeker_utterance": "",
+    "supporter_response": "\na",
+    "scores": {
+      "Bond": null,
+      "Goal": null,
+      "Task": null
+    }
+  },
+  "esconv_1058_w26": {
+    "sample_id": "esconv_1058_w26",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: oh I see, yes that could be awkward for sure.  \nSupporter: i think it's important you go out with your friend, but can understand your reluctance to run into your ex.   Could you go out for coffee or lunch instead?\nSeeker: Well that's would be quite strange as we usually meet only for drinks.\n\nSupporter: Ah gotcha.   So do you think you will accept or not?  Or still need time to think about it?\nSeeker: I will give it a go and see what happens. I will text you tomorrow to let you know how it went\n",
+    "seeker_utterance": "I will give it a go and see what happens. I will text you tomorrow to let you know how it went\n",
+    "supporter_response": "i hope if you go that you have an enjoyable time, and that your friend respects your boundaries.  And worse case scenario, if your ex is there, you could leave early...if it were me I'd warn my friend that I might have to",
+    "scores": {
+      "Bond": 4.0,
+      "Goal": 4.0,
+      "Task": 4.0
+    }
+  },
+  "esconv_790_w17": {
+    "sample_id": "esconv_790_w17",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: Glad to hear that :)\nSeeker: I am just alone down here. \nSupporter: A lot of us feel like we need friends around to keep our mood up, or to get support when we're bummed or bored or sad. Sorry to hear you have less friends nowadays.\nSupporter: Are you interested in finding new friends?\nSeeker: Yes and no, if they are on my level then yes but if not then no. I don't want to associate with people that do drugs so its been a tough time making friends.",
+    "seeker_utterance": "Yes and no, if they are on my level then yes but if not then no. I don't want to associate with people that do drugs so its been a tough time making friends.",
+    "supporter_response": "Yeah, that's tough. It's tough enough to make friends as an adult in a new city. Tougher still if it seems like a lot of people are into things you don't want to be around.",
+    "scores": {
+      "Bond": 4.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_708_w19": {
+    "sample_id": "esconv_708_w19",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: Definitely! My first step would be understanding the gun policy that Biden would have and confirming the new process. Does that sound like something that could be a good starting point?\nSeeker: true..i may be worrying over nothing\nSupporter: I think you are just being careful and protective of your family. That is very honorable of a veteran like yourself.\nSeeker: thank you\nSeeker: i guess going to war makes you worry about things a lot of people dont normally have to huh ",
+    "seeker_utterance": "i guess going to war makes you worry about things a lot of people dont normally have to huh ",
+    "supporter_response": "Yes, that sounds like the case. Are there any practices that have helped you when you're worried?",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_430_w21": {
+    "sample_id": "esconv_430_w21",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: Long walks alone sucks. I want to so much hold a hand walking, but I know she will try to stop any involvement\nSeeker: forget her. ignore her. time is valuable but waiting for the air to clear helps. i tried dating again but the pool of available ladies is really a swamp. gotta get really lucky or stay clear.\nSupporter: I realize the desire to be alone, but find a female friend that wants to spend time together to keep you from feeling like you are going it alone.\nSeeker: looks like i am being the supporter here but give it time. alone is much better than being sucked down into the muck. \nSupporter: Make a friendd 1st then the romance may come. There are a lot of lonely women who desire friendship as well.\n",
+    "seeker_utterance": "",
+    "supporter_response": "I am going on 5 years. I want a friend I can chat with over coffee. take it slow but find a friend.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": 2.0
+    }
+  },
+  "50_w36": {
+    "sample_id": "50_w36",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Mm-hmm.\nTherapist: Yeah.\nClient: And then, of course, you know, working a 12-hour shift, I-I really think that, you know, the afternoon to keep me going until the evening is-is a really good idea too.\nTherapist: Yeah.\nClient: I could probably get up the mid-morning.",
+    "seeker_utterance": "I could probably get up the mid-morning.",
+    "supporter_response": "I think that's great.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_158_w1": {
+    "sample_id": "esconv_158_w1",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: Good morning how r u",
+    "seeker_utterance": "",
+    "supporter_response": "Hope u r having a good dfay",
+    "scores": {
+      "Bond": null,
+      "Goal": null,
+      "Task": null
+    }
+  },
+  "79_w4": {
+    "sample_id": "79_w4",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Because of what-- Yeah, I guess, I think that's what I mean, yeah, yeah. Because you know, I mean- I mean I could have stayed, I could have got, I could have got absolutely hammered and I could have done it every night for the rest of the week.\nTherapist: So you saw yourself putting something that was important to you at risk.\nClient: But I don't know if I stopped because I knew I had to stop or because, you know, it was like right there, that's where I wanted to stay, you know? Anyway, I just, uh-- [crosstalk].\nTherapist: Here you are actually, three months on, three long months as you say, um, and things have been going really well, Uh, you even get a bit of—\nClient: They're better, yeah.",
+    "seeker_utterance": "They're better, yeah.",
+    "supporter_response": "Yeah. Well, and then you get the kind of, I don't know if it felt like a green light or a yellow, it went from red to cautionary, you could see your kids, and that was something that was really what you were working for.",
+    "scores": {
+      "Bond": 4.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "60_w20": {
+    "sample_id": "60_w20",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Right, do my homework and set up my like to have everything available to me.\nTherapist: Okay.\nClient: And then maybe set up another appointment with you.\nTherapist: Okay.\nClient: And maybe I don't know if-if that's like something that you'd be, you know, willing to do with me is to- help me set a date.",
+    "seeker_utterance": "And maybe I don't know if-if that's like something that you'd be, you know, willing to do with me is to- help me set a date.",
+    "supporter_response": "Sure.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_795_w4": {
+    "sample_id": "esconv_795_w4",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Supporter: Hi, how are you today?\nSeeker: I am okay, thanks.\n\nSupporter: Is there anything you’d like to talk about?\nSeeker: Yes, lately my friends have been going through divorces and many have moved away.\n",
+    "seeker_utterance": "Yes, lately my friends have been going through divorces and many have moved away.\n",
+    "supporter_response": "Wow, you’ve lost friends. I know how that feels. ",
+    "scores": {
+      "Bond": 4.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_48_w19": {
+    "sample_id": "esconv_48_w19",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: i feel sorry for the friend that the trusted ones have not been able to keep up and at the same time, i was not considered trusted one, where i would have kept it to myself\nSupporter: Perhaps you should consider getting some new friends? Are there any societies or anything that you could join? \nSeeker: i like your suggestion. i have started to do prayers and study more texts of my interest and this had surely given me a boost and I have now accepted the friend as it is.\nSeeker: not really thinking too much of it, just accepting it as it is and moving on with my routine\nSupporter: That sounds like a really positive outlook. Make a resolution not to let toxicity into your life in this coming year? ",
+    "seeker_utterance": "",
+    "supporter_response": "I hope I have been able to help you a little and set your mind at rest. I wish you a very happy New Year! ",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_297_w19": {
+    "sample_id": "esconv_297_w19",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: I agree, i don't know if I'm sad or mad.  Probably a little of both. \nSupporter: I'm sure you are filled with mixed emotions. Anyone would be. \nSupporter: Like you said, you dont live with him. So it will be much easier to cut ties\nSeeker: Well I have some friends that I live with now and they are very good to me. So at least I won't be alone this Christmas.  Thank you for you support it made me feel good to vent about it.  \nSupporter: You are very welcome. I wish you the best of luck",
+    "seeker_utterance": "",
+    "supporter_response": "I hope you have a Merry Christmas",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "68_w176": {
+    "sample_id": "68_w176",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: I still, you know. Like I said, I don't want to hurt my body. Especially going to med school like I know how things affect your body and also affect your-your social and your school work and things like. I know that once I get to college, it's not- it's not gonna-gonna work out being, you know, drinking every weekend and then like trying to wake up early and go to school, take an exam. Like I know that's not- that's not feasible. It's not a good idea.\nTherapist: Yeah, looking ahead, you can't keep drinking this way and reach the goals that you have for yourself.\nClient: Yeah.\nTherapist: Okay. Well, how confident are you that you could cut down if you wanted to-\nClient: I think I-",
+    "seeker_utterance": "I think I-",
+    "supporter_response": "-on that same scale from one to ten?",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_1035_w22": {
+    "sample_id": "esconv_1035_w22",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: I'm sorry about that. It seems like a difficult situation to be in. Do you think that the medication could help ease some of your stressors?\nSeeker: Maybe, I am afraid of trying int but I may not have another option\n\nSupporter: I think that you should try it out, at least for a little while, to see how it affects you. I used to be depressed too, but when I was put on medication, it seemed to make my life a lot easier. I had a lot more energy and was a lot happier\nSeeker: Thank you, good to know. I will fill my prescription\n\nSeeker: I cant live like this anymore. Thank you for your input. ",
+    "seeker_utterance": "I cant live like this anymore. Thank you for your input. ",
+    "supporter_response": "You're very welcome! I'm glad I could help!",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": null
+    }
+  },
+  "esconv_343_w13": {
+    "sample_id": "esconv_343_w13",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: No you are uncertain about the chatting, what can we chat about\nSupporter: Sometimes it helps to just talk.\nSeeker: I can't wait to be over this cold and leave the house\nSupporter: Cold as in the bug or weather\nSeeker: Sick. But the weather is also cold\n",
+    "seeker_utterance": "Sick. But the weather is also cold\n",
+    "supporter_response": "I am in a southern state and it is chilly. ",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "68_w152": {
+    "sample_id": "68_w152",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: For the most part, it works pretty well because, like I said, people, you know, people come asking me, trying to pressure me, I'll be like, \"No, I'm good. I have- You know, I still have something. I'll get some later.\" And I never end up getting anything. Oh, but sometimes they'll be like, \"Hey, let's take a shot,\" and everyone's gathered around like the kitchen or something ready to take a shot. And then at that point, I'll be like, \"Oh, well, maybe I can take one more.\" And that's when I start, you know, falling into-\nTherapist: Okay.\nClient: -way too much.\nTherapist: So, uh, uh, a portion of the time it's working well for you and another portion of the time maybe you would like-\nClient: Yeah.",
+    "seeker_utterance": "Yeah.",
+    "supporter_response": "-would like to make some adjustments-",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_465_w14": {
+    "sample_id": "esconv_465_w14",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: it's important right now to take one step at a time, you should always prepare and find a backup plan in case it happens, but at the same time not worry too much because it won't help \nSeeker: I can't stop worrying. If I lose my job, I don't know where to go, what to do.\n\nSupporter: You should look around and see if anyone hiring\nSupporter: I would say go for part time jobs too in case there is nothing available in your industry\nSeeker: With lock downs in my area, small businesses will go under. Which means fewer jobs. I'm really scared.\n",
+    "seeker_utterance": "With lock downs in my area, small businesses will go under. Which means fewer jobs. I'm really scared.\n",
+    "supporter_response": "You can try gig worker, being on Mturk can bring some decent money if you're diligent",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": 3.0
+    }
+  },
+  "esconv_344_w11": {
+    "sample_id": "esconv_344_w11",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: Does the weather allow you to go outside while social distancing?\nSupporter: It may be beneficial to take walks. \nSeeker: It does sometimes but my kids are ages 10, 7, 5 and 1 so I can't leave the kids alone at home and with their school schedule by the time they're done with distance learning its already dark\n\nSeeker: Sometimes it feels like I don't even get a second to breath alone\n\nSupporter: It must be hard to ensure they get a good education when it is long distance learning. ",
+    "seeker_utterance": "",
+    "supporter_response": "I think you are doing a great job despite the challenges.",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "129_w28": {
+    "sample_id": "129_w28",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Yeah, maybe another time. Just, I'm not ready for it.\nTherapist: Okay.\nClient: I'm not ready for that conversation right now.\nTherapist: Okay. I respect that. Thanks though for coming in to see me today.\nClient: Yeah.",
+    "seeker_utterance": "Yeah.",
+    "supporter_response": "And I'm glad that this appointment was a positive one for you.",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_306_w5": {
+    "sample_id": "esconv_306_w5",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: Hello, how are you?\n\nSeeker: Hi. I am so nervous about my final paper. It's 50% of my grade.\nSupporter: I can understand taking a test can be stressful.  Have you been studying for it?\nSeeker: It's not something to study for but something I've been working on for months.\nSupporter: What subject matter is it for? What have you done to prepare for it?",
+    "seeker_utterance": "",
+    "supporter_response": "What level of schooling are you in now?\n",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_707_w11": {
+    "sample_id": "esconv_707_w11",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: I know how stressful that can be! I think if we put our heads together  we should be able to figure out a plan\nSupporter: Did you work before?\nSeeker: that sounds helpful i do need some guidance\nSeeker: yes i did work \nSeeker: i worked at a deli which has shut down so my experience is in the food industry\n",
+    "seeker_utterance": "i worked at a deli which has shut down so my experience is in the food industry\n",
+    "supporter_response": "Ok so did you get laid off due to Covid or did you quit or general what happened\n",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_836_w15": {
+    "sample_id": "esconv_836_w15",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: Yes, I would be, but I'm not sure that it actually needs to be a new hobby.  I just need to have some sort of project that I'm working on.\nSupporter: Maybe a new home improvement project?\nSeeker: No!  I've got a jigsaw puzzle that I could start, and I also have a list of \"21 books that you've been meaning to read.\"\n\nSupporter: Those both sound like great ideas! I think starting one, or both, would really make you feel a lot better. \nSeeker: If I start working through the 21 books, that should keep me going for quite a while (even if I'm not interested in all of them)!",
+    "seeker_utterance": "If I start working through the 21 books, that should keep me going for quite a while (even if I'm not interested in all of them)!",
+    "supporter_response": "I believe it will also help give you a sense of accomplishment. I know that it would me\n",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 4.0,
+      "Task": 4.0
+    }
+  },
+  "esconv_1088_w20": {
+    "sample_id": "esconv_1088_w20",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: I am glad that you find it helpful. I wish I can be around to hear more about it. \nSeeker: That's sweet of you to say that.\nSupporter: I hope you all the best. \nSeeker: THank you . You too. Good luck with what you do.\nSeeker: Are you a professional support person?",
+    "seeker_utterance": "Are you a professional support person?",
+    "supporter_response": "No. I actually recommend a book called It is ok that you are not OK. It helped me personally and makes me a more emotionally intelligent person.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": 3.0
+    }
+  },
+  "100_w256": {
+    "sample_id": "100_w256",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Yeah.\nTherapist: Do you know how many millions of people and when you think about that racially, um, hmm.\nClient: Yeah, exactly.\nTherapist: Yeah, mm-hmm.\nClient: You know, I know there's-there's just a lot of- a lot of bullshit.",
+    "seeker_utterance": "You know, I know there's-there's just a lot of- a lot of bullshit.",
+    "supporter_response": "Mm-hmm.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_1290_w8": {
+    "sample_id": "esconv_1290_w8",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: Is there something in particular that is leaving you feeling depressed?\nSeeker: I am feeling resentful towards my husband for quitting his job, and my son for being the reason that he quit his job.\n\n\nSeeker: My son's behavior is causing a lot of conflict in our house and my husband not working is putting a lot of financial stress on us\n\nSupporter: I'm sorry to hear that. Feeling resentment for both your husband's loss of work and your son's loss of his job is entirely understandable. \nSeeker: I have a hard time not dwelling on the negative things going on.  It's hard to see anything positive or feel hopeful for the future.\n",
+    "seeker_utterance": "I have a hard time not dwelling on the negative things going on.  It's hard to see anything positive or feel hopeful for the future.\n",
+    "supporter_response": "I have an adult son who also lost his job recently, and I understand the added stress that can cause in your household. ",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 2.0,
+      "Task": null
+    }
+  },
+  "esconv_97_w22": {
+    "sample_id": "esconv_97_w22",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Supporter: What type of movie were you trying to watch? Maybe choose a happier movie than a sad one. \nSeeker: I was watching a comedy.  It's a movie I usually like but I just couldn't keep my mind from wandering.\n\nSupporter: I would recommend games like Heartstone for stragedy, WoW for more role playing and if your into sci-fi, Cyberpunk cam out recently. \nSupporter: Really any game that has multiplayer would be a good fit!\nSeeker: I like strategy games.  They really make you think which helps distract you from what you don't want to think about!\n",
+    "seeker_utterance": "I like strategy games.  They really make you think which helps distract you from what you don't want to think about!\n",
+    "supporter_response": "Oh sweet me too actually! I definitely recommend heartstone or any game that has a battle mode form ",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": 3.0
+    }
+  },
+  "esconv_419_w8": {
+    "sample_id": "esconv_419_w8",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: How are you?\nSupporter: I'm doing great, thank you!\nSeeker: You're welcome\nSupporter: Is there anything that you wanted to talk about?\nSeeker: Ya, I just feel down recently",
+    "seeker_utterance": "Ya, I just feel down recently",
+    "supporter_response": "I'm so sorrry to hear. that. Is there any reason for it?",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_614_w72": {
+    "sample_id": "esconv_614_w72",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: I would love to! That truly does sound like a lot of fun!\nSupporter: I do too! I also love live music and I REALLY like football. GO EAGLES!\nSeeker: I love hockey. I have season tickets to the WB Penguins, but they haven't played since March.\nSeeker: Hit me up at randythepoet at gmail! :)\nSeeker: It's almost 30 minutes. Thank you!",
+    "seeker_utterance": "It's almost 30 minutes. Thank you!",
+    "supporter_response": "I'd love to go to a hockey game. I've never been to one. Thanks for your email!",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 2.0,
+      "Task": null
+    }
+  },
+  "100_w116": {
+    "sample_id": "100_w116",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Yeah. Well, that's my hope.\nTherapist: It's individual. Yeah.\nClient: Yeah. That's my hope.\nTherapist: It-it is individual.\nClient: It is. It should be. You know, I-I—",
+    "seeker_utterance": "It is. It should be. You know, I-I—",
+    "supporter_response": "It-- I believe it is.",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_1182_w19": {
+    "sample_id": "esconv_1182_w19",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: do you talk to your friend about it?\nSupporter: Sometimes it is very difficult to see yourself through someone elses eyes when you undervalue yourself.\nSupporter: I know it may be difficult to remain patient when your friend repeatedly does this, but maybe you could explain to her that it makes you feel like she is mistrustful of your opinion when she second guesses your taste in friends. \nSeeker: Yes, I know. Until she finds her self worth, it doesn't matter what any of her friends say to her.\nSeeker: I have actually told her that. That it seems like she doesn't trust me. ",
+    "seeker_utterance": "I have actually told her that. That it seems like she doesn't trust me. ",
+    "supporter_response": "Possibly explaining it in a way she can relate to would be helpful.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_1009_w4": {
+    "sample_id": "esconv_1009_w4",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: I don't know what to do anymore. i feel completely lost.\nSupporter: Can you talk more about your feelings now?\n\nSeeker: Well i just feel ugly all the time. ive changed my eating habits and i just cant seem to lose any weight\n\nSeeker: and i know or i feel as if hes just not physically attracted to me anymore and that breaks my heart\n",
+    "seeker_utterance": "and i know or i feel as if hes just not physically attracted to me anymore and that breaks my heart\n",
+    "supporter_response": "I can completely understand your feelings. I can feel how stressed out you are about your weight.",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "41_w48": {
+    "sample_id": "41_w48",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Well, it makes me feel jubilant. It makes me feel joyful. It makes me feel hopeful. It makes me feel like I count, like I matter. Uh, it makes me feel like I'm going to be able to do what I want to do with more joy and more passion, and less dread and a sense of responsibility, because one of the things that kind of happened along the way I really didn't notice, is that, um-- Like, let's say for example I like being a teacher or I like being a teacher or I like being a counselor to a certain degree but because of all the shoulds and all of the sense of responsibility and all of the caring about what people think, I started to lose joy doing things I actually enjoy doing.\nTherapist: Because you're- felt so obligated.\nClient: Yes, because it turned into an obligation instead of just really really a sense of like you know passion you know. My passion is gone completely. I don't know I'm just happy to, I feel like I got back in touch with myself. It's like I was like lost for a while and now I'm like back again, yes, now I remember why I wanted to do this or like why this is important to me because it is actually one of my values to be and help, but it just has to be, uh, balanced.\nTherapist: Yeah, is that on your top five also\nClient: No, but um, the other ones I have on there, uh are, number two, inner harmony. For the same reason, like I feel like I need to harmonious within myself before I can be harmonious with other people.",
+    "seeker_utterance": "No, but um, the other ones I have on there, uh are, number two, inner harmony. For the same reason, like I feel like I need to harmonious within myself before I can be harmonious with other people.",
+    "supporter_response": "You get peace with yourself?",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_132_w16": {
+    "sample_id": "esconv_132_w16",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: eating themselves to death\n\nSupporter: Well, it is a pretty significant issue this year :). Re obesity, have you considered doing something to raise awareness? \nSeeker: I think it would be beating a dead horse. Ober half the population is overweight. People would just need to be blind not to see it. That's kind of my point. Everything is consume... consume.. consume.... buy buy buy\n\nSupporter: So you feel as though there is no bright side - that everything is just artificial and superficial? \nSeeker: well... you can't really do anything without money. it all kind of rides on it, doesn't it?  what you can buy?\n",
+    "seeker_utterance": "well... you can't really do anything without money. it all kind of rides on it, doesn't it?  what you can buy?\n",
+    "supporter_response": "I don't mean to sound twee but there are things out there in life that can be appreciated for free :) ",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": null
+    }
+  },
+  "esconv_894_w25": {
+    "sample_id": "esconv_894_w25",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Supporter: That's the spirit! I know being treated like that feels horrible. However, I bet you have mourned enough, at the end of the day, a person treats you like that has no respect and you shouldn't waste time on them.\nSupporter: It's time to invest in yourself, once you become your better version, a better partner will come to you\nSeeker: I really agree with you- I am worth more than that. It is time to move on, even when it is difficult. The sad side of it is that I probably will never know what I did wrong for things to end like that. Maybe I didn't do anything wrong. That is the question what will always stay with me and that actually is the hardest bit of it all. But... I am not going to delve into it.\n\nSeeker: I feel like hitting a jackpot actually hahahaha. I will be walking off those calories I get from ice cream I have been scoffing lately.So I am having the best of both worlds \n\nSeeker: Who said you cannot have the cake and eat it all LOL\n",
+    "seeker_utterance": "Who said you cannot have the cake and eat it all LOL\n",
+    "supporter_response": "Yes!Actually don't think you did wrong. Reflecting after a relationship is good but don't put all the blame on yourself.",
+    "scores": {
+      "Bond": 4.0,
+      "Goal": 3.0,
+      "Task": 2.0
+    }
+  },
+  "60_w88": {
+    "sample_id": "60_w88",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Yeah.\nTherapist: So, that would be can- the Cancer Society. So, we can look into that.\nClient: All right, great. Good. Great.\nTherapist: All right. Well, I appreciate you coming in. We'll set up another appointment and, um, get our resources together. We'll take it from there and—\nClient: And thank you for all the information. I appreciate it.",
+    "seeker_utterance": "And thank you for all the information. I appreciate it.",
+    "supporter_response": "Oh, you're welcome. My pleasure, thank you.",
+    "scores": {
+      "Bond": null,
+      "Goal": null,
+      "Task": null
+    }
+  },
+  "esconv_582_w1": {
+    "sample_id": "esconv_582_w1",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: Hello,is anone there?",
+    "seeker_utterance": "Hello,is anone there?",
+    "supporter_response": "Yes sorry, the app was misbehaving. How are you doing today?",
+    "scores": {
+      "Bond": null,
+      "Goal": null,
+      "Task": null
+    }
+  },
+  "100_w208": {
+    "sample_id": "100_w208",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: He said, just go ahead and give it a shot anyway, you know, and, um, I just, I figured I'd just give her a shot, but I think I like your, I think to spare myself some, uh, frustration and further agony-\nTherapist: Mm-hmm.\nClient: -I think that I might try that. I think I might try, you know, from now on you know, uh, finding like a tactful way of asking, you know, I don't wanna be blunt about it and go you know, \"Do you hire criminals?\" or anything.\nTherapist: You're not a criminal.\nClient: I'm a former criminal though.",
+    "seeker_utterance": "I'm a former criminal though.",
+    "supporter_response": "That's right. You're rehabilitated.",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_474_w4": {
+    "sample_id": "esconv_474_w4",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: Hello.  Maybe you can help me calm down.  I just found out that I'm losing my job in January. (1)\n\nSupporter: Hello! I hope I can. \nSupporter: I am so sorry to hear that. That's so rough. There are so many people going through this right now. \nSeeker: Yes and that worries me even more.  More people competing for the same jobs. (2)\n",
+    "seeker_utterance": "Yes and that worries me even more.  More people competing for the same jobs. (2)\n",
+    "supporter_response": "That's a fare worry but you can't be discourged. YOu need to think positively. ",
+    "scores": {
+      "Bond": 1.0,
+      "Goal": 2.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_642_w0": {
+    "sample_id": "esconv_642_w0",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "",
+    "seeker_utterance": "100_w116",
+    "supporter_response": "hi! how's your day going?",
+    "scores": {
+      "Bond": null,
+      "Goal": null,
+      "Task": null
+    }
+  },
+  "esconv_155_w33": {
+    "sample_id": "esconv_155_w33",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: That comes down to personal opinion, and is important that we respect each other choices\n\nSupporter: Is there any other concern that I might help you with today?\n\nSeeker: Do you like movies?\nSupporter: Sometimes, as a way to distract myself yes\n\nSeeker: I love to watch movies horror movies.",
+    "seeker_utterance": "I love to watch movies horror movies.",
+    "supporter_response": "If it helps you to get distracted and provides you with joy, absolutely!\n",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_1009_w28": {
+    "sample_id": "esconv_1009_w28",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: in california things are really expensive here\n\nSupporter: Did you consider moving to cheaper locations?\nSeeker: not really i have family here which i want my kids to be as close as possible i would have to move to another state. but that would take a lot of consideration on both of our parts\n\nSeeker: i just dont understand why my bf wont take me serious and actually listen to me when im telling him how i feel\n\nSupporter: yes, I can completely understand your situation. Just from chatting with you, I can see how many things are on your plates.",
+    "seeker_utterance": "",
+    "supporter_response": "Did you guys seek professional help on relationship?",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": 3.0
+    }
+  },
+  "esconv_385_w17": {
+    "sample_id": "esconv_385_w17",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: I am assuming that you and your friend are very close and have been friends for a long time. Did you try talking to her over the phone? having a honest conversation with her and letting her know how you feel may help at times.\nSeeker: I have tried, she ignores my calls.\n\nSeeker: We've been friends for 15 years\n\nSupporter: wow that's a very long time and such friendships are to be treasured. I too am lucky to have a friend like that but we do not talk often but when we talk it would be as if it was yesterday that we met. \nSeeker: It's amazing. That's how we used to be up until a month ago\n",
+    "seeker_utterance": "It's amazing. That's how we used to be up until a month ago\n",
+    "supporter_response": "Do you remember if anything significant happened a month back that disturbed her or you in some way? I ask as a long relationship cannot be marred with simple reasons and sometimes it just needs a heart to heart talk.",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 4.0,
+      "Task": 4.0
+    }
+  },
+  "esconv_68_w35": {
+    "sample_id": "esconv_68_w35",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: I love piano, my favorite anyway... Do you play?\nSeeker: Some times i like to here some Indian instrument also \nSeeker: No, i will not but i like to listen\n\nSeeker: Sorry i will not play , but i like to listen\n\nSeeker: Do u know to play?\n",
+    "seeker_utterance": "Do u know to play?\n",
+    "supporter_response": "I understand that. I tried to play once, but it was difficult. Variety is the spice of life.",
+    "scores": {
+      "Bond": 4.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_282_w26": {
+    "sample_id": "esconv_282_w26",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: Ah yes I hear you , I know that there are a lot of people out there in trouble right now. I think though that you should be able to access some food help? \nSupporter: I have had to do that myself in the past and I do know that I felt ashamed about it. \nSeeker: I am waiting for some help currently\nSupporter: What sort of help are you waiting for if you do not mind my asking? \nSeeker: Yes, it is a hit to the mindset, that's for sure. \n",
+    "seeker_utterance": "Yes, it is a hit to the mindset, that's for sure. \n",
+    "supporter_response": "Yes, especially if you've never had to rely on that sort of help before. But there is no shame in it! ",
+    "scores": {
+      "Bond": 4.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_540_w18": {
+    "sample_id": "esconv_540_w18",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: My house is already starting to look terrible since she has left.\n\nSupporter: think about it,  the added exercise will help you from getting lonely with her not being around\n\nSeeker: But  i have never done laundry.  My mother did it when i lived with her. and i moved out from my mother to live with my girlfriend. How am i gonna do my laundry? I've never done it.\nSupporter: If you focus too much on the break up,  you will have a hard time getting over her so try to do some fun activities that you can enjoy alone  so that you are safe.  You can search youtube on how to do laundry and other chores,  you will be ok \n\nSeeker: Thank you for your advice.  It probably isnt that hard. I just am nervous about trying to do it myself for the first time.  Its starting to pile up now.\n",
+    "seeker_utterance": "Thank you for your advice.  It probably isnt that hard. I just am nervous about trying to do it myself for the first time.  Its starting to pile up now.\n",
+    "supporter_response": "Don't be nervous,  Just take some time to learn the house chores and you'll be fine  \n",
+    "scores": {
+      "Bond": 1.0,
+      "Goal": 2.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_676_w17": {
+    "sample_id": "esconv_676_w17",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: Just from chatting with you, I can see why you are anxious.  Have you tried any deep breathing techniques.  They are often helpful when dealing with stress.\nSeeker: that's a good idea.  i think i'll try that. and praying.\nSupporter: Praying is also an excellent idea.  My friends and I prayed all day long for each other during a difficult exam that I previously had failed and had to retake.  That day everyone passed the exam.  \nSeeker: praying is a wonderful thing that i need to do more often.  i'm glad you passed the exam.  i had a lot of pressure when i went to college as well. it seems most of my 24 years alive i've had one sort of probem or another but i always remember that i have plenty of things to be thankful for too. life can be rough.\nSupporter: My grandmother always encouraged me by saying there is always someone who has it rougher.  \n",
+    "seeker_utterance": "",
+    "supporter_response": "Things can be really hard but you can do it.  You are working hard and trying so hard.  ",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "100_w224": {
+    "sample_id": "100_w224",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Yeah.\nTherapist: I mean, even-even though you get turned down, that feels terrible. The actual and, I bet you with every single one, you get better at it.\nClient: Yeah. I mean the interview process-\nTherapist: Uh-huh, uh-huh.\nClient: -itself, no, I don't think I ever- yeah. No, I-I mean, I don't believe that I have a problem with the actual interview process.",
+    "seeker_utterance": "-itself, no, I don't think I ever- yeah. No, I-I mean, I don't believe that I have a problem with the actual interview process.",
+    "supporter_response": "Yeah. I bet you're even better now.",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_915_w11": {
+    "sample_id": "esconv_915_w11",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Supporter: Are you with family?   Sometimes it helps to be with others who are grieving?\nSeeker: No, I live alone, my family lives in another state\n\nSupporter: Being by yourself is rough after a death.    Can you talk with your family by phone?   Do you have a friend who has gone through a similar loss?\nSeeker: I feel like everybody is in their own bussines and have no time to hear my complains\nSeeker: I talk to my family, but the whole family is not doing really fine\n",
+    "seeker_utterance": "I talk to my family, but the whole family is not doing really fine\n",
+    "supporter_response": "It sounds like you feel people think you are complaining when you talk about your Aunt's death making you sad.    Is that correct?\n",
+    "scores": {
+      "Bond": 4.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_168_w7": {
+    "sample_id": "esconv_168_w7",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: How are you friend?\nSeeker: i am in depression friend, don't really know what else to do\n\nSupporter: What' s your problem friend?\nSeeker: i was furloughed and getting another good job is like mission impossible \nSupporter: don't worry",
+    "seeker_utterance": "",
+    "supporter_response": "Try to do your job enthusiastically..",
+    "scores": {
+      "Bond": 1.0,
+      "Goal": 2.0,
+      "Task": 1.0
+    }
+  },
+  "126_w32": {
+    "sample_id": "126_w32",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Therapist: All right. Do you have any children in your home?\nClient: No.\nTherapist: Okay. Well, then that sounds like a perfect location for you. Medicines keep best if they're stored away from light and heat and moisture. What did the doctor tell you to expect in terms of side effects?\nClient: He didn't mention anything about that.\nTherapist: All right. Well, this medication is pretty well tolerated, which means it doesn't have very many side effects. But you might experience some mild muscle aches and pains. If they seem really severe to you, then you should call Dr. Ferris and talk to him about that. Also this medicine can interact with a lot of other medications, and even over the counter things. So check with the doctor or myself before you start anything new. And lastly, grapefruit juice can interact with cholesterol statin 20. So if you use grapefruit juice every day, I probably would switch to a different juice while you're on this medication.",
+    "seeker_utterance": "All right. Well, this medication is pretty well tolerated, which means it doesn't have very many side effects. But you might experience some mild muscle aches and pains. If they seem really severe to you, then you should call Dr. Ferris and talk to him about that. Also this medicine can interact with a lot of other medications, and even over the counter things. So check with the doctor or myself before you start anything new. And lastly, grapefruit juice can interact with cholesterol statin 20. So if you use grapefruit juice every day, I probably would switch to a different juice while you're on this medication.",
+    "supporter_response": "Just so I know we're on the same page, can you repeat back to me how you'll take this medicine?",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 4.0,
+      "Task": 4.0
+    }
+  },
+  "esconv_104_w53": {
+    "sample_id": "esconv_104_w53",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: I like to hear that, I am a proud American myself. \nSeeker: Well, thanks for your input.  I think this chat has been helpful.  I am a proud American!\nSeeker: Good bye.\nSupporter: It does wear off, but if you get into a routine of doing it, it will help to alleviate some of that sadness\nSupporter: Ok thank you I hope things get going in the right direction for you.",
+    "seeker_utterance": "",
+    "supporter_response": "Merry Christmas!",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": null,
+      "Task": null
+    }
+  },
+  "62_w24": {
+    "sample_id": "62_w24",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Okay.\nTherapist: -of places that you can work with, some phone numbers to call.\nClient: Okay.\nTherapist: And that is something that we'd kinda like to see you do on your own, but if you're really feeling like you're struggling, those are phone calls that either you and I can make together or you and your case manager can make together.\nClient: Okay, so I would do that. And then do you know, can I get all the 24 hours in in like a weekend or how does that work?",
+    "seeker_utterance": "Okay, so I would do that. And then do you know, can I get all the 24 hours in in like a weekend or how does that work?",
+    "supporter_response": "Well, I mean, 24 hours in a weekend sounds to me like it might be a lot of time.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": 3.0
+    }
+  },
+  "50_w16": {
+    "sample_id": "50_w16",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Yeah. I mean, I've-- I mean, it's the co-workers that-that work at night. Gosh, they bring in a carafe.\nTherapist: Mm-hmm.\nClient: And, uh, I-I can only imagine-\nTherapist: Yeah.\nClient: -what-what their bodies are like.",
+    "seeker_utterance": "-what-what their bodies are like.",
+    "supporter_response": "Yeah, yeah. What would happen if you-- if you looked at, maybe reducing that with that habit? Would that get rid of maybe some of the things that are problematic?",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 4.0,
+      "Task": 4.0
+    }
+  },
+  "esconv_1042_w21": {
+    "sample_id": "esconv_1042_w21",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: I try not to. Sometimes it's hard to put myself first\n\nSupporter: I think a lot of people who work helping other people have that sort of problem - it's too easy to neglect yourself. \nSeeker: It's good to hear I'm not alone in feeling this way\n\nSupporter: Is there anything else you'd like to tell me about how you're feeling right now?\nSeeker: I got a job offer today, I'm very proud of myself!",
+    "seeker_utterance": "I got a job offer today, I'm very proud of myself!",
+    "supporter_response": "That sounds wonderful - is it the sort of job you were really looking for?",
+    "scores": {
+      "Bond": 4.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "38_w68": {
+    "sample_id": "38_w68",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Yeah. I mean, I'm ready to consider changing my drinking, but, as far as actually doing it, I-I don't know. I mean, I have a lot of problems that I'm trying to work out right now.\nTherapist: So, um, it would perhaps be helpful if you could narrow it down to just one thing, and what would that be?\nClient: Childcare, probably.\nTherapist: Okay. Yeah. It sounds like from everything you're saying, that keeps coming up as one of the main issues. Um, so there may be some resources I can point you towards, but I'm- guess I'm wondering, have you looked into alternatives, more affordable, reliable childcare?\nClient: Not really. I mean, I just normally see if my mom can watch my son, so, you know, I haven't really looked around.",
+    "seeker_utterance": "Not really. I mean, I just normally see if my mom can watch my son, so, you know, I haven't really looked around.",
+    "supporter_response": "Okay. Well, one thing you could consider is talking to one of our social workers, they sort of specialize in helping people who have a lot on their plate identifying resources that they may need, uh, things you haven't thought of or aren't aware of. So, I don't know, would you be interested in doing something like that?",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 4.0,
+      "Task": 4.0
+    }
+  },
+  "esconv_599_w24": {
+    "sample_id": "esconv_599_w24",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: My business has been really busy but i am happy to have the distraction \n\nSeeker: I miss going into the office and seeing people. it's very lonely \n\nSupporter: Oh that's good to hear! I apologize for the assumption earlier.\nSeeker: Thank you for all your help today!!!\n\nSeeker: You've been really inspiring \n",
+    "seeker_utterance": "You've been really inspiring \n",
+    "supporter_response": "I appreciate your feedback! Just hang in there and we shall overcome this :)",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_787_w15": {
+    "sample_id": "esconv_787_w15",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: For sure. It's true that you don't *have* to work there, but I'm sure there are factors in play that make it difficult to leave.\nSupporter: Here's a blunt question- what do you want to do about it? Do you think you want to get better at being happy in this job? Or work towards getting another job?\nSeeker: That is a very good question. I hadn't thought  about it like that. I think I want to try something new and you have helped me realise this. I don't think I actually want to be happier in my current position. The question is how should I approach it?\n\nSupporter: Small steps, I suppose. What do you think the very very first, small step would be?\nSeeker: I think maybe consider what I actually enjoy and how could I make that profitable.",
+    "seeker_utterance": "I think maybe consider what I actually enjoy and how could I make that profitable.",
+    "supporter_response": "Nice! That's a good first step. ",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 4.0,
+      "Task": 3.0
+    }
+  },
+  "esconv_1008_w9": {
+    "sample_id": "esconv_1008_w9",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: I really have a desire to write a life experience book to help others overcome past failures and struggles.\n\nSupporter: That is great!  I am sure so many people would benefit from the advice and outlook.\n\nSeeker: I am 66 and believe I can help others. I lack so much motivation.\n\nSeeker: Thank you. That is very affirming.\n\nSeeker: Yet, I have a block. I feel unworthy to write. Who am I.",
+    "seeker_utterance": "Yet, I have a block. I feel unworthy to write. Who am I.",
+    "supporter_response": "It seems like it might be overwhelming for you to begin.  Maybe you can start small, like think of ideas or maybe just start writing 10 minutes a day.",
+    "scores": {
+      "Bond": 4.0,
+      "Goal": 4.0,
+      "Task": 4.0
+    }
+  },
+  "60_w80": {
+    "sample_id": "60_w80",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: -I don't feel like I'm like you know, it's gonna be-- I think gradually getting my- wrapping my brain around it will help, you know, before I just do, you know.\nTherapist: Yeah. Is it appealing the thought of quitting with a group at the same time?\nClient: You know, I always love, um, I've been in other group therapies-\nTherapist: Uh-huh.\nClient: -and the feedback is really nice and the support-",
+    "seeker_utterance": "-and the feedback is really nice and the support-",
+    "supporter_response": "Okay, yeah.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_230_w2": {
+    "sample_id": "esconv_230_w2",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: Hello!\nSeeker: Hello.\n",
+    "seeker_utterance": "Hello.\n",
+    "supporter_response": "How has your day been?",
+    "scores": {
+      "Bond": null,
+      "Goal": null,
+      "Task": null
+    }
+  },
+  "esconv_304_w13": {
+    "sample_id": "esconv_304_w13",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: that is good for you! i don't think the job i was at is coming back.\n\nSupporter: I'm sorry. It can definitely be difficult finding a new job, especially these days. \nSeeker: i just feel so discouraged  no one is responding to my jobsearch\n\nSupporter: Have you updated your resume? I always forget to update mine when I'm job searching. I leave out so much important information!\nSeeker: that is a good idea. i updated the contact info. but i could read it again.\n",
+    "seeker_utterance": "that is a good idea. i updated the contact info. but i could read it again.\n",
+    "supporter_response": "That might be good. Try to include all those little details about what you did, even if it doesn't seem significant. I think it shows flexibility and willingness to like cross train and learn new skills",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 4.0,
+      "Task": 4.0
+    }
+  },
+  "41_w36": {
+    "sample_id": "41_w36",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Therapist: Yeah.\nClient: So, that's what I want to do.\nClient: Mm-hmm.And it's the first time in my life I haven't felt guilty for saying that.\nTherapist: The very first time that you can remember?\nClient: I would say so, yeah. I don't know if I've ever said that in front of people and not felt the least twinge of guilt for it. [chuckles]",
+    "seeker_utterance": "I would say so, yeah. I don't know if I've ever said that in front of people and not felt the least twinge of guilt for it. [chuckles]",
+    "supporter_response": "That's not a selfish thing.",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_282_w24": {
+    "sample_id": "esconv_282_w24",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: (I am so sorry I had to leave the room temporarily, just let me catch up :)) \nSeeker: No worries...as I understand.\n\nSupporter: Ah yes I hear you , I know that there are a lot of people out there in trouble right now. I think though that you should be able to access some food help? \nSupporter: I have had to do that myself in the past and I do know that I felt ashamed about it. \nSeeker: I am waiting for some help currently",
+    "seeker_utterance": "I am waiting for some help currently",
+    "supporter_response": "What sort of help are you waiting for if you do not mind my asking? ",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_996_w17": {
+    "sample_id": "esconv_996_w17",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: i've cut them off before but this time i have more stability and am happy with my life (unlike they come and ruin all the nice things in my life with their bad attitudes)\nSupporter: It is a very big decision to make, but in some cases it is the best one. \nSeeker: #toxicfamily - it's just all very sad\nSupporter: Is there any possibility of getting professional counselling or something before making the final decision?\nSeeker: yeah we just talked to my therapist",
+    "seeker_utterance": "yeah we just talked to my therapist",
+    "supporter_response": "I am glad you have someone to talk to! ",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": 3.0
+    }
+  },
+  "esconv_134_w10": {
+    "sample_id": "esconv_134_w10",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: Did he tell you that he is?\nSeeker: I was told by a customer at work. I do not know this person well, yet they knew the person he was cheating on me with. \nSeeker: He will not admit it himself. \nSupporter: I am sorry if your partner is cheating.\nSupporter: So, your partner denies the charge of cheating?",
+    "seeker_utterance": "",
+    "supporter_response": "Are you and your partner married?\n",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "100_w272": {
+    "sample_id": "100_w272",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Yeah, rejection. Yeah.\nTherapist: Yeah.\nClient: So, I just wanna make sure that I'm okay. So-\nTherapist: Yeah.\nClient: -I'll be back and we can, you know, we can discuss it further if you have any information and I'll share whatever I've got.",
+    "seeker_utterance": "-I'll be back and we can, you know, we can discuss it further if you have any information and I'll share whatever I've got.",
+    "supporter_response": "I'll do some checking around for you. I will. Yeah.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_1135_w1": {
+    "sample_id": "esconv_1135_w1",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: I need some advice I have been feeling anxious lately.",
+    "seeker_utterance": "I need some advice I have been feeling anxious lately.",
+    "supporter_response": "Im sorry to hear you have been feeling anxious. Lets work to find things that maybe help you feel better when your feeling this way. \n",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 4.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_463_w13": {
+    "sample_id": "esconv_463_w13",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: How did you find out?\nSeeker: I overheard a private phone call with his wife. He said that despite the tough year the company is having, he's expecting to get a large bonus because he cut costs so drastically. \nSeeker: I also heard him discuss it with the director of sales. They were strategizing how to shift the costs around to cover the tracks. I heard the words \"good thing we have the power, if others knew we were getting our full bonuses they'd walk out\"\n\nSupporter: wow... did anyone else hear? \nSeeker: no",
+    "seeker_utterance": "no",
+    "supporter_response": "I would be furious too. It puts you in a very strange spot. If you say something, you look bad, and if you don't you feel bad.",
+    "scores": {
+      "Bond": 5.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_504_w18": {
+    "sample_id": "esconv_504_w18",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: True, true. It does help to focus on how you can help, especially if you find people in worse positions.\nSupporter: While we're busy worrying about things like education and jobs, I like to look for the little messages of hope and empathy that we'[re seeing through all of this as well. It's a good teaching moment for our kids and showing how to collectively work to take care of one another.\nSeeker: I like that. I especially like the idea of involving the kids.\nSupporter: Just think of all of the ways our kids are learning to adapt to different life situations as well. That's worth just as much as their formal education. Your concerns are valid, and hopefully finding another safer school works out and this whole thing is over soon.\nSeeker: I have been trying to do projects at home I normally wouldn't to try to help everyone fill time. Things like creating websites, art projects, and such. Those skills will help tremendously.",
+    "seeker_utterance": "I have been trying to do projects at home I normally wouldn't to try to help everyone fill time. Things like creating websites, art projects, and such. Those skills will help tremendously.",
+    "supporter_response": "That's a great idea, helping fill time with things to distract is a good way to relieve stress as well.",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": 4.0
+    }
+  },
+  "100_w52": {
+    "sample_id": "100_w52",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Yeah, I think as far as maybe efficiency, you know, weeding out the things, not wasting my time, you know, but I had to tell you something, a lot of the people that don't care about that type of thing-\nTherapist: Mm-hmm.\nClient: -are not the sort of jobs that I really wanna be doing. You know what I mean? Um, I don't know, it's just really frustrating.\nTherapist: Not like you're working for the government or for a bank or, you know, the FBI where- those are not things you're applying for. They're jobs where you would wonder why a-a non-violent felony would even--\nClient: Be an issue.",
+    "seeker_utterance": "Be an issue.",
+    "supporter_response": "Right.",
+    "scores": {
+      "Bond": null,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_743_w3": {
+    "sample_id": "esconv_743_w3",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: Hey, how are you doing?\n\nSeeker: Not the best, but I'm surviving.\n\nSeeker: hello?\n",
+    "seeker_utterance": "hello?\n",
+    "supporter_response": "By surviving, it is more of a personal situation\n or an outside dilemma affecting you.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_1171_w1": {
+    "sample_id": "esconv_1171_w1",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: Hello, I am feeling very sad because I tested positive for Covid this week. I am in quarantine away from my family.",
+    "seeker_utterance": "Hello, I am feeling very sad because I tested positive for Covid this week. I am in quarantine away from my family.",
+    "supporter_response": "sorry to hear about that. So your test results were positive. Did I get it right?",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_295_w13": {
+    "sample_id": "esconv_295_w13",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: This had been such a hard year with covid. I am a pet sitter, but people aren't leaving home so I have no work.\n\n\nSupporter: Just from this short conversation, I can tell how upset you are. It's definitely hard this year since people aren't traveling.\nSupporter: Have you tried any other jobs?\nSeeker: I have tried every field I might qualify for. People want experience, which I don't have.\n\nSupporter: You are supplementing income right here with Mturk! That was a great choice!",
+    "seeker_utterance": "",
+    "supporter_response": "And the vaccine is starting to slowly roll out, I think many more people will feel more comfortable traveling soon, ",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_190_w25": {
+    "sample_id": "esconv_190_w25",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: I'm thanksful she leans on on us. The little one loves coming for a visit. \n\nSupporter: that's all you can do for now until the day that she will be able to take steps to leave the bad situation\nSupporter: I hope that this will be a productive visit from them. At the very least, they'll be able to see what real love looks like from you guys :)\nSeeker: Yeah, Thank you. I've got some ideas chatting with you. \n\nSeeker: Vicky, Thank you. Have a Merry \"Safe and fun\" Christmas. Thanks for listening.\n",
+    "seeker_utterance": "Vicky, Thank you. Have a Merry \"Safe and fun\" Christmas. Thanks for listening.\n",
+    "supporter_response": "I'm so happy to hear that. I would love to help anyone I can to get out of an abusive relationship because it was the darkest period of my whole life. I wish you the best of luck and Merry Christmas!",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "62_w20": {
+    "sample_id": "62_w20",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Um, yeah, I just, so I still have to find the community service hours myself?\nTherapist: So that's something that you can work with your case manager on.\nClient: Okay.\nTherapist: So, um, that's something you can absolutely ask her or quest- or me some questions about, but they'll be able to come and bring you some options-\nClient: Okay.",
+    "seeker_utterance": "Okay.",
+    "supporter_response": "-of places that you can work with, some phone numbers to call.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 4.0,
+      "Task": 3.0
+    }
+  },
+  "esconv_1220_w11": {
+    "sample_id": "esconv_1220_w11",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: about 4 months ago.\nSupporter: In which field you are looking for?\nSeeker: Bus driver and/or Production  \nSupporter: You can try as a school driver. As school now opened You will get it\nSeeker: That is what I did do but with union rules and bidding rights. There is not enough work ",
+    "seeker_utterance": "That is what I did do but with union rules and bidding rights. There is not enough work ",
+    "supporter_response": "Try Uber and that is good choice as you are not doing anything.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_758_w22": {
+    "sample_id": "esconv_758_w22",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: This happened before Covid. Covid just made it worst\n\nSeeker: because he went to work boys went to school and I had me time for a few hours before I picked youngest up kindergarted\n\nSupporter: It would be good if you can reach out to your friends and let them know how you're feeling.  Try to make some time for yourself and let your husband know how you really feel. \nSeeker: well I got get going . boys need me to help withhomework. \nSeeker: Great idea . I think I will . Keep safe\n",
+    "seeker_utterance": "Great idea . I think I will . Keep safe\n",
+    "supporter_response": "I hope you keep safe out there too. \n",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_80_w3": {
+    "sample_id": "esconv_80_w3",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: Good evening\nSupporter: Hi, how's things? \nSeeker: Things are ok I am just having issues with the problem above\n",
+    "seeker_utterance": "Things are ok I am just having issues with the problem above\n",
+    "supporter_response": "I am afraid that I am not able to see that .. can you tell me about it? ",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_350_w15": {
+    "sample_id": "esconv_350_w15",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: no. he didn't told me anything. avoiding me all the time. i don't have a support system either.\nSupporter: Are you telling me he just said \"I am breaking up with you\" then never said why and left?\nSeeker: he thinks everything is casual . we were happy. he is behaving like this all of a sudden. what should i think then ?\nSupporter: I think he doesn't know what he wants and thinks the grass is greener on the other side of the fence. It is disrespectful to you. And hurtful. You say you have no support, don't you have friends? Family?\n\nSeeker: i don't have a family. i am living alone in a city where am working. i have not met anyone because of the pandemic. ",
+    "seeker_utterance": "i don't have a family. i am living alone in a city where am working. i have not met anyone because of the pandemic. ",
+    "supporter_response": "I think you might want to join an online support group then. Do you have any goals or aspirations that you are working on apart from your relationship? Because it will be painful to move forward, but if you have some goals, that can help you from falling into a slump.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": 3.0
+    }
+  },
+  "esconv_91_w23": {
+    "sample_id": "esconv_91_w23",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: Thank you for the ideas\nSeeker: But what if you get so stressed you can't really think of anything else?\nSupporter: Yes! Heck go all out and do both is you have a treadmill ha ha ! do what makes YOU happy even if just for a moment\nSupporter: IF your stress has become that high, then you go ahead and aknowledge the anxiety that is flowing through you. Give it you attention and close your eyes and start to ask yourself what is the root of what is scaring me. What is the official thoing i am afrad of or worried about. When our thoughts begin to race its hard to focus and we make mistakes and that adds to the stress. \nSeeker: Thank you so much, your advice will be really helpful!",
+    "seeker_utterance": "Thank you so much, your advice will be really helpful!",
+    "supporter_response": "Would you like any links to a webpage or group that may also have tips or advice?",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 4.0,
+      "Task": 3.0
+    }
+  },
+  "100_w160": {
+    "sample_id": "100_w160",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Yeah, again, it's like who you know, right?\nTherapist: Right, right.\nClient: I know that-\nTherapist: Or start your own business. That was another thing that I thought was really--\nClient: Yeah, well, I think that's what I got. That's what I am doing. That's what I'm sort of involved with now is like, you know, find, um, you know, I'm still continuing to go to school, but I'm also starting, um, work for myself. Um, you know, it's not no Fortune 500 company or anything, but I do have a little bit of income coming in from that.",
+    "seeker_utterance": "Yeah, well, I think that's what I got. That's what I am doing. That's what I'm sort of involved with now is like, you know, find, um, you know, I'm still continuing to go to school, but I'm also starting, um, work for myself. Um, you know, it's not no Fortune 500 company or anything, but I do have a little bit of income coming in from that.",
+    "supporter_response": "Uh-huh.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_1006_w13": {
+    "sample_id": "esconv_1006_w13",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: I had similar situation like yours. My mom did not want me to make friends with some people. \nSeeker: Really? How did you deal with that because for me it makes me angry.\n\nSupporter: I just had good conversations with my mom to express my thoughts. Did you have a frank chat with your mom to express your concerns?\nSeeker: I try to but it never ends well if I don't agree with her suggestions.\nSupporter: Take a deep breath and it can make you feel better.",
+    "seeker_utterance": "",
+    "supporter_response": "What are her concerns about your friends?\n",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_1100_w21": {
+    "sample_id": "esconv_1100_w21",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: yes i agree. when i consistently use meditation and positive attitude, any bad things are defintely minimized\n\nSupporter: Yes, as long as you keep focused and not divert into any other thoughts :)\nSeeker: yes. do you meditate?\n'\nSupporter: I do it once a week and it really helps. I used to do it more often when I felt I couldn't do anything right, so always do it according to the situation\nSeeker: do you want to keep talking or should we wrap up? i could go either way\n",
+    "seeker_utterance": "do you want to keep talking or should we wrap up? i could go either way\n",
+    "supporter_response": "Yes",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": null
+    }
+  },
+  "esconv_1238_w31": {
+    "sample_id": "esconv_1238_w31",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: i really appreciate you talking to me. its actually helping a bit\nSupporter: Yeah, it took me forever to get through my loans but bit by bit got there.  Sounds like a good program that can lead to a better job (and maybe only one job someday!) Investing in the future is defintely a good thing\n\nSeeker: I want to be a good example for my kids :)\nSupporter: I've been to see counselors a few times when going through tough patches (ask me about divorce, job loss and moving to a new countrey in one year) and have found that it helps to be abel to vent to someone who doesn't know you - ha.\n\nSeeker: lol very true",
+    "seeker_utterance": "lol very true",
+    "supporter_response": "Kids can be positive motivation for sure.  But right now you're in the toughest part of parenthood.  Threel ittle ones who need your support and you are doing it by yourself.  You are fighting the fight for sure.",
+    "scores": {
+      "Bond": 4.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_287_w25": {
+    "sample_id": "esconv_287_w25",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: I am sorry to hear about your heart condition, that obvious compounds your problems. I believe that things are going to improve in the New Year though \nSupporter: Let's face it, there does come a time when it seems that not much can get worse \nSeeker: and thats when it gets worse haha\n\nSupporter: Try to look on the bright side of things :) At least you can't be dumped twice ;) \nSeeker: haha thats true. thats comforting thanks\n",
+    "seeker_utterance": "haha thats true. thats comforting thanks\n",
+    "supporter_response": "I hope that one day you feel that you will be able to date and trust another person though. Don't let one bad apple put you off for life. ",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 2.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_1021_w12": {
+    "sample_id": "esconv_1021_w12",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: At least 4 pints. A lot of money goes on drinks as well.\n\nSupporter: I see.   So if I understand correctly, you are concerned because you are drinking more than you used to, more frequently, and you are afraid you cannot stop?  And it's affecting you financially?\nSeeker: Yes, that's right. And I know I should stop but I just got addicted.\n\nSupporter: It's really great that you have the insight to see that it may be a problem...that awareness is the most important first step!\nSeeker: Thank you for understanding\n",
+    "seeker_utterance": "Thank you for understanding\n",
+    "supporter_response": "I haven't experienced addictions but I have been supporting my daughter with her addiction for many years, and I have seen how challenging it's been for her.",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_1013_w4": {
+    "sample_id": "esconv_1013_w4",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: It keeps us up at night because we know she isn't sleeping.  Worse part is there is nothing we can do to help her.\nSupporter: Hi! It seems someone in the family is having sleeping issues. Correct me if I am wrong\nSeeker: My daughter is really sick and its causing her to have trouble sleeping.  Not sure what to do.\n\nSupporter: Sorry to here about it. It must be hard for you to see her in trouble. ",
+    "seeker_utterance": "",
+    "supporter_response": "May I ask What happen to her. ",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_234_w16": {
+    "sample_id": "esconv_234_w16",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: I feel hopeless. Alone. I feel like a chunk of myself passed along with her.\n\nSupporter: Those are completely valid feelings to have at this time\nSupporter: Have you considered getting a small reminder of your cat perhaps a small shrine or tribute to him/her?\nSupporter: Her I apologize for the confusion.\nSeeker: No. I fear that things like that may remind me of her and make me feel worse.\n",
+    "seeker_utterance": "No. I fear that things like that may remind me of her and make me feel worse.\n",
+    "supporter_response": "Expressing your emotion is very healthy for example maybe taking up a new hobby or trying something new that scares or excites you to get your mind off of this difficult time.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_1050_w18": {
+    "sample_id": "esconv_1050_w18",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: Is considering counselling a better option?\nSupporter: Try other strategies first,if you dont find them helpful and if you can afford a counsellor,then you can try going for therapy.\nSeeker: I didnt know counselling is very expensive.are there any low cost options?\nSupporter: Yeah there atre some NGO s that can offer low cost counselling.You can try them.I myself tried those and found them very useful.\nSeeker: Oh I was not aware of the options about the low cost counselling.Thank you..\n",
+    "seeker_utterance": "Oh I was not aware of the options about the low cost counselling.Thank you..\n",
+    "supporter_response": "You are very welcome..I hope you feel better soon..",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_833_w13": {
+    "sample_id": "esconv_833_w13",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: yes\nSeeker: she did not believe me\nSupporter: that sucks, I understand why you resent her so much\nSupporter: I cannot help with your worry about going to court, however, i can offer some help regarding your relationship\nSeeker: yes it is very difficult but im not as upset as i was i cried a lot",
+    "seeker_utterance": "yes it is very difficult but im not as upset as i was i cried a lot",
+    "supporter_response": "Crying is good, you shouldn't bottle your emotions",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": 2.0
+    }
+  },
+  "43_w32": {
+    "sample_id": "43_w32",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: I mean, I think again, like all that anxiety, the same anxiety I had with that I have with those tests. And so, um, but that if I pass this test, if I could have that same feeling that I had, like when I did a good job like the-- you know, I mean, I would like to have that feeling again.\nTherapist: Mm-hmm\nClient: You know.\nTherapist: So for you to create opportunities to create those moments that you can have that feeling again\nClient: Right",
+    "seeker_utterance": "Right",
+    "supporter_response": "And you just mentioned too, you feel really proud of yourself.",
+    "scores": {
+      "Bond": 5.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_1174_w14": {
+    "sample_id": "esconv_1174_w14",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: her daughters now both live with their dads. so thats taken care of, he kids are safer and better off. I however am devastated that the whole relationship wound up a lie and the whole thing has me really in a bad place mentally. \nSupporter: I felt the same way when I broke up with my friend for some pathetic things which she did. The good part is girls are safe now. Give some time to yourself. Time will heal everything.\nSeeker: Thats a hard light to see at the end of the tunnel when things are bleek. \n\nSeeker: im not sure what else to do. \n\nSeeker: My mind runs away a bit right now, its just all stress ful\n",
+    "seeker_utterance": "My mind runs away a bit right now, its just all stress ful\n",
+    "supporter_response": "So sorry to hear about that. You should indulge yourself in some activities like yoga or meditation.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_587_w10": {
+    "sample_id": "esconv_587_w10",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: I have about two months on the meds and I do not think it needs more time to take effect in my system. I know working things out while talking to someone on this platform would work, so here I am \n\nSupporter: With medicine like that, it can take months to take its full effect. Stopping can reverse and even make the depression come back worse. Have you told your Doctor your concerns?\nSeeker: Yes, I have told my doctor my concerns and he mentioned this portal to go talk to someone without a face to get a broader view on your problems. This method has been working for a lot of his patients\n so far. \nSupporter: Hmm, well yes this can be helpful but that is strange he did not run any tests to see how the medication is reacting with you. On that note though what is going on with you now?\nSeeker: I am crying everyday and need to know what can I do on daily basis to keep me busy from doing other things that can harm me....\n",
+    "seeker_utterance": "I am crying everyday and need to know what can I do on daily basis to keep me busy from doing other things that can harm me....\n",
+    "supporter_response": "I would look to talk to a therapist about these matters. Platforms like this can help with some issues but if you are not reacting to the medication and these thoughts are still occurring then that is the path i would take.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": 3.0
+    }
+  },
+  "esconv_50_w10": {
+    "sample_id": "esconv_50_w10",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: Firstly last three month a go my company cut off my salary and next month they are planning to layoff some staffs\nSupporter: That isn't good, are you one of them?\nSeeker: What a trouble year!\nSupporter: It really has been a troubled year\n\nSupporter: We can only hope this year can be better.",
+    "seeker_utterance": "",
+    "supporter_response": "What kind of hobbies do you have?",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": null
+    }
+  },
+  "128_w20": {
+    "sample_id": "128_w20",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Exactly.\nTherapist: Would it be helpful to give you some information on low risk drinking guidelines?\nClient: Sure. I've never heard of them.\nTherapist: Okay. Well, Hailey, what they suggest is that women don't have more than one to two standard drinks a day or a total of nine standard drinks in a week. How does that fit for you?\nClient: Well, usually I'm having more than two glasses but if you're saying that's gonna minimize some risk and I guess some of the grogginess I'm feeling the next morning, then maybe I should just try and have one glass of wine in the evenings?",
+    "seeker_utterance": "Well, usually I'm having more than two glasses but if you're saying that's gonna minimize some risk and I guess some of the grogginess I'm feeling the next morning, then maybe I should just try and have one glass of wine in the evenings?",
+    "supporter_response": "So, it sounds like you'd be open to reducing as a way to still enjoy the wine but perhaps alleviate the way you feel in the morning, some of the hangover effects that sounds like you're experiencing.",
+    "scores": {
+      "Bond": 4.0,
+      "Goal": 4.0,
+      "Task": 4.0
+    }
+  },
+  "64_w120": {
+    "sample_id": "64_w120",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: -maybe noticing some things that I hadn't noticed but—\nTherapist: Tell me about those things you're noticing that you hadn't noticed before.\nClient: Oh, I mean, e-even just now, you know, when you asked me how often.\nTherapist: That surprised you?\nClient: Mm. S-surprised me to-to think about, you know, when there's stuff, and you don't really think about it, but then if someone asked you, you know, how often or-- and then you kind of have to quantify it, I suppose it kinda sound shocking, you know, if I- if I imagine myself sort of saying, \"I do this, you know, a few times a week.\" It-it-",
+    "seeker_utterance": "Mm. S-surprised me to-to think about, you know, when there's stuff, and you don't really think about it, but then if someone asked you, you know, how often or-- and then you kind of have to quantify it, I suppose it kinda sound shocking, you know, if I- if I imagine myself sort of saying, \"I do this, you know, a few times a week.\" It-it-",
+    "supporter_response": "Mm.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "64_w132": {
+    "sample_id": "64_w132",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Yeah.\nTherapist: Okay.\nClient: Definitely.\nTherapist: So tell me then, um, Ricky, what- what's the other side of the good things that-that using meth or doing some smoking does for you? Is there a downside to it? Are there problems that you're experiencing?\nClient: Yep. Um. Uh, I suppose money is quite a big thing. Like, I used to have a lot more money sorta last year. I had a, quite a good job, like a, quite a regular acting job.",
+    "seeker_utterance": "Yep. Um. Uh, I suppose money is quite a big thing. Like, I used to have a lot more money sorta last year. I had a, quite a good job, like a, quite a regular acting job.",
+    "supporter_response": "Mm-hmm.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_921_w0": {
+    "sample_id": "esconv_921_w0",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "",
+    "seeker_utterance": "",
+    "supporter_response": "hi what's bothering you today?",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": null,
+      "Task": null
+    }
+  },
+  "esconv_1013_w1": {
+    "sample_id": "esconv_1013_w1",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: It keeps us up at night because we know she isn't sleeping.  Worse part is there is nothing we can do to help her.",
+    "seeker_utterance": "It keeps us up at night because we know she isn't sleeping.  Worse part is there is nothing we can do to help her.",
+    "supporter_response": "Hi! It seems someone in the family is having sleeping issues. Correct me if I am wrong",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "64_w124": {
+    "sample_id": "64_w124",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Mm. S-surprised me to-to think about, you know, when there's stuff, and you don't really think about it, but then if someone asked you, you know, how often or-- and then you kind of have to quantify it, I suppose it kinda sound shocking, you know, if I- if I imagine myself sort of saying, \"I do this, you know, a few times a week.\" It-it-\nTherapist: Mm.\nClient: -sounds shocking. But to me it-it's- it doesn't feel that way, you know, that's kind of where that, where it kind of doesn't sit right. I, [clears throat] that's why I kind of got a bit miffed at my friends a little bit, or I dunno, a bit defensive there. 'Cause you know, it sounds a lot, but it doesn't feel out of control or anything, you know. It doesn't feel, I dunno, people that need to go and see therapists or whatever you kind of go, \"Oh, they're an addict.\" You know. They-- Their health is really bad and they need urgent help right now quickly, Uh, well, at least that's kind of the-the feeling you get. And I don't feel that at all. I don't feel like it's a real urgent thing. So that-\nTherapist: Alright.\nClient: -felt a bit weird.",
+    "seeker_utterance": "-felt a bit weird.",
+    "supporter_response": "Okay.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "58_w68": {
+    "sample_id": "58_w68",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Therapist: So sometimes-- almost sounds like, um, your feedback would be, uh, useful to you. Like some immediate feedback in terms of like, um, like [inaudible 00:05:53]\nClient: Yeah. Maybe.\nTherapist: [inaudible 00:05:55]\nClient: That might not be be a bad idea. [inaudible 00:05:59]\nTherapist: [inaudible 00:06:01]",
+    "seeker_utterance": "[inaudible 00:06:01]",
+    "supporter_response": "-somebody there and, you know, hooking up with somebody.",
+    "scores": {
+      "Bond": null,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_1232_w13": {
+    "sample_id": "esconv_1232_w13",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: Yes, I believe Youtube channel is a great source for new opportunities nowadays \nSupporter: Everybody is facing a challenge time right now, we are all together on this\nSeeker: Sounds like a similar situation. Not sure if these efforts will pay off long term but need to do something to maintain sanity. Youtube can pay something if there are enough hits and subscribers. \nSupporter: Sure, in short term is a good choice. The most impoetant thing is looking foward always. For long term we are going to figure out something else\nSeeker: Having a religious base too can help. ",
+    "seeker_utterance": "Having a religious base too can help. ",
+    "supporter_response": "For me this is the powerful tool, I pray every single day",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_470_w24": {
+    "sample_id": "esconv_470_w24",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: This is a wake up call for you I must say, to get away from him\nSupporter: I think you should sit down and tell him to take a break, this doesn't mean completely break up but some time for both of you to think it over\nSeeker: I feel like I really can't trust him and find myself looking through his computer and phone questioning things. makes me feel crazy.\nSupporter: I understand how you feel, it's not easy to get over this feeling\nSeeker: Is this a clean site or do people use it for porn chat?",
+    "seeker_utterance": "Is this a clean site or do people use it for porn chat?",
+    "supporter_response": "That's why you need some time for yourself to think whether you can forgive him and try to help him or not",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_929_w18": {
+    "sample_id": "esconv_929_w18",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: sanitizer I should probably get, just a disposable one to keep on me at all times. \n\nSupporter: Practicing mindfulness and going on a short walk in nature can help with your stress. \nSeeker: yes that would help I suppose, just that I stopped going out, to the gym, movies, anything frivolous ever since the pandemic started. \n\nSupporter: At some grocery stores, they have made pick-up free due to the pandemic. You should look into that if you are interested in it. \nSeeker: My life was put on a pause and I still can't believe it's november already. \n\n",
+    "seeker_utterance": "My life was put on a pause and I still can't believe it's november already. \n\n",
+    "supporter_response": "I also have stopped going out since the pandemic started. ",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 2.0,
+      "Task": null
+    }
+  },
+  "100_w168": {
+    "sample_id": "100_w168",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: You know what? Actually, one of the things is that I read is that is that's one of the things you gotta do is just, uh, start your own business. You know what I mean? Uh, you don't have to report to anybody. I mean, obviously, I can't work with, um-- unless I get a waiver I can't work with, like, I think the law says I can't work with kids or, um, like a hazmat stuff.\nTherapist: Mm-hmm.\nClient: Like truck driving and stuff like that.\nTherapist: Mm-hmm.\nClient: Uh, but that doesn't matter to me. You know what I- you know, I'm kind of- I'm trying to look at the things that I can do.",
+    "seeker_utterance": "Uh, but that doesn't matter to me. You know what I- you know, I'm kind of- I'm trying to look at the things that I can do.",
+    "supporter_response": "Well, that, you know, now that's a-a really different way of looking at it than how you were looking at what you can do versus what's getting in your way that you know you can't do.",
+    "scores": {
+      "Bond": 4.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "100_w248": {
+    "sample_id": "100_w248",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: -to what they know, and, uh, and it's, uh, there is prejud- uh, prejudicial motivation, uh, and there is—\nTherapist: You're not allowed to vote.\nClient: It's really frustrating. I know.\nTherapist: And you're not allowed to vote.\nClient: I think that- I think- I think ignorance is what really—",
+    "seeker_utterance": "I think that- I think- I think ignorance is what really—",
+    "supporter_response": "That shocked me when I found that out.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_1152_w12": {
+    "sample_id": "esconv_1152_w12",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: You do not have to buy fancy clothes for the sake of other people! Maybe you could get some counselling to work on your self esteem though?\nSeeker: I see a counselor regularly. The sessions are virtual. I do wish there were some ways to figure out how to make the clothes I have look better or match better, be more organized with my wardrobe. I have a lot of problems with too many clothes that don't look good on me.\nSupporter: Have you tried shopping in second hand stores? You can often get some nice stuff there for cheap. \nSupporter: But really I think that the problem is your self esteem, not what you are wearing. \nSeeker: Yes! I love second hand stores! So I should not care so much what they say about me?",
+    "seeker_utterance": "Yes! I love second hand stores! So I should not care so much what they say about me?",
+    "supporter_response": "Right! To be honest I suspect that it's far more their problem than it is yours. ",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 2.0,
+      "Task": 3.0
+    }
+  },
+  "100_w156": {
+    "sample_id": "100_w156",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Oh, okay.\nTherapist: They are your experts.\nClient: Very interesting.\nTherapist: And, uh, they-they are actually, uh, uh, much what you have said, they said, but they also, uh, uh, talked about which places and companies they did find were open. For instance, family-owned businesses just tend to-- They can, if they can--\nClient: Yeah, again, it's like who you know, right?",
+    "seeker_utterance": "Yeah, again, it's like who you know, right?",
+    "supporter_response": "Right, right.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "76_w28": {
+    "sample_id": "76_w28",
+    "dataset": "AnnoMI",
+    "pool_type": "eval",
+    "dialogue_context": "Client: Mm-hmm.\nTherapist: -the reality is inner peace and inner harmony is based around, you know, self-self worth, and you know, self-- and-and dealing with-\nClient: Self love.\nTherapist: -self love.\nClient: Yeah, mm-hmm, yeah. [crosstalk] And that it's not selfish.",
+    "seeker_utterance": "Yeah, mm-hmm, yeah. [crosstalk] And that it's not selfish.",
+    "supporter_response": "Yeah that's not selfish. And so you feel as though you can help, you can be of help to others, um, just as long as it's not detrimental to yourself. It's true.",
+    "scores": {
+      "Bond": 4.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_1272_w31": {
+    "sample_id": "esconv_1272_w31",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Seeker: do you mean um....cheap med? cerebral seems to be an antidepressant when i googled\n\nSupporter: check the website q and a\nSeeker: oh wait nevermind i spoke too soon\n\nSupporter: for cups\nmaybe thers a contact you can email to try to regain access\nSeeker: Yeah definitely, I should try contacting their support to try and restore my account\n",
+    "seeker_utterance": "Yeah definitely, I should try contacting their support to try and restore my account\n",
+    "supporter_response": "they are doing so much things now, you just gotta get on google and see whats out there! ",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_771_w21": {
+    "sample_id": "esconv_771_w21",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: Did her being depressed have an effect on you?\nSeeker: Naturally, I wanted to help her, even though I felt somewhat uncomfortable at first\nSupporter: of course you were sympathetic towards her pain, that is totally understandable. \nSeeker: So I stuck with her and saw her become better\nSeeker: even made some friends along the way\n",
+    "seeker_utterance": "even made some friends along the way\n",
+    "supporter_response": "That sounds great, that you were able to help her out in that way.",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_87_w3": {
+    "sample_id": "esconv_87_w3",
+    "dataset": "ESConv",
+    "pool_type": "eval",
+    "dialogue_context": "Supporter: Good evening, how are you feeling today? \nSeeker: I am feeling okay I am kind of stressed\nSeeker: How are you?\n",
+    "seeker_utterance": "How are you?\n",
+    "supporter_response": "I am sorry, I gather life is not going well for you right now? Would you like to talk about it? ",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_78_w24": {
+    "sample_id": "esconv_78_w24",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Supporter: I had the same concerns, as I had issues with the job market when the pandemic first started but I reached out to a hiring agency and they were able to find me a job. \n\nSeeker: Because of COVID-19 many people have loss their jobs \nSupporter: I lost mine when the pandemic first started. \n\nSeeker: Thank you for every thing I will try to reach out for hiring agencies for new job\nSeeker: Bye for now.",
+    "seeker_utterance": "Bye for now.",
+    "supporter_response": "Not a problem!! If you ever need anything else just reach out and let us know!\n",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "annomi_66_w16": {
+    "sample_id": "annomi_66_w16",
+    "dataset": "AnnoMI",
+    "pool_type": "dev",
+    "dialogue_context": "Client: Well, I don't think too much trouble in taking the medicines, especially since I understand my blood sugar is really high. and-\nTherapist: So that's easy to do.\nClient: Yeah, I'm pretty- I'm pretty good at taking drugs.\nTherapist: Yeah. 'Cause it looks like you need to just take your medicine, uh, uh, once a day from-from the prescription. So that sounds doable right now.\nClient: Yeah. I think I could probably do that.",
+    "seeker_utterance": "",
+    "supporter_response": "Okay. The other things that need to be worked on over time certainly would be changing your eating habits, you know, to eat- eat healthier, uh, not necessarily less, but healthier. And the other thing would be getting, um, some more physical activity. And by the way, that doesn't mean going to a gym. That means things like more walking, maybe using stairs instead of an elevator or an escalator, stuff like that. Uh.",
+    "scores": {
+      "Bond": 1.0,
+      "Goal": 4.0,
+      "Task": 3.0
+    }
+  },
+  "esconv_454_w5": {
+    "sample_id": "esconv_454_w5",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: Hello I am having pro\\blems with a friend\n\nSupporter: I am so so sorry to hear that. \nSupporter: What has been going on?\nSeeker: Sometimes she is very friendly, but sometimes she is super rude\n\n\nSeeker: In a way that is so rude that it has never happened before by someone who I consider a friend\n",
+    "seeker_utterance": "",
+    "supporter_response": "Oh wow, it sounds like shes not a very good frined. ",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_820_w12": {
+    "sample_id": "esconv_820_w12",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: thinking about it makes me frustrating and sad\nSupporter: That is understandable.  So you aren't having to discontinue your studies immediately?  \nSeeker: i have discontinued it already\nSupporter: Okay, thank you for clarifying :-)  Your frustration is understandable.  Having a job while being in school can be tough, that is true.  However if you are discerning you could get a job that would have flexible hours, especially if you let them know beforehand that you're planning on getting back into school as soon as possible.  \nSeeker: yes. thank you for concern",
+    "seeker_utterance": "",
+    "supporter_response": "When I was in college, I worked for the school and the library.  It was not a lot of money, but in addition to a small check, it made me more indispensable to the university.  ",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 2.0,
+      "Task": 3.0
+    }
+  },
+  "esconv_1263_w13": {
+    "sample_id": "esconv_1263_w13",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Supporter: I can understand the situation you are going through. You are working hard and keep doing it and try to mediate for few minutes in a day. Hope that will release your stress.\nSeeker: Okay, meditation. I can do that. \nSeeker: But what else can I do?\nSupporter: When I am in stress I do mediation and it gives me relaxation and a new way to think. sometime our body and mind need peace to work better.\nSeeker: I've never meditated before. I'm not sure how. I even worry about meditating, my goodness.",
+    "seeker_utterance": "",
+    "supporter_response": "Mediation is just to concentrate on your breath. There are so many videos on internet. You can take short break when you feel exhausted and talk to friend and family for a while. It will help you. ",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 4.0,
+      "Task": 3.0
+    }
+  },
+  "esconv_296_w29": {
+    "sample_id": "esconv_296_w29",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Supporter: have you tried to go to place and talk to a hiring boss about a job?\nSeeker: It's hard with this virus to go anywhere pretty much\n\nSupporter: yes i can understand that.\nSeeker: Worst time to graduate\n\nSeeker: Haven't even got the graduation ceremony lol\n",
+    "seeker_utterance": "",
+    "supporter_response": "all you can honestly really do right now is to try to improve your resume and see if that helps any and just keep searching for jobs and putting in applications and i know you will get a call from a job soon ",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 1.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_1053_w14": {
+    "sample_id": "esconv_1053_w14",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: Yea i suppose your right. Btw yes i love to soak in the tub with a bath bomb and a good book. Yea no one really seems to understand what us mothers go through on a daily basis. I'm glad it's not just me who sees it.\nSupporter: Well there you go. Go run you a hot bath. Toss in a bath bomb, and grab your favorite novel or new novel and soak your troubles away!\nSeeker: Your right. He won't hurt them. Not with what is at risk. I'mma enjoy myself till they come back tonight. Thank you so much!\nSupporter: Of course sweetie, just remember to take care of you. There is still a woman under the mother. A lot of moms forget that and neglect themselves.\nSeeker: Yea after so long you just go with I'm a mom as your identity. I'm still a woman. I'm actually starting to talk to a new guy it's kinda exciting. ",
+    "seeker_utterance": "",
+    "supporter_response": "Oh that's exciting! You get to start dating again! I didn't look forward it myself mainly because im jaded and have little faith in men XD. What do you look for in a man?",
+    "scores": {
+      "Bond": 5.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_925_w21": {
+    "sample_id": "esconv_925_w21",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Supporter: It will not be a quick process that i can heal right now. The best way to get out of it is to see a professional. There are many out there that work on a sliding scale or even free. They will help guide you back to yourself.\nSeeker: I think so, do i need to concentrate on the activities like achieve my goal\n\nSupporter: Yes do you have any specific goals right now? or even hobbies you are working on?\nSeeker: yes i need to get a good job\n\nSupporter: I know its tough out there for that as well. I had gotten furloughed but i didnt let pride get in the way and took what i could find for now.",
+    "seeker_utterance": "",
+    "supporter_response": "Have you worked on your resume or updated it?",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 4.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_1260_w16": {
+    "sample_id": "esconv_1260_w16",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: yes very stessful. I want more kids.  I have only had 2 of my own, 1 with my wfie 1 with my former partner.\n\nSupporter: I see. And is it a deal breaker for you if you cannot have any more kids? Would you be willing to stay with your wife and be content with the children you already have?\nSeeker: no not a huge deal breaker.  But it is at the same time.\n\nSeeker: Its a hard situation\n\nSupporter: I understand, it is a very difficult situation",
+    "seeker_utterance": "",
+    "supporter_response": "What is more important to you? Your relationship with your wife or having another child?",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 4.0,
+      "Task": null
+    }
+  },
+  "esconv_774_w15": {
+    "sample_id": "esconv_774_w15",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: No they just said they just thought I was busy and couldn't attend\nSeeker: so im bitter sad about the situation and don't how to address it\nSupporter: It's understandable for you to feel doubtful. I would give them another chance, suggesting a virtual happy hour and see what they say now hat they no longer have covid excuse\nSeeker: I was actually thinking about that just wasn't sure about it\nSeeker: I really thought we were better than this but I guess not",
+    "seeker_utterance": "",
+    "supporter_response": "you can never know people until something happens",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_1053_w2": {
+    "sample_id": "esconv_1053_w2",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Supporter: Hey i hear your going through a divorce\nSeeker: Yes it's been a harrowing ordeal",
+    "seeker_utterance": "",
+    "supporter_response": "Oh I understand i went through one a few years ago",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 2.0,
+      "Task": null
+    }
+  },
+  "esconv_1055_w27": {
+    "sample_id": "esconv_1055_w27",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: i dont know, he gets mad when i touch him. he wont divorce me either as he wont want to give me money from the divorce\n\nSupporter: You don't need permission for a divorce in the US. Where do you live?\n\nSeeker: i live in Chicago\n\nSeeker: but i wont be able to support my self and i dont want to be a divorcee\n\nSeeker: i am married to a lawyer and people look up to me\n",
+    "seeker_utterance": "",
+    "supporter_response": "Does other people's admiration mean that much, more than an unhappy marriage? Also: if your husband finds out about your affair, what would happen?",
+    "scores": {
+      "Bond": 1.0,
+      "Goal": 1.0,
+      "Task": null
+    }
+  },
+  "esconv_464_w15": {
+    "sample_id": "esconv_464_w15",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: How did you start to feel better?\n\nSupporter: I focused a lot on myself and making more time to do some of the hobbies that I didn't get a chance to do when we were together.\n\nSeeker: I wouldn't even know where to begin. I don't want to do anything right now.\n\nSupporter: I know things are really hard right now, but I know you will make it through this!\n\nSeeker: Thanks, I appreciate it. What do you suggest I should do to begin with?\n",
+    "seeker_utterance": "",
+    "supporter_response": "Have you talked to her since she broke up with you? Sometimes it helps to talk with your ex so you can get closure on the situation. \n",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 4.0,
+      "Task": 4.0
+    }
+  },
+  "esconv_485_w15": {
+    "sample_id": "esconv_485_w15",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Supporter: i dont think thats fair on his part. Even though you both are having a hard time he should try to be patient as well\nSupporter: Do your kids know about the situation or have you been keeping this from them?\nSeeker: I wish he would. He sees me taking care of our 4 kids, cleaning, cooking taking care of the animals and he still does nothing\nSeeker: The see everytime we fight. He usually gets loud and then I get loud. My oldest, 13, sees how he is acting. \nSeeker: Today marks day 4 that he has been in the room playing games only coming out to get a drink",
+    "seeker_utterance": "",
+    "supporter_response": "heres what i think. You should try to explain to your kids the situation. At least your oldest so they understand why this is happening and that its not their fault.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 2.0,
+      "Task": 4.0
+    }
+  },
+  "esconv_1144_w8": {
+    "sample_id": "esconv_1144_w8",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Supporter: I'm sorry to hear that but if i may hear your you clearly, what you are saying is that you don't have any job for a long time now\nSeeker: Well, I am fortunate to have a job, but I am seeking a different job because the one I have does not pay what my skills are worth.  It barely pays enough for me to pay my essential bills.\n\nSupporter: ok, that is a bit of relief \n\nSupporter: have u check for job vacancy in your state\nSeeker: I have, but there are few decent jobs out there. Most available jobs are in locations where one can not drive safely or their personal safety is at risk.",
+    "seeker_utterance": "",
+    "supporter_response": "oh, safety is everything. have you ever consider changing your location. i once change my location to pursue my goal and it pan out well",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 4.0,
+      "Task": 3.0
+    }
+  },
+  "annomi_29_w2": {
+    "sample_id": "annomi_29_w2",
+    "dataset": "AnnoMI",
+    "pool_type": "dev",
+    "dialogue_context": "Therapist: Yeah. Well, I'm so glad that you reached out for help, um, and just know that you're not alone. And-and so, yeah, is that okay if I share a little bit about, um, how I tend to work with clients on that topic?\nClient: Yes, please.\nTherapist: Yeah. Well, um, first of all, I really am passionate about looking at the whole picture, um, physical health and emotional wellbeing and what I found in working with clients in the past is when, um, we make a focus of weight loss, sometimes, uh, physical health improves, but at the cost of emotional wellbeing.\nClient: Mm-hmm.\nTherapist: Um, many people find that when then- when they are restricting their intake or starting some, uh, ac-activity patterns that are really rigorous, that, um, a piece of their mental health suffers because they start to obsess, um, more than they'd like to be about those things. So, my approach with clients is just a more holistic approach. Looking at certainly some behavior changes that you could make to be more physically active, improve your energy levels.",
+    "seeker_utterance": "",
+    "supporter_response": "Um, and also look at activities that enhance your mood. We can also take a look at some dietary patterns and see if-if there are ways you could tweak how you're fueling your body throughout the day, but at the same time, sort of letting go of what happens on the scale. Letting go of, um, the final, you know, weight outcome of that, and really focusing instead on healing your relationship with food and also adopting sustainable physical activity patterns. What do you make of all that?",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 4.0,
+      "Task": 4.0
+    }
+  },
+  "esconv_1263_w22": {
+    "sample_id": "esconv_1263_w22",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: I'm so close to getting  my degree, and it's been a long time coming!\nSupporter: Is there something else that I can help you with? The time will go fast. don't worry\nSeeker: I know, only two months left! And I only had two classes left this semester, so maybe that's why I keep dreaming I've forgotten a class.\nSeeker: Did you have a similar experience sometime?\nSupporter: You can do it I am pretty sure. Keep working on your goal.",
+    "seeker_utterance": "",
+    "supporter_response": "I had such kind of anxiety when I was in college. The best way to come out from it is to stay focused and calm.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": 2.0
+    }
+  },
+  "esconv_347_w18": {
+    "sample_id": "esconv_347_w18",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Supporter: I have found that being in isolation lowers my immunity, and if I want to be healthy, fresh air, loving friends, exercise, good healthy food is the way to do it, not isolation and loneliness. That affect me emotionally and I don't want to despair, that makes me feel terrible. It doesn't feel healthy, and we know no one that has died either.  But if you are not going to go out, do you have goals to help you not feel lonely, any ideas? Any thoughts on how you can fix this so you don't feel so lonely?\nSeeker: you are absolutely right. i just try to divert my mind on entertainment and cooking . my work burden increased to a greater extent.\nSupporter: You might even want to call your friends and colleagues to see if any of them are meeting up. We are social creatures. We need to socialize. \nSeeker: i can't afford much time .\nSeeker: considering the present situation, its bad for all of us to get socialized.",
+    "seeker_utterance": "",
+    "supporter_response": "I'm sure you are busy, but realize, your emotional health is important too and we always need to make time to connect with people. ",
+    "scores": {
+      "Bond": 1.0,
+      "Goal": 1.0,
+      "Task": 1.0
+    }
+  },
+  "esconv_214_w17": {
+    "sample_id": "esconv_214_w17",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: Yes, I have spend a lot of time with my family so that help me from getting depressed. So thats a positive\n\nSupporter: yes hopfully you can find some new skills and a new job soon there are so many new doors opening for online work i found some on youtube that were motivating for me you just keep searching and i sure you will soon\nSeeker: Hmm that seems like a good idea, to find video to help uplift me. Do you recommend anything?\n\nSupporter: well for me i just searched for motivational speaker or top 10 online?work from home jobs\nSeeker: That seems like a good idea, I think I will do that. thanks for the ideas and positive vibes\n",
+    "seeker_utterance": "",
+    "supporter_response": "no problem glad that i could uplift someone it lifts me up to help others ",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": null
+    }
+  },
+  "esconv_368_w24": {
+    "sample_id": "esconv_368_w24",
+    "dataset": "ESConv",
+    "pool_type": "dev",
+    "dialogue_context": "Seeker: Yes but I guess I’m trying to find that balance and struggling \nSupporter: Do you feel that you have to hit unrealistic goals and meet unrealistic expectations? \nSeeker: Oh yes all the timr\nSupporter: I personally sometimes find it difficult not to be too hard on myself. Sometimes I have to remind myself to relax and have fun once in a while. \nSeeker: Yes I would agree with you there. It feels harder to escape and have a fun night right now",
+    "seeker_utterance": "",
+    "supporter_response": "It has been a very hard year for everyone, I know and I sympathise. Can you think of one specific thing you'd really like to do that might cheer you up? ",
+    "scores": {
+      "Bond": 3.0,
+      "Goal": 5.0,
+      "Task": null
+    }
+  },
+  "annomi_66_w12": {
+    "sample_id": "annomi_66_w12",
+    "dataset": "AnnoMI",
+    "pool_type": "dev",
+    "dialogue_context": "Therapist: So it sounds a lot like, uh, on top of the fact that you've got something you're really scared about having consequences in terms of everything that can happen, what worries you also is all the different things that she told you you're going to need to do to get it under control. Can't imagine doing all those things, so you almost feel like all that bad stuff's gonna happen.\nClient: Yeah. It looks like a massive task that I'm may not be able to handle. And then, yeah, all this horrible stuff happens to me. I mean, it's- it's a bleak-looking situation and a lot worse.\nTherapist: Okay. And I-- And what I want to do is help you kind of break this up into some-some doable chunks so that we can get your blood sugar down. I, you know, on the one hand, your doctor is right, you know. Your blood sugar is very high and we do wanna get it down so that we don't have those consequences happen. Uh, and-and there are a number of things that you need to do in order to-to get your blood sugar down. Um, you know, on the other hand, we can take this a step at a time, so it's not so overwhelming.\nTherapist: And I'd like you to be able to tell me what kinds of things that you can do right now. You know, for example, there- there's basically three things that need to be worked out with diabetes. Taking your medicine as prescribed. And honestly, if I was gonna work on one thing right away, given that everything seems so overwhelming would probably that-that first, because that'll have the biggest impact. How-how does that sound so far?\nClient: Well, I don't think too much trouble in taking the medicines, especially since I understand my blood sugar is really high. and-",
+    "seeker_utterance": "",
+    "supporter_response": "So that's easy to do.",
+    "scores": {
+      "Bond": 2.0,
+      "Goal": 3.0,
+      "Task": 3.0
+    }
+  }
+}

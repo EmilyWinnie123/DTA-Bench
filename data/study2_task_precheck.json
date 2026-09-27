@@ -1,0 +1,30 @@
+{
+  "Human": {
+    "total_candidates": 200,
+    "has_task_count": 22,
+    "task_content_ratio_pct": 11.0,
+    "na_count": 178,
+    "na_rate_pct": 89.0
+  },
+  "llama-3.1-70b": {
+    "total_candidates": 200,
+    "has_task_count": 200,
+    "task_content_ratio_pct": 100.0,
+    "na_count": 0,
+    "na_rate_pct": 0.0
+  },
+  "gpt-4o": {
+    "total_candidates": 200,
+    "has_task_count": 200,
+    "task_content_ratio_pct": 100.0,
+    "na_count": 0,
+    "na_rate_pct": 0.0
+  },
+  "claude-3-5-sonnet": {
+    "total_candidates": 200,
+    "has_task_count": 200,
+    "task_content_ratio_pct": 100.0,
+    "na_count": 0,
+    "na_rate_pct": 0.0
+  }
+}

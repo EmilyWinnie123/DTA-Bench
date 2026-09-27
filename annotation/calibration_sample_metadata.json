@@ -1,0 +1,194 @@
+[
+  {
+    "sample_id": "annomi_29_w2",
+    "dataset": "AnnoMI",
+    "transcript_id": "29",
+    "primary_category": "E2_vent_but_advised",
+    "all_hit_categories": [
+      "E2_vent_but_advised",
+      "E4_question_only"
+    ]
+  },
+  {
+    "sample_id": "esconv_1053_w14",
+    "dataset": "ESConv",
+    "transcript_id": "esconv_1053",
+    "primary_category": "E2_vent_but_advised",
+    "all_hit_categories": [
+      "E2_vent_but_advised",
+      "E4_question_only"
+    ]
+  },
+  {
+    "sample_id": "esconv_296_w29",
+    "dataset": "ESConv",
+    "transcript_id": "esconv_296",
+    "primary_category": "E2_vent_but_advised",
+    "all_hit_categories": [
+      "E2_vent_but_advised",
+      "E3_premature_advice",
+      "E8_generic_fluent"
+    ]
+  },
+  {
+    "sample_id": "esconv_464_w15",
+    "dataset": "ESConv",
+    "transcript_id": "esconv_464",
+    "primary_category": "E3_premature_advice",
+    "all_hit_categories": [
+      "E3_premature_advice"
+    ]
+  },
+  {
+    "sample_id": "esconv_774_w15",
+    "dataset": "ESConv",
+    "transcript_id": "esconv_774",
+    "primary_category": "E3_premature_advice",
+    "all_hit_categories": [
+      "E3_premature_advice"
+    ]
+  },
+  {
+    "sample_id": "esconv_925_w21",
+    "dataset": "ESConv",
+    "transcript_id": "esconv_925",
+    "primary_category": "E4_question_only",
+    "all_hit_categories": [
+      "E4_question_only"
+    ]
+  },
+  {
+    "sample_id": "esconv_368_w24",
+    "dataset": "ESConv",
+    "transcript_id": "esconv_368",
+    "primary_category": "E4_question_only",
+    "all_hit_categories": [
+      "E4_question_only"
+    ]
+  },
+  {
+    "sample_id": "esconv_1260_w16",
+    "dataset": "ESConv",
+    "transcript_id": "esconv_1260",
+    "primary_category": "E4_question_only",
+    "all_hit_categories": [
+      "E4_question_only"
+    ]
+  },
+  {
+    "sample_id": "esconv_485_w15",
+    "dataset": "ESConv",
+    "transcript_id": "esconv_485",
+    "primary_category": "E5_comparison_comfort",
+    "all_hit_categories": [
+      "E2_vent_but_advised",
+      "E3_premature_advice",
+      "E5_comparison_comfort"
+    ]
+  },
+  {
+    "sample_id": "esconv_1055_w27",
+    "dataset": "ESConv",
+    "transcript_id": "esconv_1055",
+    "primary_category": "E5_comparison_comfort",
+    "all_hit_categories": [
+      "E4_question_only",
+      "E5_comparison_comfort"
+    ]
+  },
+  {
+    "sample_id": "esconv_1144_w8",
+    "dataset": "ESConv",
+    "transcript_id": "esconv_1144",
+    "primary_category": "E6_constraint_ignored",
+    "all_hit_categories": [
+      "E3_premature_advice",
+      "E6_constraint_ignored"
+    ]
+  },
+  {
+    "sample_id": "esconv_347_w18",
+    "dataset": "ESConv",
+    "transcript_id": "esconv_347",
+    "primary_category": "E6_constraint_ignored",
+    "all_hit_categories": [
+      "E3_premature_advice",
+      "E6_constraint_ignored"
+    ]
+  },
+  {
+    "sample_id": "annomi_66_w16",
+    "dataset": "AnnoMI",
+    "transcript_id": "66",
+    "primary_category": "E8_generic_fluent",
+    "all_hit_categories": [
+      "E3_premature_advice",
+      "E8_generic_fluent"
+    ]
+  },
+  {
+    "sample_id": "esconv_1263_w13",
+    "dataset": "ESConv",
+    "transcript_id": "esconv_1263",
+    "primary_category": "E8_generic_fluent",
+    "all_hit_categories": [
+      "E3_premature_advice",
+      "E8_generic_fluent"
+    ]
+  },
+  {
+    "sample_id": "esconv_1263_w22",
+    "dataset": "ESConv",
+    "transcript_id": "esconv_1263",
+    "primary_category": "E9_self_disclosure",
+    "all_hit_categories": [
+      "E9_self_disclosure"
+    ]
+  },
+  {
+    "sample_id": "esconv_820_w12",
+    "dataset": "ESConv",
+    "transcript_id": "esconv_820",
+    "primary_category": "E9_self_disclosure",
+    "all_hit_categories": [
+      "E8_generic_fluent",
+      "E9_self_disclosure"
+    ]
+  },
+  {
+    "sample_id": "esconv_1053_w2",
+    "dataset": "ESConv",
+    "transcript_id": "esconv_1053",
+    "primary_category": "E9_self_disclosure",
+    "all_hit_categories": [
+      "E9_self_disclosure"
+    ]
+  },
+  {
+    "sample_id": "esconv_214_w17",
+    "dataset": "ESConv",
+    "transcript_id": "esconv_214",
+    "primary_category": "CONTROL",
+    "all_hit_categories": [
+      "CONTROL"
+    ]
+  },
+  {
+    "sample_id": "annomi_66_w12",
+    "dataset": "AnnoMI",
+    "transcript_id": "66",
+    "primary_category": "CONTROL",
+    "all_hit_categories": [
+      "CONTROL"
+    ]
+  },
+  {
+    "sample_id": "esconv_454_w5",
+    "dataset": "ESConv",
+    "transcript_id": "esconv_454",
+    "primary_category": "CONTROL",
+    "all_hit_categories": [
+      "CONTROL"
+    ]
+  }
+]

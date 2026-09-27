@@ -1,0 +1,122 @@
+[
+  {
+    "sample_id": "esconv_885_w8",
+    "bond": 2,
+    "goal": 2,
+    "task": 2
+  },
+  {
+    "sample_id": "esconv_21_w21",
+    "bond": 4,
+    "goal": 4,
+    "task": 3
+  },
+  {
+    "sample_id": "esconv_100_w37",
+    "bond": 2,
+    "goal": 3,
+    "task": 4
+  },
+  {
+    "sample_id": "esconv_770_w19",
+    "bond": 2,
+    "goal": 2,
+    "task": 3
+  },
+  {
+    "sample_id": "esconv_464_w5",
+    "bond": 3,
+    "goal": 2,
+    "task": 2
+  },
+  {
+    "sample_id": "esconv_632_w19",
+    "bond": 2,
+    "goal": 2,
+    "task": 4
+  },
+  {
+    "sample_id": "esconv_1070_w1",
+    "bond": 2,
+    "goal": "NA",
+    "task": "NA"
+  },
+  {
+    "sample_id": "esconv_1008_w30",
+    "bond": 2,
+    "goal": 2,
+    "task": 2
+  },
+  {
+    "sample_id": "esconv_795_w4",
+    "bond": 2,
+    "goal": 2,
+    "task": 2
+  },
+  {
+    "sample_id": "esconv_97_w22",
+    "bond": 3,
+    "goal": 3,
+    "task": 4
+  },
+  {
+    "sample_id": "esconv_132_w16",
+    "bond": 4,
+    "goal": 4,
+    "task": 3
+  },
+  {
+    "sample_id": "esconv_894_w25",
+    "bond": 3,
+    "goal": 3,
+    "task": 2
+  },
+  {
+    "sample_id": "esconv_540_w18",
+    "bond": 2,
+    "goal": 2,
+    "task": 2
+  },
+  {
+    "sample_id": "esconv_915_w11",
+    "bond": 3,
+    "goal": 4,
+    "task": 2
+  },
+  {
+    "sample_id": "esconv_599_w24",
+    "bond": 2,
+    "goal": 2,
+    "task": 2
+  },
+  {
+    "sample_id": "esconv_1008_w9",
+    "bond": 2,
+    "goal": 2,
+    "task": 4
+  },
+  {
+    "sample_id": "esconv_190_w25",
+    "bond": 2,
+    "goal": 2,
+    "task": 2
+  },
+  {
+    "sample_id": "esconv_1021_w12",
+    "bond": 2,
+    "goal": 2,
+    "task": 3
+  },
+  {
+    "sample_id": "esconv_1050_w18",
+    "bond": 2,
+    "goal": 2,
+    "task": 2
+  },
+  {
+    "sample_id": "esconv_78_w24",
+    "bond": 2,
+    "goal": 3,
+    "task": 3
+  }
+]

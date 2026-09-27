@@ -1,0 +1,16 @@
+# Environment secrets
+.env
+.env.local
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Logs & temporary files
+*.log
+cache/*.log
+temp_hf_esconv/
+
