@@ -187,15 +187,7 @@ Outputs will be saved in `reports/study2_statistical_analysis_report.json`.
 
 ---
 
-## 📜 Citation & License
+## 📜 License
 
-This project is released under the [MIT License](LICENSE). 
+This project is released under the [MIT License](LICENSE).
 
-If you use this benchmark, rubric, or code in your research, please cite:
-```bibtex
-@article{dta_bench_2026,
-  title={Evaluating Digital Therapeutic Alliance in Supportive Dialogue: A Dual-Judge Blind Evaluation Benchmark},
-  author={DTA Project Team},
-  year={2026}
-}
-```
